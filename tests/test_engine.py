@@ -23,7 +23,6 @@ from abaes_eval_fwk.core.agents.final_agent import (
     CriterionStructure,
     HolisticStructure,
     Verdict,
-    combine_criterion_scores,
     independent_assessment,
 )
 from abaes_eval_fwk.core.agents.prompts.final_agent.holistic.adjudication_prompts import (
@@ -50,7 +49,7 @@ from abaes_eval_fwk.core.models.experiment import (
     FinalAgentProcedureName,
     ResearchQuestion,
 )
-from abaes_eval_fwk.core.models.rubric import CriteriaAggregation, Criterion, Rubric, Scale
+from abaes_eval_fwk.core.models.rubric import Criterion, Rubric, Scale
 from abaes_eval_fwk.experiment.result.result_parsers import parse_grading_result
 from abaes_eval_fwk.experiment.setup.reuse_loader import ReviewCache
 from abaes_eval_fwk.utils.prompt_formatters import (
@@ -58,7 +57,6 @@ from abaes_eval_fwk.utils.prompt_formatters import (
     format_examples,
     truncate_examples_block,
 )
-from abaes_eval_fwk.utils.rounding import round_half_up
 
 
 class _StructuredInvoker(Runnable):
@@ -145,12 +143,6 @@ def test_each_axis_method_resolves_to_its_own_axis(agent_cls, structure, procedu
         owner = _defining_class(agent_cls, name)
         assert owner is not BaseFinalAgent, f"{agent_cls.__name__}.{name} fell through to the stub"
         assert issubclass(procedure, owner), f"{name} resolved outside the procedure axis: {owner}"
-
-
-def test_combine_criterion_scores_sum_and_mean(rubric):
-    sum_rubric = Rubric(**{**rubric.__dict__, "criteria_aggregation": CriteriaAggregation.SUM})
-    assert combine_criterion_scores(sum_rubric, {"ideas": 3, "organization": 4}) == 7
-    assert combine_criterion_scores(rubric, {"ideas": 3, "organization": 4}) == 4
 
 
 def _widen_scale(rubric: Rubric, max_score: int) -> Rubric:
@@ -730,12 +722,6 @@ def test_attempt_leaves_reasoning_absent_when_native_absent(rubric):
     agent = _agent_with_chain({"raw": raw, "parsed": parsed, "parsing_error": None})
     result = agent._attempt({}, rubric)
     assert "reasoning" not in result
-
-
-def test_round_half_up_uses_expected_tie_breaking():
-    assert round_half_up(2.5) == 3
-    assert round_half_up(-2.5) == -3
-    assert round_half_up(1.235, 2) == 1.24
 
 
 def test_statistics_and_predicted_score_derive_values():

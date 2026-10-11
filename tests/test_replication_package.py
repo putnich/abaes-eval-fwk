@@ -181,6 +181,7 @@ def adjudication_command(*args):
     )
 
 
+@pytest.mark.integration
 def test_adjudication_command_writes_the_same_outcomes(outcomes, tmp_path):
     benchmark = initialize(tmp_path / "study", "study")
     result = adjudication_command(
@@ -199,6 +200,7 @@ def test_adjudication_command_writes_the_same_outcomes(outcomes, tmp_path):
     )
 
 
+@pytest.mark.integration
 def test_adjudication_command_needs_sources_or_reviews(tmp_path):
     result = adjudication_command(initialize(tmp_path / "study", "study"))
     assert result.returncode == 1

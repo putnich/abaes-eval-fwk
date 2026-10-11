@@ -16,6 +16,4 @@ include docs/extensions.md
 include docs/models.md
 include docs/packaging.md
 include docs/playground.md
-recursive-include scripts *.sh *.py
-recursive-include tests *.py *.json *.jsonl *.toml *.md *.txt
-recursive-include tests/fixtures METADATA
+recursive-include tests *.py *.json *.jsonl

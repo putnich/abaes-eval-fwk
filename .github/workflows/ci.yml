@@ -1,10 +1,14 @@
 name: Framework checks
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      # Steps that run the framework go only to pull requests into main, pushes to main, and
+      # manual runs; other pushes run the unit tests.
+      INTEGRATION: ${{ github.base_ref == 'main' || github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch' }}
     strategy:
       matrix:
         python: ['3.11', '3.12', '3.13', '3.14']
@@ -17,8 +21,11 @@ jobs:
       - run: ruff check .
       - run: ruff format --check .
       - run: python -m pytest
+      - if: env.INTEGRATION == 'true'
+        run: python -m pytest -m integration
       - run: python -m build
       - name: Verify installed wheel outside checkout
+        if: env.INTEGRATION == 'true'
         run: |
           python -m pip install --force-reinstall --no-deps dist/*.whl
           cd "$RUNNER_TEMP"

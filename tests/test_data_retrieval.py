@@ -27,7 +27,6 @@ from abaes_eval_fwk.experiment.setup.calibration.calibration_loader import (
 )
 from abaes_eval_fwk.experiment.setup.dataset.dataset_loader import load_dataset
 from abaes_eval_fwk.experiment.setup.rubric.rubric_loader import load_rubric
-from abaes_eval_fwk.experiment.setup.sample.data_sampler import stratified_quantile_rank_sample
 from abaes_eval_fwk.experiment.setup.setup_builder import build_setup
 
 
@@ -234,13 +233,6 @@ def test_requested_ids_must_exist_and_not_leak_calibration(custom):
     first = build_setup(custom, False, sample_size=2)
     with pytest.raises(ValueError, match="belong to calibration"):
         build_setup(custom, False, essay_ids=[first.calibration_pool.human_assessments[0].essay_id])
-
-
-def test_systematic_sampling_spans_the_score_range(custom):
-    sample = stratified_quantile_rank_sample(load_dataset(custom), 5)
-    assert sample.human_score.tolist() == [1, 2, 3, 4, 5]
-    with pytest.raises(ValueError, match="No evaluation essays"):
-        stratified_quantile_rank_sample(sample.iloc[:0], 1)
 
 
 def test_retrieval_cap_seed_and_zero_counts_are_respected(tmp_path):

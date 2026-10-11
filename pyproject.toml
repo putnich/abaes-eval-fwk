@@ -90,8 +90,8 @@ abaes_eval_fwk = ["config/config_files/*.yaml", "config/config_files/**/*.yaml",
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
-addopts = "-q --import-mode=importlib"
-markers = ["slow: builds a wheel; opt in with MAS_TEST_BUILD_WHEEL=1"]
+addopts = "-q --import-mode=importlib -m 'not integration'"
+markers = ["integration: runs the framework (CLI and playground runs); select with -m integration"]
 
 [tool.ruff]
 line-length = 100

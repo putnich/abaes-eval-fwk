@@ -1,7 +1,7 @@
 PYTHON ?= python
 PIP ?= pip
 
-.PHONY: help install precommit lint format format-check typecheck test coverage build clean playground study
+.PHONY: help install precommit lint format format-check typecheck test test-integration coverage build clean playground study
 
 help:
 	@echo "install        Install the framework + dev dependencies"
@@ -10,7 +10,8 @@ help:
 	@echo "format         Apply ruff format"
 	@echo "format-check   Check ruff format without writing"
 	@echo "typecheck      Run mypy (requires: pip install mypy)"
-	@echo "test           Run pytest"
+	@echo "test           Run unit tests"
+	@echo "test-integration Run integration tests (they run the framework)"
 	@echo "coverage       Run pytest under coverage"
 	@echo "build          Build sdist + wheel"
 	@echo "clean          Remove build/test artifacts"
@@ -38,6 +39,9 @@ typecheck:
 
 test:
 	$(PYTHON) -m pytest
+
+test-integration:
+	$(PYTHON) -m pytest -m integration
 
 coverage:
 	$(PIP) install coverage

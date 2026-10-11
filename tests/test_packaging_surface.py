@@ -1,25 +1,15 @@
-"""Pin the reader-facing packaging surface: the demo, the extension example, and the docs.
+"""Pin the reader-facing packaging surface: the shipped docs and the declared packages.
 
-The static tests assert what setuptools is told to collect, which is the configuration a wheel
-build actually reads. `test_wheel_contains_reader_surface` builds a real wheel to confirm that
-configuration still produces those files, but only when MAS_TEST_BUILD_WHEEL=1 is set.
+These tests assert what setuptools is told to collect, which is the configuration a wheel build
+actually reads.
 """
 
 from __future__ import annotations
 
-import os
-import shutil
-import subprocess
-import sys
 import tomllib
-import zipfile
 from pathlib import Path
 
-import pytest
-
 ROOT = Path(__file__).resolve().parents[1]
-
-DEMO_FILES = ("demo.csv", "demo-rubric.yaml", "benchmark.yaml")
 
 
 def _pyproject() -> dict:
@@ -112,50 +102,3 @@ def test_declared_packages_match_the_source_tree():
     }
     on_disk.add("abaes_eval_fwk")
     assert on_disk - declared == set()
-
-
-@pytest.mark.slow
-@pytest.mark.skipif(
-    os.environ.get("MAS_TEST_BUILD_WHEEL") != "1",
-    reason="set MAS_TEST_BUILD_WHEEL=1 to build a wheel and check its contents",
-)
-def test_wheel_contains_reader_surface(tmp_path):
-    """Confirm the declared configuration yields the reader files in a real wheel archive."""
-    source = tmp_path / "src-tree"
-    shutil.copytree(
-        ROOT,
-        source,
-        ignore=shutil.ignore_patterns(
-            ".venv",
-            ".git",
-            "build",
-            "dist",
-            "__pycache__",
-            "*.egg-info",
-            ".pytest_cache",
-            ".ruff_cache",
-            "demo/runs",
-            "runs",
-        ),
-    )
-    built = subprocess.run(
-        [
-            sys.executable,
-            "-m",
-            "build",
-            "--wheel",
-            "--outdir",
-            str(tmp_path / "out"),
-            str(source),
-        ],
-        capture_output=True,
-        text=True,
-    )
-    assert built.returncode == 0, built.stdout + built.stderr
-    wheels = list((tmp_path / "out").glob("*.whl"))
-    assert len(wheels) == 1, wheels
-    with zipfile.ZipFile(wheels[0]) as archive:
-        names = set(archive.namelist())
-    for name in ("configuration.md", "models.md", "datasets.md", "architecture/README.md"):
-        assert f"abaes_eval_fwk/reader_docs/{name}" in names, name
-    assert not [name for name in names if "__pycache__" in name or name.endswith(".pyc")]

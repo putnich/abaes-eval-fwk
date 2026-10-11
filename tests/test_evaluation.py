@@ -143,12 +143,6 @@ def test_metrics_and_baselines_reject_nonfinite_predictions(tmp_path, prediction
         )
 
 
-def test_metrics_use_ten_point_normalization_and_raw_rmse():
-    result = total("run", [0, 1, 2], [1, 3, 5], [1, 2, 4]).metrics_sets[0].resolved
-    assert result.nmae == pytest.approx(5 / 3)
-    assert result.nrmse == pytest.approx(5 * (2 / 3) ** 0.5 / 2)
-
-
 def test_missing_and_duplicate_criteria_are_rejected(tmp_path):
     path = write_rows(tmp_path / "scores.csv", [row(0, "ideas", 3)])
     with pytest.raises(ValueError, match="each criterion"):

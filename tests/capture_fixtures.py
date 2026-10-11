@@ -3,11 +3,7 @@ Run from framework/ with `.venv/bin/python tests/capture_fixtures.py`."""
 
 from __future__ import annotations
 
-import csv
 import json
-import os
-import subprocess
-import sys
 import tempfile
 from dataclasses import asdict
 from pathlib import Path
@@ -36,9 +32,6 @@ from abaes_eval_fwk.core.models.assessment import (
     Statistics,
     StudentSubmission,
     TokenUsage,
-    failures_fieldnames,
-    results_fieldnames,
-    review_fieldnames,
 )
 from abaes_eval_fwk.core.models.rubric import (
     CriteriaAggregation,
@@ -47,6 +40,7 @@ from abaes_eval_fwk.core.models.rubric import (
     Scale,
     ScoreLevel,
 )
+from abaes_eval_fwk.templates import initialize
 from abaes_eval_fwk.utils.prompt_formatters import truncate_examples_block
 
 FIXTURES = Path(__file__).resolve().parents[1] / "tests" / "fixtures"
@@ -196,22 +190,6 @@ class SplitFile(TypedDict):
 
     sampling: SamplingRecord
     datasets: list[SplitRecord]
-
-
-class ExperimentScores(TypedDict):
-    """One demo experiment's result rows and the scores they settled on."""
-
-    name: str
-    rows: int
-    pred_score_rounded_values: list[int]
-    raw_to_rounded: dict[str, int]
-
-
-class DemoSuiteRecord(TypedDict):
-    """The offline demo suite's captured scores, plus this fixture file's own name."""
-
-    suite_file: str
-    experiments: list[ExperimentScores]
 
 
 def fixture_rubric(scale: Scale = SCALE) -> Rubric:
@@ -702,76 +680,9 @@ def branch_records() -> list[BranchRecord]:
     return records
 
 
-def column_record() -> dict[str, list[str]]:
-    """The four frozen CSV header lists."""
-    return {
-        "results_fieldnames": results_fieldnames(),
-        "review_fieldnames_with_identity": review_fieldnames(with_identity=True),
-        "review_fieldnames": review_fieldnames(),
-        "failures_fieldnames": failures_fieldnames(),
-    }
-
-
-def cli(*args: str) -> None:
-    """Run the framework CLI in a subprocess that can import the source tree. The source path is
-    put on PYTHONPATH explicitly because this venv's editable-install .pth carries a macOS
-    hidden flag, so the subprocess would otherwise not see the package."""
-    environment = os.environ.copy()
-    source_path = str(Path(__file__).parents[1] / "src")
-    environment["PYTHONPATH"] = os.pathsep.join(
-        path for path in (source_path, environment.get("PYTHONPATH", "")) if path
-    )
-    subprocess.run(
-        [sys.executable, "-m", "abaes_eval_fwk", *args],
-        capture_output=True,
-        text=True,
-        check=True,
-        env=environment,
-    )
-
-
 def demo_benchmark(root: Path) -> Path:
-    """Initialize the offline demo template in `root` through the real CLI."""
-    target = root / "demo"
-    cli("init", str(target))
-    return target / "benchmark.yaml"
-
-
-def run_demo_suite(benchmark: Path) -> DemoSuiteRecord:
-    """Run the 12-experiment demo suite through the real CLI and read back what it produced."""
-    cli("run", str(benchmark))
-    suites = sorted((benchmark.parent / "runs" / "suites").glob("*.json"))
-    if len(suites) != 1:
-        raise RuntimeError(f"expected exactly one suite file, found {len(suites)}")
-    suite = json.loads(suites[0].read_text(encoding="utf-8"))
-    experiments: list[ExperimentScores] = []
-    for run in suite["runs"]:
-        manifest = json.loads(Path(run["manifest"]).read_text(encoding="utf-8"))
-        with Path(manifest["results"]).open(newline="", encoding="utf-8") as stream:
-            reader = csv.DictReader(stream)
-            fields = reader.fieldnames or []
-            rows = list(reader)
-        # Review-only experiments (non_grading) write verdict rows without a score column; they
-        # settle no score, so they record none rather than failing the capture.
-        grades = "pred_score_rounded" in fields
-        experiments.append(
-            ExperimentScores(
-                name=run["experiment"],
-                rows=len(rows),
-                pred_score_rounded_values=(
-                    sorted({int(row["pred_score_rounded"]) for row in rows}) if grades else []
-                ),
-                raw_to_rounded=(
-                    {
-                        str(float(row["pred_score_raw"])): int(row["pred_score_rounded"])
-                        for row in rows
-                    }
-                    if grades
-                    else {}
-                ),
-            )
-        )
-    return DemoSuiteRecord(suite_file="demo_suite.json", experiments=experiments)
+    """Initialize the offline playground template in `root`, as `init` does."""
+    return initialize(root / "demo", "playground")
 
 
 def split_record(root: Path) -> SplitFile:
@@ -824,13 +735,6 @@ def capture_branches() -> list[BranchRecord]:
     return records
 
 
-def capture_columns() -> dict[str, list[str]]:
-    """Write tests/fixtures/columns.json."""
-    record = column_record()
-    _write_json(FIXTURES / "columns.json", record)
-    return record
-
-
 def capture_splits() -> SplitFile:
     """Write tests/fixtures/splits.json from a freshly prepared demo project."""
     with tempfile.TemporaryDirectory() as directory:
@@ -839,25 +743,14 @@ def capture_splits() -> SplitFile:
     return record
 
 
-def capture_demo_suite() -> DemoSuiteRecord:
-    """Write tests/fixtures/demo_suite.json from a freshly run offline demo suite."""
-    with tempfile.TemporaryDirectory() as directory:
-        record = run_demo_suite(demo_benchmark(Path(directory)))
-    _write_json(FIXTURES / "demo_suite.json", dict(record))
-    return record
-
-
 def main() -> int:
     FIXTURES.mkdir(parents=True, exist_ok=True)
     prompts = capture_prompts()
     branches = capture_branches()
-    columns = capture_columns()
     splits = capture_splits()
-    suite = capture_demo_suite()
     print(
-        f"wrote {len(prompts)} prompts, {len(branches)} branches, {len(columns)} header lists, "
-        f"{len(splits['datasets'])} splits, and {len(suite['experiments'])} demo experiments "
-        f"to {FIXTURES}"
+        f"wrote {len(prompts)} prompts, {len(branches)} branches, and "
+        f"{len(splits['datasets'])} splits to {FIXTURES}"
     )
     return 0
 

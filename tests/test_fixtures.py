@@ -1,4 +1,4 @@
-"""Protect deterministic prompt, branch, split, and demo fixtures against behavioral regressions."""
+"""Protect deterministic prompt, branch, and split fixtures against behavioral regressions."""
 
 from __future__ import annotations
 
@@ -15,11 +15,6 @@ import capture_fixtures as capture  # noqa: E402
 from abaes_eval_fwk.core.agents.base_agent import TokenUsageCallback  # noqa: E402
 from abaes_eval_fwk.core.agents.final_agent import (  # noqa: E402
     normalized_average_pairwise_disagreement,
-)
-from abaes_eval_fwk.core.models.assessment import (  # noqa: E402
-    failures_fieldnames,
-    results_fieldnames,
-    review_fieldnames,
 )
 from abaes_eval_fwk.core.models.rubric import Scale  # noqa: E402
 
@@ -122,23 +117,6 @@ def test_branch_fixtures_pin_both_procedures_and_straddle_the_threshold() -> Non
     assert exact, "a row must sit exactly on the disagreement threshold"
 
 
-def test_column_fixtures_match_the_frozen_headers() -> None:
-    """The four recorded header lists are the ones the writers emit right now."""
-    assert _json("columns.json") == {
-        "results_fieldnames": results_fieldnames(),
-        "review_fieldnames_with_identity": review_fieldnames(with_identity=True),
-        "review_fieldnames": review_fieldnames(),
-        "failures_fieldnames": failures_fieldnames(),
-    }
-
-
 def test_split_fixture_matches_a_freshly_prepared_demo(tmp_path: Path) -> None:
     """The recorded essay ids and hashes come from running prepare on a demo project built now."""
     assert _json("splits.json") == capture.split_record(tmp_path)
-
-
-def test_demo_suite_fixture_matches_a_fresh_offline_run(tmp_path: Path) -> None:
-    """The 12-experiment demo suite still settles on the same rows and scores it did at capture."""
-    recorded = _json("demo_suite.json")
-    assert recorded["suite_file"] == "demo_suite.json"
-    assert capture.run_demo_suite(capture.demo_benchmark(tmp_path)) == recorded

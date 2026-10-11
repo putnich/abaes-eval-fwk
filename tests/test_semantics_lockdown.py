@@ -268,6 +268,8 @@ def test_evaluation_sampling_is_rank_spaced_and_consumes_no_randomness() -> None
     )
     assert stratified_quantile_rank_sample(frame, 5)["human_score"].tolist() == [1, 2, 3, 4, 5]
     assert stratified_quantile_rank_sample(frame, 1)["human_score"].tolist() == [3]
+    with pytest.raises(ValueError, match="No evaluation essays"):
+        stratified_quantile_rank_sample(frame.iloc[:0], 1)
 
 
 def test_aggregation_mode_is_sum_only_when_the_rubric_asks_for_it(rubric: Rubric) -> None:

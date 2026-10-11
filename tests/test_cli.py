@@ -76,6 +76,11 @@ def test_demo_and_full_templates_validate_without_model_calls(tmp_path):
     ordered = select_experiments(config, ["rq4-criterion-review_based"])
     assert ordered[-1].name == "rq4-criterion-review_based"
     assert len(ordered) == 5
+
+
+@pytest.mark.integration
+def test_dry_run_writes_no_runs(tmp_path):
+    full = initialize(tmp_path / "study", "study")
     result = command("run", full, "--experiment", "rq3-holistic-on", "--dry-run")
     assert result.returncode == 0, result.stderr
     assert not (full.parent / "runs").exists()
@@ -125,6 +130,7 @@ def test_controlled_comparison_rejects_an_unintended_difference(tmp_path):
         load_config(path)
 
 
+@pytest.mark.integration
 def test_reader_sampling_strategies_run_and_enter_split_configuration(tmp_path):
     path = initialize(tmp_path / "playground", "playground")
     module = path.parent / "study_sampling.py"
@@ -159,6 +165,7 @@ def evaluation(frame, n_per_set):
     assert split["sampling"]["evaluation_strategy"] == "study_sampling:evaluation"
 
 
+@pytest.mark.integration
 def test_end_to_end_suite_metrics_review_reuse_and_resume(tmp_path):
     path = initialize(tmp_path / "playground", "playground")
     # The 31-experiment offline matrix completes in about three minutes on this machine, so the
@@ -235,6 +242,7 @@ def test_end_to_end_suite_metrics_review_reuse_and_resume(tmp_path):
     assert replayed.returncode == 0, replayed.stderr
 
 
+@pytest.mark.integration
 def test_pool_average_resume_checks_provenance_before_replacing_outputs(tmp_path):
     path = initialize(tmp_path / "playground", "playground")
     result = command("run", path, "--experiment", "rq4-holistic-pool_average")
@@ -361,6 +369,7 @@ def test_live_provider_protocol_with_mock_http():
     assert response["raw"].usage_metadata["total_tokens"] == 50
 
 
+@pytest.mark.integration
 def test_partial_run_resumes_only_failed_submissions(tmp_path, monkeypatch):
     path = initialize(tmp_path / "playground", "playground")
     adapter = tmp_path / "fault_adapter.py"

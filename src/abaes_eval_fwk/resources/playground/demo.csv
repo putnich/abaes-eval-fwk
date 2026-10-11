@@ -1,0 +1,41 @@
+essay_id,set_id,essay,human_score,ideas,organization
+demo-0-0,demo,I like the school garden. This is synthetic example 1 of set demo.,0,0,0
+demo-0-1,demo,I like the school garden. This is synthetic example 2 of set demo.,0,0,0
+demo-0-2,demo,I like the school garden. This is synthetic example 3 of set demo.,0,0,0
+demo-0-3,demo,I like the school garden. This is synthetic example 4 of set demo.,0,0,0
+demo-1-0,demo,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 5 of set demo.,1,1,1
+demo-1-1,demo,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 6 of set demo.,1,1,1
+demo-1-2,demo,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 7 of set demo.,1,1,1
+demo-1-3,demo,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 8 of set demo.,1,1,1
+demo-2-0,demo,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 9 of set demo.",2,2,2
+demo-2-1,demo,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 10 of set demo.",2,2,2
+demo-2-2,demo,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 11 of set demo.",2,2,2
+demo-2-3,demo,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 12 of set demo.",2,2,2
+demo-3-0,demo,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 13 of set demo.,3,3,3
+demo-3-1,demo,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 14 of set demo.,3,3,3
+demo-3-2,demo,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 15 of set demo.,3,3,3
+demo-3-3,demo,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 16 of set demo.,3,3,3
+demo-4-0,demo,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 17 of set demo.",4,4,4
+demo-4-1,demo,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 18 of set demo.",4,4,4
+demo-4-2,demo,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 19 of set demo.",4,4,4
+demo-4-3,demo,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 20 of set demo.",4,4,4
+demo-b-0-0,demo-b,I like the school garden. This is synthetic example 1 of set demo-b.,0,0,0
+demo-b-0-1,demo-b,I like the school garden. This is synthetic example 2 of set demo-b.,0,0,0
+demo-b-0-2,demo-b,I like the school garden. This is synthetic example 3 of set demo-b.,0,0,0
+demo-b-0-3,demo-b,I like the school garden. This is synthetic example 4 of set demo-b.,0,0,0
+demo-b-1-0,demo-b,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 5 of set demo-b.,1,1,0
+demo-b-1-1,demo-b,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 6 of set demo-b.,1,1,0
+demo-b-1-2,demo-b,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 7 of set demo-b.,1,1,0
+demo-b-1-3,demo-b,Students could plant flowers near the gate. They would make the entrance pleasant. This is synthetic example 8 of set demo-b.,1,1,0
+demo-b-2-0,demo-b,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 9 of set demo-b.",2,2,1
+demo-b-2-1,demo-b,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 10 of set demo-b.",2,2,1
+demo-b-2-2,demo-b,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 11 of set demo-b.",2,2,1
+demo-b-2-3,demo-b,"Our garden needs a watering schedule. Each class could take one day, so plants receive regular care. This is synthetic example 12 of set demo-b.",2,2,1
+demo-b-3-0,demo-b,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 13 of set demo-b.,3,3,2
+demo-b-3-1,demo-b,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 14 of set demo-b.,3,3,2
+demo-b-3-2,demo-b,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 15 of set demo-b.,3,3,2
+demo-b-3-3,demo-b,A compost bin would improve our school garden. Students could collect vegetable scraps after lunch and mix the compost into the beds each spring. This is synthetic example 16 of set demo-b.,3,3,2
+demo-b-4-0,demo-b,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 17 of set demo-b.",4,4,3
+demo-b-4-1,demo-b,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 18 of set demo-b.",4,4,3
+demo-b-4-2,demo-b,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 19 of set demo-b.",4,4,3
+demo-b-4-3,demo-b,"We should plant herbs in raised beds and assign weekly care teams. Raised beds improve access, and the teams could record watering and growth to learn which conditions help the plants. This is synthetic example 20 of set demo-b.",4,4,3

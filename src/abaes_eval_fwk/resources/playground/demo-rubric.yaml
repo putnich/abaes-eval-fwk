@@ -1,0 +1,34 @@
+assignment_type: Synthetic installation test
+score_ranges:
+  overall:
+  - 0
+  - 4
+criteria_aggregation: mean
+source_dependent: false
+prompt: Explain how students could improve their school garden.
+rubric_guidelines: Evaluate relevant ideas and clear organization on the 0 to 4 scale.
+criteria:
+  ideas:
+    score_levels:
+    - score: 0
+      guideline: No relevant content
+    - score: 1
+      guideline: Minimal development
+    - score: 2
+      guideline: Partial development
+    - score: 3
+      guideline: Clear development
+    - score: 4
+      guideline: Thorough development
+  organization:
+    score_levels:
+    - score: 0
+      guideline: No relevant content
+    - score: 1
+      guideline: Minimal development
+    - score: 2
+      guideline: Partial development
+    - score: 3
+      guideline: Clear development
+    - score: 4
+      guideline: Thorough development

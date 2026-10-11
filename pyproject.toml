@@ -1,0 +1,101 @@
+[build-system]
+requires = ["setuptools>=77", "wheel", "setuptools-scm>=8"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "abaes-eval-fwk"
+dynamic = ["version"]
+description = "Configurable experiments for agent-based automated essay scoring"
+readme = "README.md"
+requires-python = ">=3.11,<3.15"
+license = "CC-BY-NC-4.0"
+license-files = ["LICENSE"]
+dependencies = [
+  "langchain-core>=1.2,<2",
+  "langchain-openai>=1.1,<2",
+  "langgraph>=1.0,<2",
+  "langgraph-checkpoint-sqlite>=3.0,<4",
+  "pydantic>=2.10,<3",
+  "typing-extensions>=4.12",
+  "PyYAML>=6.0,<7",
+  "pandas>=2.2,<4",
+  "numpy>=1.26,<3",
+  "scipy>=1.13,<2",
+  "scikit-learn>=1.5,<2",
+  "rank-bm25>=0.2.2,<0.3",
+  "httpx>=0.27,<1",
+  "packaging>=23,<27",
+  "tenacity>=8,<10",
+]
+
+[project.optional-dependencies]
+dense = ["sentence-transformers>=3,<6"]
+deepseek = ["langchain-deepseek>=1.0,<2"]
+dev = ["pytest>=8,<10", "build>=1.2,<2", "ruff>=0.11"]
+
+[project.scripts]
+abaes-eval-fwk = "abaes_eval_fwk.cli:main"
+
+[tool.setuptools]
+packages = [
+  "abaes_eval_fwk",
+  "abaes_eval_fwk.config",
+  "abaes_eval_fwk.config.config_files",
+  "abaes_eval_fwk.config.config_files.defaults",
+  "abaes_eval_fwk.config.config_files.playground",
+  "abaes_eval_fwk.config.config_files.playground.extensions",
+  "abaes_eval_fwk.config.config_files.study",
+  "abaes_eval_fwk.core",
+  "abaes_eval_fwk.core.agents",
+  "abaes_eval_fwk.core.agents.prompts",
+  "abaes_eval_fwk.core.agents.prompts.final_agent",
+  "abaes_eval_fwk.core.agents.prompts.final_agent.criterion",
+  "abaes_eval_fwk.core.agents.prompts.final_agent.holistic",
+  "abaes_eval_fwk.core.agents.schemas",
+  "abaes_eval_fwk.core.grader",
+  "abaes_eval_fwk.core.llm",
+  "abaes_eval_fwk.core.models",
+  "abaes_eval_fwk.core.retriever",
+  "abaes_eval_fwk.experiment",
+  "abaes_eval_fwk.experiment.eval",
+  "abaes_eval_fwk.experiment.eval.baseline",
+  "abaes_eval_fwk.experiment.eval.metrics",
+  "abaes_eval_fwk.experiment.result",
+  "abaes_eval_fwk.experiment.setup",
+  "abaes_eval_fwk.experiment.setup.calibration",
+  "abaes_eval_fwk.experiment.setup.dataset",
+  "abaes_eval_fwk.experiment.setup.rubric",
+  "abaes_eval_fwk.experiment.setup.sample",
+  "abaes_eval_fwk.resources",
+  "abaes_eval_fwk.resources.playground",
+  "abaes_eval_fwk.resources.rubrics",
+  "abaes_eval_fwk.utils",
+  "abaes_eval_fwk.reader_docs",
+  "abaes_eval_fwk.reader_docs.architecture",
+]
+# docs/ lives outside src/, so it is grafted under the installed package as reader_docs.
+package-dir = {"" = "src", "abaes_eval_fwk.reader_docs" = "docs", "abaes_eval_fwk.reader_docs.architecture" = "docs/architecture"}
+
+[tool.setuptools_scm]
+version_file = "src/abaes_eval_fwk/_version.py"
+fallback_version = "0.0.0"
+
+[tool.setuptools.package-data]
+abaes_eval_fwk = ["config/config_files/*.yaml", "config/config_files/**/*.yaml", "config/config_files/**/*.csv", "config/config_files/**/*.md", "config/config_files/**/*.py", "resources/**/*.yaml", "resources/**/*.csv", "resources/**/*.md"]
+# Named one by one, and kept in step with MANIFEST.in: docs/ also holds audit records that
+# must not ship.
+"abaes_eval_fwk.reader_docs" = ["configuration.md", "datasets.md", "extensions.md", "models.md", "packaging.md", "playground.md"]
+"abaes_eval_fwk.reader_docs.architecture" = ["README.md", "01-run-lifecycle.md", "02-configuration-resolution.md", "03-setup-and-retrieval.md", "04-grading-architectures.md", "05-final-agent-procedures.md", "06-evaluation.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q --import-mode=importlib"
+markers = ["slow: builds a wheel; opt in with MAS_TEST_BUILD_WHEEL=1"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

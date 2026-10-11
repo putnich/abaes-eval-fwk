@@ -1,0 +1,7 @@
+# Subdirectories resolve against output_dir; a run's own results, reviews, failures,
+# checkpoints and logs live under runs/<experiment>/<suite id>/.
+data_root: data
+output_dir: runs
+subdirs:
+  metrics: metrics
+  conversations: conversations

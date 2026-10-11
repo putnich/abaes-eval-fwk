@@ -1,0 +1,16 @@
+# Two subsets of one synthetic CSV, so multi-dataset runs and set_id filtering are exercised.
+datasets:
+- name: Synthetic demo
+  csv: demo.csv
+  rubric: demo-rubric.yaml
+  set_id: demo
+  criteria_columns:
+  - ideas
+  - organization
+- name: Synthetic demo B
+  csv: demo.csv
+  rubric: demo-rubric.yaml
+  set_id: demo-b
+  criteria_columns:
+  - ideas
+  - organization

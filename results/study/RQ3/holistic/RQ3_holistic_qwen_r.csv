@@ -1,0 +1,1201 @@
+experiment_id,dataset,essay_id,model,criterion,human_score,pred_score,confidence,completion_tokens
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000073499,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,2788
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000123835,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2635
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000071320,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,2906
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000088490,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.72,3281
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000036004,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,3363
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000141617,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,2287
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000034921,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1912
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000063240,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,3091
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000056028,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2342
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000132708,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1415
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000015662,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.8,2680
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000096378,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,2787
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000152250,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2111
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000047285,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,2408
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000021569,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1859
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000106128,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,2534
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000051084,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1819
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000073390,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2477
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000154190,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.8,3498
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000143500,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.78,2732
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000045503,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.8,3463
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000104712,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.68,4965
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000101700,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2834
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000104932,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2333
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000049726,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.72,2194
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000022437,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2924
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000119877,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,2552
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000103314,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2491
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000127367,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.92,1867
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000102645,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3419
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000052192,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.68,2870
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000046400,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.95,1950
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000046635,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.85,2164
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000044048,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2822
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000045696,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,1920
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000046876,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,1503
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000078150,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2253
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000106180,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,1812
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000046931,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,6112
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000108313,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2637
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000084024,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3786
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000084909,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2502
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000094485,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2882
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000053501,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2686
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000088551,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,3916
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000087533,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2948
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000090338,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,4308
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000058378,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2263
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000086325,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2402
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000099918,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2287
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000099435,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2669
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000050796,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3141
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000100158,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2322
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000095189,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2905
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000094972,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2312
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000096933,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,4705
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000082443,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2485
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000131990,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,4879
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000150199,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2077
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000134577,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.7,5182
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000031934,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3890
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000149370,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2805
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000151894,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2447
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000152245,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3407
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000133547,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2835
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000033948,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,3394
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000143311,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.7,2729
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000142893,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3305
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000025188,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2680
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000145441,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,3134
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000146457,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,3423
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000139628,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.82,3417
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000031856,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3288
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000142495,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2443
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000030093,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2755
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000123037,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,3052
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000119079,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.7,3429
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000042987,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2989
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000123843,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2540
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000010360,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2520
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000157334,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3022
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000042292,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.65,3388
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000118642,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.8,2992
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000043603,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.82,2623
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000128221,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3757
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000037267,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.7,3601
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000038630,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2571
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000038366,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.82,2852
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000043321,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3005
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000062797,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2176
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000023596,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2410
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000069844,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3205
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000019787,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,3334
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000068502,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,4360
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000064533,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3428
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000063872,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,3629
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000066395,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,6204
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000049327,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.82,2920
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000049308,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3252
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000049164,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,4503
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000050880,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,4725
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000035813,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,2992
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000042514,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,3407
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000043711,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2773
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000048341,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.92,2394
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000048209,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,4189
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000040054,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3236
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000029555,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2063
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000030197,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2536
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000059767,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,5586
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000058904,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,3258
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000027796,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,3529
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000051274,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,3364
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000033455,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,3027
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000052577,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,3481
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000032489,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3117
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000108646_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.82,2609
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000139121,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,3953
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000102380,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,5098
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000135872,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2612
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000136162,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3024
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000136384,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2737
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000143280,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3164
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000094889,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2944
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000100048,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3212
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000101391,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.85,2681
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000099406,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2247
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000119649,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2903
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000116333,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,5716
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000118937,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,6633
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000124773,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,2519
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000120847,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2342
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000109743,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2278
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000133270,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.7,4251
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000108643,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,4542
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000112075,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4017
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000132676,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.7,3625
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000132087,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,4132
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000087749,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.85,2542
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000079703,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2807
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000089258,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2455
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000149549,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,2402
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000081429,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4964
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000081890,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3381
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000081676,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,2990
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000154382,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,4034
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000151955,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2468
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000092891,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.7,3118
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000092377,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,3713
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000093585,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,3827
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000145243,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2276
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000077846,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,3489
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000148183,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2045
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000157379,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2369
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000159359,Qwen/Qwen3.8-27B-FP8,holistic,3,4,0.85,2443
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000129002,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2855
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000036686,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2854
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000035265,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2085
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000141755,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2027
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000139252,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2910
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000142898,Qwen/Qwen3.8-27B-FP8,holistic,4,1,0.85,3311
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000144238,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2492
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000024739,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,3116
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000033409,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,4307
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000033673,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,2539
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000032287,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,2848
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000032429,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,4326
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000032454,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2288
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000053564,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3974
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000055389,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,6932
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000093492,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3549
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000102245,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,4760
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000102627,Qwen/Qwen3.8-27B-FP8,holistic,4,1,0.72,4118
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000098119,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.82,3728
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000080080,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,4742
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000067225,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.8,3256
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000074033,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3599
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000075505,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3942
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000058021,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,4354
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000084788,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.7,3935
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000087701,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.82,3239
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000110218,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,3455
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000047276,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.82,3508
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000046576,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.85,4550
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000117287,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,3309
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000044727,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2667
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000105210,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.8,3280
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000048918,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,4045
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000049266,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,3778
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000121348,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3867
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000105543,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2611
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000123520,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.72,4149
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000040194,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,3774
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000096216,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,4533
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000109200,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.68,3949
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000032372,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.7,4230
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000044284,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.68,4799
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000110358,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,3584
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000151402,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.68,5405
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 1,AAAVUP14319000044937,Qwen/Qwen3.8-27B-FP8,holistic,6,3,0.8,2767
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5022023,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,3055
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5074547,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,2309
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5076453,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,2001
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5079729,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.95,2500
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5352700,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.72,4609
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5053766,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,1427
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5359645,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2285
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5061444,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,3267
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5265328,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,2373
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171607,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2628
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171908,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.68,5615
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5180611,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,2505
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5165324,Qwen/Qwen3.8-27B-FP8,holistic,1,3,0.7,4107
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5149806,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,2507
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5153838,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,4398
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5162258,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.72,2680
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5381607,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,3185
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5057163_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,2630
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5029038,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.95,1791
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5307521,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2356
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5218276,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2491
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5219014,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.78,3433
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5026168,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,3245
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5149792,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2820
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5313049,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2656
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5083437,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3625
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5299418,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2896
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5024225_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.7,3981
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5079619,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3586
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5267679,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2391
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5083398,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.72,3091
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5298119,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,1446
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5308107,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.9,1781
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171938,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2265
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171811,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2448
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5302836_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2715
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5024156,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2322
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5178282,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.65,3450
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5022909,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2289
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5180886,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2078
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171437,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,3465
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5025932,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2216
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5154173,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.8,2282
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5153251,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2951
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196466,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2345
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5166364,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3018
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5025668,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3145
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196194,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,3086
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5370764,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2796
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5060192,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.65,3661
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5377361,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.85,3490
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5415131,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.72,3032
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5056889,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2296
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5069889,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2666
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5060598,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2153
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5356579,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2563
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5060918,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2117
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5353888,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.92,2144
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5053819,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2668
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5031449,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.78,3886
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5342188,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,3095
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5366769,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,3070
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5076340,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2159
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5028292,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2785
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5367616,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2910
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5059402,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,3206
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5344275,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2524
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5074557,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2730
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5348063,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2824
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5056904,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3072
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5024940,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,4266
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5164272,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,4516
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5170100,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,5548
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5031000,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,2618
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5174081,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,3403
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5178499,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2054
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5030819,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3501
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5173820,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,7440
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171692,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,3829
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5023713,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2673
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5032166,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,4582
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171945,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2937
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5071314,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2256
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5083338,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,3457
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5085008,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4132
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5089330,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3330
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5027653,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,3908
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5079584,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3625
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5076393,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2663
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5079951,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,5132
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5079830,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,3402
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5062301,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,3733
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5157222,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1731
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5156579,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,3544
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5164103,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2640
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5057274,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3384
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5057102,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,3743
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5149974,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,3527
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5026392,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3005
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5153231,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,2431
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5152935,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,4179
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,7010014_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,4001
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5299058,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,4622
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5347942,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,2737
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5342158,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,3977
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5313448,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,3050
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5205601,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3205
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5205250,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,3567
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5198140,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4111
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5218815,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4603
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5214552,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3202
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5212805,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,3150
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5057227_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,2867
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,7076715,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2063
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5381990,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4078
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5154186_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3157
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5299331_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,3102
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5173942_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2637
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5351820,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2578
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5361245,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4235
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5353557,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4328
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5351968,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,3011
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5378536,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,4167
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5376733,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,4028
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5369943,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3101
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5188369,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3521
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5184633,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,4515
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196157,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,3250
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5188602,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,5025
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5180628,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3503
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5180712,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,4965
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5184301,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,4130
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196439,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4380
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5173999,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.85,3335
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5173872,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3360
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5205097,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.65,5273
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196660,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,4371
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5180847,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2705
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5031341,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2874
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5370042,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2882
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5354232,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,5344
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5153916,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3737
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5353906,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3194
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5367081,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3046
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5366160,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3517
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5356708,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3372
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5173983_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3256
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5025717,Qwen/Qwen3.8-27B-FP8,holistic,4,5,0.78,3551
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5026222,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,3083
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5178600,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,2323
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5348149_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,3242
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5023527,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2712
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5176754,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2859
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5415965,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,4193
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5156921,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3514
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5176755,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3687
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5027671,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2466
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5178823,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3893
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5028466,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3502
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5303180,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2612
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5079652,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3715
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5215498,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3539
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5188384,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,5523
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5214532,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,3345
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5214639,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2981
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5083363,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,4524
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5218562,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,3901
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5188713,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,4307
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5152917,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2572
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5164802,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2880
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5184687,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,6344
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5074693,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3669
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196270,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,4975
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5074440,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3162
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5349654,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3176
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171481,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3716
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5196476,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,4618
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5076080,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3655
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5212740,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.68,4974
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5027773,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,3020
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5025141,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.8,3632
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5205683,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.85,3977
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5212683,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.85,2501
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5076429_cleaned,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.78,4326
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5184602,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.78,3159
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5076215,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,5432
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5056843,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,3230
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5171668,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,3881
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5351554,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.85,3226
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5353998,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,3421
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5178602,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.82,3623
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5188571,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,4146
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5415688,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.68,4756
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5205051,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.8,3527
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5165118,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.8,3701
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5188652,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.7,4599
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5153038,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.8,2583
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5376565,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.72,4499
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,41,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,1357
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,27,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,1714
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1392,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.85,1995
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1096,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,878
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,596,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2296
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1496,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.7,2021
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,639,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1503
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1552,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,1598
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1533,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,3304
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1524,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,1733
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,374,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2358
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1274,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,3691
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,415,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,1712
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1198,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,1747
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1040,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,1157
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1056,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.65,3962
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1348,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,3740
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1368,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,2257
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,89,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1862
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,84,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1677
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,100,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1447
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,698,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,1958
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,752,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,1625
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,719,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,1538
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,137,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1613
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1110,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1723
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1073,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1765
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,811,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2968
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1101,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.72,2610
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1155,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,2629
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1165,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2385
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,767,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1656
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1118,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.72,3276
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1127,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.8,2389
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,788,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,1920
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,898,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2560
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,884,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,2123
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,978,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1747
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,961,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1558
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,922,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,2054
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,952,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.65,2491
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,960,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.82,1903
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1035,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,1696
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1052,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.78,2898
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1058,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,1640
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,855,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,2203
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1014,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.8,2355
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1005,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2152
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1600,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2506
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1580,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1525
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1520,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,1601
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1545,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1348
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1511,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1761
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1738,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1872
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1719,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,2308
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1775,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,1918
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1761,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2509
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1709,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.78,2070
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1699,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1356
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1510,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2377
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1272,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2099
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1202,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1882
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1457,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1341
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5299803,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,2947
+RQ2_holistic_hybrid_reasoning,ASAP 2.0 Set 6,5299416,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.7,4637
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,417,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,1439
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,569,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1441
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,990,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1547
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,61,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1586
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,763,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1596
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,293,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1608
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,511,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1629
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,42,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1674
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,437,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,1680
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,356,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,1739
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,453,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1772
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,219,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,1784
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1501,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,1826
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1634,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1837
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1561,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,1859
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1318,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1872
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,677,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.7,1868
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,268,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1912
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,688,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,1929
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,769,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,1964
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,471,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,1988
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,527,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1991
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1666,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,1995
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1244,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2026
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,57,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,2024
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1692,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,2044
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1482,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.72,2063
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1137,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2086
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,3,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,2082
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,117,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2069
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1655,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2100
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,179,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,2110
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,615,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2180
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,681,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2186
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1581,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,2193
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1537,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2213
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1619,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.65,2233
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,830,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2214
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,705,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2293
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,697,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2300
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,234,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.78,2303
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,97,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2334
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1266,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2361
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,490,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2359
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,131,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.85,2355
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1344,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.8,2377
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,72,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2450
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,389,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2478
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,713,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.78,2494
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1494,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.82,2503
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1718,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,2559
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,319,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2578
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1337,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.72,2632
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,845,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,2622
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1674,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2637
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,371,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2668
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1213,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2697
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1468,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2702
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,194,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,2768
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,198,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2769
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,338,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.72,2795
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,32,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2789
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,21,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2813
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1372,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,2852
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,93,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.82,2867
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,566,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2877
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1385,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.78,2889
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1518,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2909
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1290,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,2936
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,142,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.7,2926
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,369,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,2960
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,144,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.65,2981
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,664,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3058
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,247,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.7,3063
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,119,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.65,3061
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,758,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3077
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,541,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3086
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,748,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3134
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,442,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.78,3155
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,588,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,3157
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,608,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.68,3166
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1527,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,3326
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10094,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1041
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,880,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.65,3388
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,968,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,1899
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,597,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3456
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,749,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.72,3453
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,839,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,3456
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,491,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.7,3473
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1355,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3498
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,508,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,1795
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,873,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,3521
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10193,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.8,1115
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1273,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.8,2158
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9568,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,967
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1212,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.65,3661
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10297,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1306
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10210,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1197
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9314,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.9,1377
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,200,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.65,3748
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10164,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.9,1447
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9226,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.65,1512
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9915,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.8,1126
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,690,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.7,3837
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,578,Qwen/Qwen3.8-27B-FP8,holistic,5,2,0.82,2083
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10248,Qwen/Qwen3.8-27B-FP8,holistic,0,0,0.9,1357
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,722,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.7,3895
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10269,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1555
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1259,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2482
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1405,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.82,2069
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1283,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.85,1943
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,851,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,3972
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,619,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.82,2386
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9592,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1405
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,938,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.82,1985
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1085,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,2485
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8877,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1148
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9609,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.9,1526
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9359,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1488
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1774,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.85,2096
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9544,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1622
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9492,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1606
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9471,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1476
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9692,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,835
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,764,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,4328
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10357,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1348
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,118,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.78,2202
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10460,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1467
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9518,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.8,1815
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,380,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.68,2424
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10374,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1520
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9973,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1644
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1175,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.7,4412
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9840,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1628
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,215,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,4426
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,301,Qwen/Qwen3.8-27B-FP8,holistic,5,2,0.72,2584
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9668,Qwen/Qwen3.8-27B-FP8,holistic,1,0,0.95,832
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9877,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1143
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1386,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,2559
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,282,Qwen/Qwen3.8-27B-FP8,holistic,4,5,0.68,4508
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10565,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1436
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9905,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1334
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,170,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.65,4537
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8958,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1660
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,111,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.85,2359
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8927,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1627
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,913,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,2749
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10405,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1777
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10560,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1571
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,542,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.82,2964
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8899,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1790
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10196,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1016
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,258,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.68,2683
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9845,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1624
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10527,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,1873
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9733,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,1359
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1760,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.78,2758
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9892,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1709
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9748,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1475
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10230,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1193
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1406,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.65,5045
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,562,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,3454
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9293,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.8,2697
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1255,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.7,2966
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9273,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.85,2755
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1325,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,3153
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10220,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1411
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10167,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,1450
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9864,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.65,2108
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9804,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,1751
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,652,Qwen/Qwen3.8-27B-FP8,holistic,5,2,0.65,3450
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9814,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,1745
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10296,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1464
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10569,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.75,2482
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9992,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.7,2830
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9921,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.72,2187
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,315,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.68,3400
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,877,Qwen/Qwen3.8-27B-FP8,holistic,6,3,0.72,3235
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10340,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,1594
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10115,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1573
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1139,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,3796
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1279,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.68,3717
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9000,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1136
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10326,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1749
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10431,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,1513
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10235,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,1772
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9704,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,2181
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1067,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.68,4009
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9787,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,2166
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9951,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.65,1653
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9373,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1389
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10363,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1818
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10179,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2069
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,967,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.65,3662
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9065,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1502
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9874,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.65,2698
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9939,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1885
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9323,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1433
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9310,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1358
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10594,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.72,2411
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9778,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,2240
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9093,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1595
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1294,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,3981
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8918,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1284
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8863,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.65,3757
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10458,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2013
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9394,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1580
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9119,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.72,1582
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9384,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1737
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10440,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1891
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1170,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.68,3930
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9298,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.85,1645
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10330,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2095
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10069,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,1988
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9136,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1618
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10356,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2287
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10007,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.75,2269
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9409,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.8,1804
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,1447,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.72,4175
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8985,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1462
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9023,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1878
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9501,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.82,1638
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9889,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.7,2986
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9010,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.72,1949
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9145,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.68,1790
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8944,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,1795
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10074,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.78,2351
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8910,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1775
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9517,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.9,1814
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10150,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,2646
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9415,Qwen/Qwen3.8-27B-FP8,holistic,0,1,0.6,3671
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9275,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1980
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9081,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.7,2206
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8956,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1898
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10052,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.72,2438
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9649,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.65,3460
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9557,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.82,1948
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9560,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,2013
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9192,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.72,2252
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10107,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.7,2603
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8960,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,1972
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10619,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.65,3474
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10631,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.78,1948
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10173,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,1904
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,573,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.68,5204
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10037,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.8,2877
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10485,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,1959
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9994,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.65,3208
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9233,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.65,2728
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,294,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,5147
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9596,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.72,2579
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,8961,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.7,2385
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9008,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,1935
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9361,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,1542
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10188,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2178
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10377,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,2028
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9416,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,1658
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9363,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,1567
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,147,Qwen/Qwen3.8-27B-FP8,holistic,6,4,0.65,5102
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9356,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.65,2935
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10455,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2067
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10170,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,2167
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9156,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,2370
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9389,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,1807
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9380,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,1854
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10444,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2242
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10504,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1219
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9085,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2009
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10634,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,2608
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9444,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,1760
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9975,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,1704
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10015,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,1528
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10553,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2344
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10615,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2731
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9995,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,1609
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9816,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,1938
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9185,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.7,3330
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10366,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.8,2305
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9875,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,2303
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9465,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.85,3179
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10057,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.85,1691
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9571,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1799
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10540,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,2511
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9448,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.85,2140
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10616,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,3048
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10614,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,1804
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10417,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.7,2784
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9986,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1805
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9274,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.8,1992
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9493,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2401
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9258,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.85,2201
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10389,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.72,2949
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9219,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2146
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10622,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.65,4683
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9332,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2108
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10323,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,2921
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9103,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,2856
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18747,Qwen/Qwen3.8-27B-FP8,holistic,3,0,0.9,1445
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9750,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.82,2028
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9570,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2184
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10200,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1960
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9527,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,2552
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9190,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1989
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9161,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2005
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9999,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2344
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9738,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,2663
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 1,953,Qwen/Qwen3.8-27B-FP8,holistic,6,6,0.72,6404
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9149,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,3460
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9670,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.72,2682
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9074,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2078
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9801,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2972
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10518,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2537
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9301,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,2452
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9682,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,2683
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9551,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,2599
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19184,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.72,1747
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9603,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2989
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9600,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,3111
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9830,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2722
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9154,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.65,4848
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9873,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.7,3623
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10497,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.8,2842
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9640,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,3470
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10576,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,4434
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9346,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,3045
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10474,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.65,2988
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10588,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.62,4506
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18484,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.65,1553
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9052,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.62,2999
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9352,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,3948
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10529,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,4155
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18956,Qwen/Qwen3.8-27B-FP8,holistic,4,0,0.82,2817
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18514,Qwen/Qwen3.8-27B-FP8,holistic,5,8,0.7,2465
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19151,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.72,2515
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18355,Qwen/Qwen3.8-27B-FP8,holistic,4,6,0.65,2804
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19134,Qwen/Qwen3.8-27B-FP8,holistic,4,7,0.72,2892
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19387,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.72,2073
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9767,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,4328
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9539,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,4589
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18797,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,2695
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18436,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.7,3343
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18403,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.65,2595
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17982,Qwen/Qwen3.8-27B-FP8,holistic,5,6,0.65,2735
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9754,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,4748
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18764,Qwen/Qwen3.8-27B-FP8,holistic,3,4,0.68,3753
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,9180,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.68,6168
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10406,Qwen/Qwen3.8-27B-FP8,holistic,1,1,0.68,7009
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18149,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.65,3610
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18803,Qwen/Qwen3.8-27B-FP8,holistic,7,7,0.72,2491
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17903,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.72,3236
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19304,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.65,2781
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18529,Qwen/Qwen3.8-27B-FP8,holistic,6,3,0.7,2800
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18903,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3752
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19350,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.68,2450
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17881,Qwen/Qwen3.8-27B-FP8,holistic,6,6,0.65,3189
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18801,Qwen/Qwen3.8-27B-FP8,holistic,8,0,0.9,2572
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17927,Qwen/Qwen3.8-27B-FP8,holistic,3,0,0.75,4312
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18777,Qwen/Qwen3.8-27B-FP8,holistic,7,5,0.72,2908
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18310,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,3911
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19479,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.65,3519
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19028,Qwen/Qwen3.8-27B-FP8,holistic,7,5,0.68,3134
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18152,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.65,4506
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19011,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.8,1893
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10091,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.72,5428
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18714,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.68,3637
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10127,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4847
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17905,Qwen/Qwen3.8-27B-FP8,holistic,4,5,0.68,4230
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10291,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.65,6019
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18509,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,4131
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19042,Qwen/Qwen3.8-27B-FP8,holistic,6,2,0.65,3911
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19220,Qwen/Qwen3.8-27B-FP8,holistic,6,6,0.68,3542
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19036,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.62,3922
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19263,Qwen/Qwen3.8-27B-FP8,holistic,7,5,0.65,3497
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18916,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.7,4492
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18434,Qwen/Qwen3.8-27B-FP8,holistic,7,6,0.72,3718
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19081,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.65,4602
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18754,Qwen/Qwen3.8-27B-FP8,holistic,6,7,0.65,4300
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18358,Qwen/Qwen3.8-27B-FP8,holistic,7,6,0.65,3723
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19292,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.7,2435
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19439,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.68,4440
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18354,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.68,4657
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18743,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.65,4807
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19462,Qwen/Qwen3.8-27B-FP8,holistic,8,10,0.72,3283
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18680,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.65,5304
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18796,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.68,3632
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18881,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.7,2641
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19187,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.72,2904
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19163,Qwen/Qwen3.8-27B-FP8,holistic,7,8,0.7,3782
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18133,Qwen/Qwen3.8-27B-FP8,holistic,8,3,0.65,2148
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18720,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.65,4876
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18982,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.72,3115
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19338,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,2836
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18603,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.7,1626
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19402,Qwen/Qwen3.8-27B-FP8,holistic,7,6,0.68,4101
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18933,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,2787
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18855,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.7,2869
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19078,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.68,3121
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19491,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,5197
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18290,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,5540
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17853,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.72,1911
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19508,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.68,4191
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18659,Qwen/Qwen3.8-27B-FP8,holistic,6,6,0.65,5091
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18238,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.72,2123
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18524,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.72,2596
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19122,Qwen/Qwen3.8-27B-FP8,holistic,0,4,0.6,6223
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19357,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.68,4349
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18253,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.8,2182
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19111,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,3551
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19489,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,4059
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19420,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,4339
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18072,Qwen/Qwen3.8-27B-FP8,holistic,7,6,0.68,4757
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18694,Qwen/Qwen3.8-27B-FP8,holistic,8,9,0.72,4483
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19398,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.65,6060
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17941,Qwen/Qwen3.8-27B-FP8,holistic,7,5,0.65,4938
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18760,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.68,4498
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18891,Qwen/Qwen3.8-27B-FP8,holistic,8,4,0.65,3871
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18554,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.68,3289
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17937,Qwen/Qwen3.8-27B-FP8,holistic,5,5,0.68,5938
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18292,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,3190
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17965,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.65,5530
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18564,Qwen/Qwen3.8-27B-FP8,holistic,7,9,0.68,5542
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18999,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,4358
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18254,Qwen/Qwen3.8-27B-FP8,holistic,7,6,0.7,5369
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18169,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,3688
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18026,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.72,2812
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18272,Qwen/Qwen3.8-27B-FP8,holistic,6,6,0.66,5915
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18572,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,2888
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18710,Qwen/Qwen3.8-27B-FP8,holistic,8,3,0.65,5318
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19253,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,4253
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19358,Qwen/Qwen3.8-27B-FP8,holistic,4,6,0.65,6991
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19158,Qwen/Qwen3.8-27B-FP8,holistic,8,11,0.72,4986
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18230,Qwen/Qwen3.8-27B-FP8,holistic,8,7,0.72,3305
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18787,Qwen/Qwen3.8-27B-FP8,holistic,7,7,0.68,5941
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18062,Qwen/Qwen3.8-27B-FP8,holistic,9,4,0.72,2651
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17967,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,3432
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17997,Qwen/Qwen3.8-27B-FP8,holistic,6,7,0.65,6381
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17986,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.72,3387
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18769,Qwen/Qwen3.8-27B-FP8,holistic,6,5,0.68,6485
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19150,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.7,3317
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19169,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.7,2939
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17913,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.7,3850
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19092,Qwen/Qwen3.8-27B-FP8,holistic,7,5,0.65,6486
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18285,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,4368
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19554,Qwen/Qwen3.8-27B-FP8,holistic,8,4,0.65,6169
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19432,Qwen/Qwen3.8-27B-FP8,holistic,10,8,0.72,2551
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18129,Qwen/Qwen3.8-27B-FP8,holistic,7,7,0.65,6710
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18991,Qwen/Qwen3.8-27B-FP8,holistic,9,5,0.72,2918
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18672,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.72,3165
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19116,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.68,3658
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18480,Qwen/Qwen3.8-27B-FP8,holistic,8,7,0.68,5113
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19286,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.65,3661
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18106,Qwen/Qwen3.8-27B-FP8,holistic,8,4,0.72,5060
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18124,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.68,5460
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18057,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.68,5114
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17859,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.7,4026
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17845,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.68,4597
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19268,Qwen/Qwen3.8-27B-FP8,holistic,9,6,0.68,4109
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18438,Qwen/Qwen3.8-27B-FP8,holistic,10,6,0.65,2914
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17964,Qwen/Qwen3.8-27B-FP8,holistic,9,5,0.7,3961
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18407,Qwen/Qwen3.8-27B-FP8,holistic,10,6,0.72,2921
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18430,Qwen/Qwen3.8-27B-FP8,holistic,10,7,0.72,3018
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18322,Qwen/Qwen3.8-27B-FP8,holistic,8,7,0.65,5298
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18449,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.65,5236
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17930,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.72,3983
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18475,Qwen/Qwen3.8-27B-FP8,holistic,9,6,0.68,3854
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19499,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.7,4621
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18847,Qwen/Qwen3.8-27B-FP8,holistic,10,5,0.65,3778
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19094,Qwen/Qwen3.8-27B-FP8,holistic,9,7,0.65,4655
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18940,Qwen/Qwen3.8-27B-FP8,holistic,9,10,0.72,4125
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19471,Qwen/Qwen3.8-27B-FP8,holistic,12,5,0.72,2674
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17998,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.68,4758
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18369,Qwen/Qwen3.8-27B-FP8,holistic,8,5,0.65,5910
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17987,Qwen/Qwen3.8-27B-FP8,holistic,10,6,0.68,4081
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18751,Qwen/Qwen3.8-27B-FP8,holistic,11,6,0.65,3461
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18792,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.62,7946
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18641,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.65,5575
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19240,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.72,4641
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19030,Qwen/Qwen3.8-27B-FP8,holistic,10,9,0.72,3609
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18092,Qwen/Qwen3.8-27B-FP8,holistic,9,6,0.65,4805
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18477,Qwen/Qwen3.8-27B-FP8,holistic,11,9,0.72,3313
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19228,Qwen/Qwen3.8-27B-FP8,holistic,8,4,0.68,6865
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18226,Qwen/Qwen3.8-27B-FP8,holistic,11,7,0.68,3369
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D8934CA35801,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,1518
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18336,Qwen/Qwen3.8-27B-FP8,holistic,12,5,0.65,2881
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19463,Qwen/Qwen3.8-27B-FP8,holistic,10,9,0.7,4206
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18664,Qwen/Qwen3.8-27B-FP8,holistic,10,7,0.65,4458
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19108,Qwen/Qwen3.8-27B-FP8,holistic,9,7,0.68,5320
+RQ2_holistic_hybrid_reasoning,ELLIPSE,470D092F3831,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.85,1945
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18691,Qwen/Qwen3.8-27B-FP8,holistic,10,8,0.68,4544
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18256,Qwen/Qwen3.8-27B-FP8,holistic,11,6,0.65,3806
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18049,Qwen/Qwen3.8-27B-FP8,holistic,10,7,0.65,4301
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18915,Qwen/Qwen3.8-27B-FP8,holistic,8,10,0.72,7058
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18696,Qwen/Qwen3.8-27B-FP8,holistic,11,8,0.68,3712
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18073,Qwen/Qwen3.8-27B-FP8,holistic,10,5,0.62,4427
+RQ2_holistic_hybrid_reasoning,ELLIPSE,584C6453CA5A,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2095
+RQ2_holistic_hybrid_reasoning,ELLIPSE,3418CB8125B3,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,1994
+RQ2_holistic_hybrid_reasoning,ELLIPSE,67E711AF87A2,Qwen/Qwen3.8-27B-FP8,holistic,0,3,0.82,2374
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18741,Qwen/Qwen3.8-27B-FP8,holistic,12,7,0.72,3413
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18624,Qwen/Qwen3.8-27B-FP8,holistic,9,9,0.72,4836
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19176,Qwen/Qwen3.8-27B-FP8,holistic,8,8,0.68,7786
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18608,Qwen/Qwen3.8-27B-FP8,holistic,10,7,0.72,4851
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18391,Qwen/Qwen3.8-27B-FP8,holistic,10,10,0.7,4473
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17918,Qwen/Qwen3.8-27B-FP8,holistic,8,6,0.65,6040
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18955,Qwen/Qwen3.8-27B-FP8,holistic,9,7,0.68,5071
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18631,Qwen/Qwen3.8-27B-FP8,holistic,12,6,0.68,3502
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2A4B5673EBAC,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.82,2123
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A4DA4201903F,Qwen/Qwen3.8-27B-FP8,holistic,2,1,0.68,2084
+RQ2_holistic_hybrid_reasoning,ELLIPSE,4EB4E8611272,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2759
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18685,Qwen/Qwen3.8-27B-FP8,holistic,12,8,0.65,3690
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18362,Qwen/Qwen3.8-27B-FP8,holistic,12,3,0.72,3624
+RQ2_holistic_hybrid_reasoning,ELLIPSE,C1EAD0C50570,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,2543
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18528,Qwen/Qwen3.8-27B-FP8,holistic,11,7,0.68,4253
+RQ2_holistic_hybrid_reasoning,ELLIPSE,94ACF6006DB9,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2154
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19079,Qwen/Qwen3.8-27B-FP8,holistic,10,6,0.65,4642
+RQ2_holistic_hybrid_reasoning,ELLIPSE,1829D6D139C2,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.82,1669
+RQ2_holistic_hybrid_reasoning,ELLIPSE,56E32CEEB127,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.8,2657
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19421,Qwen/Qwen3.8-27B-FP8,holistic,12,8,0.72,3218
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6792C2E73B6A,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.82,1971
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19313,Qwen/Qwen3.8-27B-FP8,holistic,12,10,0.72,3838
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F50C9936F416,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.82,1805
+RQ2_holistic_hybrid_reasoning,ELLIPSE,84CE7281265F,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.7,2105
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18708,Qwen/Qwen3.8-27B-FP8,holistic,9,8,0.68,5643
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7F0B7DDE89B2,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.78,2557
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18508,Qwen/Qwen3.8-27B-FP8,holistic,9,6,0.62,5814
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E3611716918E,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2913
+RQ2_holistic_hybrid_reasoning,ELLIPSE,79098D096CB8,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2669
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18798,Qwen/Qwen3.8-27B-FP8,holistic,10,8,0.68,5547
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18832,Qwen/Qwen3.8-27B-FP8,holistic,12,7,0.72,4064
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18160,Qwen/Qwen3.8-27B-FP8,holistic,12,8,0.72,4461
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18266,Qwen/Qwen3.8-27B-FP8,holistic,12,10,0.72,4170
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19068,Qwen/Qwen3.8-27B-FP8,holistic,12,9,0.7,4870
+RQ2_holistic_hybrid_reasoning,ELLIPSE,9EADCECA2FB8,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1399
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19352,Qwen/Qwen3.8-27B-FP8,holistic,12,9,0.7,4275
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B2055DB7B29E,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1777
+RQ2_holistic_hybrid_reasoning,ELLIPSE,51BAD5699073,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3430
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18848,Qwen/Qwen3.8-27B-FP8,holistic,12,6,0.62,4069
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D41787486DA6,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3187
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A39660CA003E,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,1857
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18985,Qwen/Qwen3.8-27B-FP8,holistic,11,8,0.65,5366
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B6A5721D64C1,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,1864
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B8F0ECC9DC86,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2838
+RQ2_holistic_hybrid_reasoning,ELLIPSE,ED57CFEC1CF1,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,2489
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5F407964AF46,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,2859
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18594,Qwen/Qwen3.8-27B-FP8,holistic,9,4,0.65,6545
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18178,Qwen/Qwen3.8-27B-FP8,holistic,11,10,0.7,5598
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FEA2C3FB45D1,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,2337
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17891,Qwen/Qwen3.8-27B-FP8,holistic,12,2,0.65,5085
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FF4CBDA0E418,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1741
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FA08CD5A2E48,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2115
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17871,Qwen/Qwen3.8-27B-FP8,holistic,12,11,0.72,4774
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18014,Qwen/Qwen3.8-27B-FP8,holistic,12,10,0.72,4076
+RQ2_holistic_hybrid_reasoning,ELLIPSE,DBAB680CBC5D,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,3470
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19516,Qwen/Qwen3.8-27B-FP8,holistic,12,6,0.65,4885
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F7DD6134C693,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,2524
+RQ2_holistic_hybrid_reasoning,ELLIPSE,8F3B39C509B9,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3448
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B1C410876D33,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2205
+RQ2_holistic_hybrid_reasoning,ELLIPSE,AAE16C990870,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,2356
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19475,Qwen/Qwen3.8-27B-FP8,holistic,9,7,0.66,7196
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E8795A1AA404,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2402
+RQ2_holistic_hybrid_reasoning,ELLIPSE,9DDBBA28EBD0,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2167
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F9072F36ECE7,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2688
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19031,Qwen/Qwen3.8-27B-FP8,holistic,10,8,0.7,6246
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F495D071AE60,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,1607
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,19192,Qwen/Qwen3.8-27B-FP8,holistic,11,9,0.68,5989
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D03CE04CF47C,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2083
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18868,Qwen/Qwen3.8-27B-FP8,holistic,12,8,0.72,5031
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A0A2D6856B0E,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2263
+RQ2_holistic_hybrid_reasoning,ELLIPSE,DCEE7FD21CFD,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1789
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EA37D9C12C91,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.68,2902
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D7817C171926,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1796
+RQ2_holistic_hybrid_reasoning,ELLIPSE,902341F8EB11,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2483
+RQ2_holistic_hybrid_reasoning,ELLIPSE,9735E542665C,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2494
+RQ2_holistic_hybrid_reasoning,ELLIPSE,ABBE700093F0,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2910
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D30614F0911F,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2376
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FA0A22FE957A,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3183
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D35A126B4379,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2398
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FEAF4F517583,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2614
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,17872,Qwen/Qwen3.8-27B-FP8,holistic,10,9,0.65,7222
+RQ2_holistic_hybrid_reasoning,ELLIPSE,9B4EEAAB752E,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,2625
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B3145EA3395B,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.72,3952
+RQ2_holistic_hybrid_reasoning,ELLIPSE,CAC6822F740C,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1721
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D5C7AA1266CC,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,2220
+RQ2_holistic_hybrid_reasoning,ELLIPSE,296B1DD1E251,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.85,3376
+RQ2_holistic_hybrid_reasoning,ELLIPSE,206522E53696,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.65,3773
+RQ2_holistic_hybrid_reasoning,ELLIPSE,523130079501,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2856
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5C2A497012B9,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,1292
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EC8590A774E6,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2482
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E76B3F5205CD,Qwen/Qwen3.8-27B-FP8,holistic,1,2,0.65,5380
+RQ2_holistic_hybrid_reasoning,ELLIPSE,AFC600D922F6,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,3417
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E1AE7FDD072F,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2258
+RQ2_holistic_hybrid_reasoning,ELLIPSE,69C15737269C,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,4317
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F22FE8D7FA16,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2107
+RQ2_holistic_hybrid_reasoning,ELLIPSE,BB06ADBF1640,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.65,2502
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6586DF43A92D,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1761
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B459B5B87707,Qwen/Qwen3.8-27B-FP8,holistic,3,4,0.78,3745
+RQ2_holistic_hybrid_reasoning,ELLIPSE,AD5F7E8C127F,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,3705
+RQ2_holistic_hybrid_reasoning,ELLIPSE,CA4941643D09,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,2494
+RQ2_holistic_hybrid_reasoning,ELLIPSE,AE0DB193F5B5,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.72,4455
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5902C2E86345,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2081
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E96C0F9CE5E3,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.65,3305
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2EF984473EC5,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1865
+RQ2_holistic_hybrid_reasoning,ELLIPSE,58567312BDAB,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2386
+RQ2_holistic_hybrid_reasoning,ELLIPSE,BF580042A644,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2949
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F12C7794CDCB,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,2619
+RQ2_holistic_hybrid_reasoning,ELLIPSE,DAD5BCDAB7DD,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,3131
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18534,Qwen/Qwen3.8-27B-FP8,holistic,12,8,0.68,6447
+RQ2_holistic_hybrid_reasoning,ELLIPSE,4D377B163021,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,1735
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18419,Qwen/Qwen3.8-27B-FP8,holistic,12,9,0.7,6516
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2A7997AE8E72,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,1735
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A975CBC4A7E8,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.68,4811
+RQ2_holistic_hybrid_reasoning,ELLIPSE,39776B3A4C70,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,2039
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2358C2CE9966,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,2398
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D10BBD82D66F,Qwen/Qwen3.8-27B-FP8,holistic,3,4,0.85,3746
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18983,Qwen/Qwen3.8-27B-FP8,holistic,12,8,0.72,6625
+RQ2_holistic_hybrid_reasoning,ELLIPSE,1AA55FB101FD,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2288
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FB4D3D883D49,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,3894
+RQ2_holistic_hybrid_reasoning,ELLIPSE,C5CA6C22BAFE,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,2848
+RQ2_holistic_hybrid_reasoning,ELLIPSE,506A69171959,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,2534
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F3A5981B0288,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,3286
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EA40087521CC,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,3525
+RQ2_holistic_hybrid_reasoning,ELLIPSE,9CE077EDCC85,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,3980
+RQ2_holistic_hybrid_reasoning,ELLIPSE,92B418CEA06E,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4231
+RQ2_holistic_hybrid_reasoning,ELLIPSE,4ABC0ED00F91,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2333
+RQ2_holistic_hybrid_reasoning,ELLIPSE,079FDB42E429,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,1976
+RQ2_holistic_hybrid_reasoning,ELLIPSE,757C5E55BA96,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,2065
+RQ2_holistic_hybrid_reasoning,ELLIPSE,1C2665B95694,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.78,2756
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18761,Qwen/Qwen3.8-27B-FP8,holistic,12,9,0.68,7149
+RQ2_holistic_hybrid_reasoning,ELLIPSE,33ADAAB38BFC,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,2632
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FAAFFC983E47,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.72,5112
+RQ2_holistic_hybrid_reasoning,ELLIPSE,C48A4DC42846,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.7,3281
+RQ2_holistic_hybrid_reasoning,ELLIPSE,50611B996992,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,2990
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7982F5F494E2,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2162
+RQ2_holistic_hybrid_reasoning,ELLIPSE,027CB6393714,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2218
+RQ2_holistic_hybrid_reasoning,ELLIPSE,82722CEBCAB3,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2131
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E2F767441B44,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1800
+RQ2_holistic_hybrid_reasoning,ELLIPSE,03D00899C901,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,2298
+RQ2_holistic_hybrid_reasoning,ELLIPSE,70B91D253E27,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2107
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EFD563DFAC60,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,4221
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E110443F5184,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,4083
+RQ2_holistic_hybrid_reasoning,ELLIPSE,13578C0BCC3C,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.82,2218
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7B802407D629,Qwen/Qwen3.8-27B-FP8,holistic,3,4,0.72,2642
+RQ2_holistic_hybrid_reasoning,ELLIPSE,0465517EB6B7,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,2429
+RQ2_holistic_hybrid_reasoning,ELLIPSE,C8EBB096262B,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,3943
+RQ2_holistic_hybrid_reasoning,ELLIPSE,4002D91C6B6C,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.8,3265
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2BA422F3619F,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,3027
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5D693DD9978D,Qwen/Qwen3.8-27B-FP8,holistic,2,3,0.68,6675
+RQ2_holistic_hybrid_reasoning,ELLIPSE,8B1EB1890F9B,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.85,2671
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7138786DA45C,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,2444
+RQ2_holistic_hybrid_reasoning,ELLIPSE,84FC9651F650,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,2550
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FE1D0E5EA2EB,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2379
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2BE976C99FDF,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,3508
+RQ2_holistic_hybrid_reasoning,ELLIPSE,976E2E05C4EB,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,5243
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6EF7CBB46501,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,2684
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18137,Qwen/Qwen3.8-27B-FP8,holistic,7,7,0.7,2828
+RQ2_holistic_hybrid_reasoning,ELLIPSE,8B9EEF86DD66,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1605
+RQ2_holistic_hybrid_reasoning,ELLIPSE,483EE18C996B,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,3588
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E21C97204867,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,2170
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E6338A929654,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1974
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7797541CF0A6,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,3151
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2723DB12AC00,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2218
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FF190BD8380B,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2283
+RQ2_holistic_hybrid_reasoning,ELLIPSE,2A96CE614119,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2166
+RQ2_holistic_hybrid_reasoning,ELLIPSE,998DA357F910,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,5454
+RQ2_holistic_hybrid_reasoning,ELLIPSE,674F5DA988D2,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,4007
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D390FE972D8F,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1616
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 4,10409,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,4183
+RQ2_holistic_hybrid_reasoning,ELLIPSE,8397368B57EA,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.72,1959
+RQ2_holistic_hybrid_reasoning,ELLIPSE,4D7E52C79A3D,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,4029
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A72A4397F9F5,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2176
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A4BBB301E3CE,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2039
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5DB370AD8EFB,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1352
+RQ2_holistic_hybrid_reasoning,ELLIPSE,90E2214EFEC8,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1945
+RQ2_holistic_hybrid_reasoning,ELLIPSE,01B3FDB3FD57,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,2594
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7D955FAD0C73,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1916
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EEEF81C2E133,Qwen/Qwen3.8-27B-FP8,holistic,3,4,0.72,5726
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D250DB9080E0,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,1882
+RQ2_holistic_hybrid_reasoning,ELLIPSE,559902F0A513,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.78,4619
+RQ2_holistic_hybrid_reasoning,ELLIPSE,3DB503D247B3,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,1681
+RQ2_holistic_hybrid_reasoning,ELLIPSE,17E521D5F29C,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.72,4462
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7E48A7A7B400,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,2110
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F2165F132C87,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,3176
+RQ2_holistic_hybrid_reasoning,ELLIPSE,BCF16DEB277E,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2376
+RQ2_holistic_hybrid_reasoning,ELLIPSE,34553E598A00,Qwen/Qwen3.8-27B-FP8,holistic,3,1,0.72,4283
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6B2FD789B8C8,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.85,3305
+RQ2_holistic_hybrid_reasoning,ELLIPSE,0F8436260047,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2746
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E6CF2D3B4FA2,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2711
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A9A152AAFBE1,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,2566
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E8B0698217A3,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,2987
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F1620489BEB3,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,2938
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6805FE96E548,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,2712
+RQ2_holistic_hybrid_reasoning,ELLIPSE,0016926B079C,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.7,3490
+RQ2_holistic_hybrid_reasoning,ELLIPSE,9DD22B9D10F4,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.82,2494
+RQ2_holistic_hybrid_reasoning,ELLIPSE,28C8F048A469,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4434
+RQ2_holistic_hybrid_reasoning,ELLIPSE,E36B406AFE70,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,3795
+RQ2_holistic_hybrid_reasoning,ELLIPSE,3CDCFB2C7F25,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.78,2390
+RQ2_holistic_hybrid_reasoning,ELLIPSE,AC5D4FAD6FDA,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.82,3177
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18902,Qwen/Qwen3.8-27B-FP8,holistic,5,3,0.65,4810
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F584D9BB5F5C,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.72,5863
+RQ2_holistic_hybrid_reasoning,ELLIPSE,24C654C85C1F,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,3460
+RQ2_holistic_hybrid_reasoning,ELLIPSE,0A1482CD6163,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3484
+RQ2_holistic_hybrid_reasoning,ELLIPSE,750AFA674F45,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,4017
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D0211302AE30,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2791
+RQ2_holistic_hybrid_reasoning,ELLIPSE,92B8F2F85C44,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.85,3205
+RQ2_holistic_hybrid_reasoning,ELLIPSE,15B68B826F8D,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.78,4108
+RQ2_holistic_hybrid_reasoning,ELLIPSE,4EECC9B3CF7F,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,2579
+RQ2_holistic_hybrid_reasoning,ELLIPSE,C97C2190DB65,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.78,2645
+RQ2_holistic_hybrid_reasoning,ELLIPSE,CD7201C66BBC,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.82,2556
+RQ2_holistic_hybrid_reasoning,ELLIPSE,F05D3802BC94,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.85,2615
+RQ2_holistic_hybrid_reasoning,ELLIPSE,064423D845B1,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,4958
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EB5924FBD25C,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,3764
+RQ2_holistic_hybrid_reasoning,ELLIPSE,58E485E875D5,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,2853
+RQ2_holistic_hybrid_reasoning,ELLIPSE,B9BA0955819D,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.8,3596
+RQ2_holistic_hybrid_reasoning,ELLIPSE,FA2DE7E82907,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,7696
+RQ2_holistic_hybrid_reasoning,ELLIPSE,642E44E8DD25,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.68,5900
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5A9C20C851FD,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.7,6082
+RQ2_holistic_hybrid_reasoning,ELLIPSE,CEAD27DE3263,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,3096
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6712BD512DB7,Qwen/Qwen3.8-27B-FP8,holistic,4,2,0.68,3810
+RQ2_holistic_hybrid_reasoning,ELLIPSE,A3E6A572C6E5,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.75,3790
+RQ2_holistic_hybrid_reasoning,ELLIPSE,39524C93F4D4,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.85,3536
+RQ2_holistic_hybrid_reasoning,ELLIPSE,6CB7C1B3C548,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.68,5176
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18799,Qwen/Qwen3.8-27B-FP8,holistic,11,6,0.7,3149
+RQ2_holistic_hybrid_reasoning,ELLIPSE,017D2125A1DE,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.6,5608
+RQ2_holistic_hybrid_reasoning,ELLIPSE,3D29C845934D,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.72,3676
+RQ2_holistic_hybrid_reasoning,ELLIPSE,5CF895003869,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.78,4022
+RQ2_holistic_hybrid_reasoning,ELLIPSE,EB03C897F7E8,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.65,7903
+RQ2_holistic_hybrid_reasoning,ELLIPSE,34C829F3DC6A,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.65,4531
+RQ2_holistic_hybrid_reasoning,ELLIPSE,C6DDD966C9FC,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,4486
+RQ2_holistic_hybrid_reasoning,ELLIPSE,450A7F9AC54A,Qwen/Qwen3.8-27B-FP8,holistic,3,2,0.65,6637
+RQ2_holistic_hybrid_reasoning,ELLIPSE,7949A941BF0F,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.68,5101
+RQ2_holistic_hybrid_reasoning,ELLIPSE,AF4A2E8AD2A5,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.68,5436
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18618,Qwen/Qwen3.8-27B-FP8,holistic,9,9,0.65,5078
+RQ2_holistic_hybrid_reasoning,ELLIPSE,D684AE8A9418,Qwen/Qwen3.8-27B-FP8,holistic,4,4,0.72,5999
+RQ2_holistic_hybrid_reasoning,ASAP AES Set 7,18705,Qwen/Qwen3.8-27B-FP8,holistic,11,3,0.65,5838
+RQ2_holistic_hybrid_reasoning,ELLIPSE,DD66EBC605D1,Qwen/Qwen3.8-27B-FP8,holistic,4,3,0.72,6688
+RQ2_holistic_hybrid_reasoning,ELLIPSE,410D72D3CCE8,Qwen/Qwen3.8-27B-FP8,holistic,3,3,0.82,1454
+RQ2_holistic_hybrid_reasoning,ELLIPSE,ED74D2C2403B,Qwen/Qwen3.8-27B-FP8,holistic,2,2,0.7,5138
+RQ2_holistic_hybrid_reasoning,ELLIPSE,BDA166D1989A,Qwen/Qwen3.8-27B-FP8,holistic,5,4,0.85,1833

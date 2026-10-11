@@ -1,0 +1,483 @@
+{
+  "suite_file": "demo_suite.json",
+  "experiments": [
+    {
+      "name": "rq1-zero_shot",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq1-random",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq1-lexical",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq1-semantic",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq1-hybrid",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq1-tuned-random",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq1-reader-selector",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-a-holistic",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-a-criterion",
+      "rows": 24,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-b-holistic",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-b-criterion",
+      "rows": 24,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-final-holistic",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-final-criterion",
+      "rows": 24,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-a-holistic-one-dataset",
+      "rows": 6,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-a-holistic-small-sample",
+      "rows": 6,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq2-a-holistic-reader-splits",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1
+      }
+    },
+    {
+      "name": "rq3-native",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq3-reasoning",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq3-non-reasoning",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq3-no-think",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq3-criterion-reasoning",
+      "rows": 24,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-holistic-pool_average",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-holistic-disagreement",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-holistic-disagreement-wide",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-holistic-review_based",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-holistic-review",
+      "rows": 12,
+      "pred_score_rounded_values": [],
+      "raw_to_rounded": {}
+    },
+    {
+      "name": "rq4-holistic-review_based-cached",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-criterion-pool_average",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-criterion-disagreement",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "1.0": 1,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-criterion-review_based",
+      "rows": 12,
+      "pred_score_rounded_values": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "raw_to_rounded": {
+        "0.0": 0,
+        "2.0": 2,
+        "3.0": 3,
+        "4.0": 4
+      }
+    },
+    {
+      "name": "rq4-criterion-review",
+      "rows": 24,
+      "pred_score_rounded_values": [],
+      "raw_to_rounded": {}
+    }
+  ]
+}

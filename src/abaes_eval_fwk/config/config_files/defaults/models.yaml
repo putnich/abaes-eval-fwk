@@ -1,0 +1,8 @@
+model_defaults:
+  provider: openai_compatible
+  temperature: 0
+  max_tokens: 4096
+  timeout: 120
+  streaming: false
+  tool_choice: required
+  structured_output_method: function_calling

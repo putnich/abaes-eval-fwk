@@ -1,0 +1,91 @@
+datasets:
+- name: ASAP AES Set 1
+  rubric: rubrics/asap_aes_set_1.yaml
+  file: training_set_rel3.tsv
+  column_map:
+    essay_set: set_id
+    rater1_domain1: human_score
+  raw_columns:
+    - essay_id
+    - essay_set
+    - essay
+    - rater1_domain1
+  calibration_target_n: 10
+
+- name: ASAP AES Set 4
+  rubric: rubrics/asap_aes_set_4.yaml
+  file: training_set_rel3.tsv
+  column_map:
+    essay_set: set_id
+    rater1_domain1: human_score
+  raw_columns:
+    - essay_id
+    - essay_set
+    - essay
+    - rater1_domain1
+  calibration_target_n: 10
+
+- name: ASAP AES Set 7
+  rubric: rubrics/asap_aes_set_7.yaml
+  file: training_set_rel3.tsv
+  column_map:
+    essay_set: set_id
+    rater1_domain1: human_score
+    rater1_trait1: ideas
+    rater1_trait2: organization
+    rater1_trait3: style
+    rater1_trait4: conventions
+  criteria_columns:
+    - ideas
+    - organization
+    - style
+    - conventions
+  raw_columns:
+    - essay_id
+    - essay_set
+    - essay
+    - rater1_domain1
+  calibration_target_n: 8
+
+- name: ASAP 2.0 Set 1
+  rubric: rubrics/asap_2.0_set_1.yaml
+  file: ASAP2_train_sourcetexts.csv
+  prompt_name: Exploring Venus
+  calibration_target_n: 8
+
+- name: ASAP 2.0 Set 6
+  rubric: rubrics/asap_2.0_set_6.yaml
+  file: ASAP2_train_sourcetexts.csv
+  prompt_name: Does the electoral college work?
+  calibration_target_n: 8
+
+- name: ELLIPSE
+  rubric: rubrics/ellipse.yaml
+  file: ELLIPSE_Final_github_train.csv
+  per_rater_file: ellipsis_raw_rater_scores_anon_all_essay.csv
+  column_map:
+    full_text: essay
+    text_id_kaggle: essay_id
+    Overall_1: human_score
+    Cohesion_1: cohesion
+    Syntax_1: syntax
+    Vocabulary_1: vocabulary
+    Phraseology_1: phraseology
+    Grammar_1: grammar
+    Conventions_1: conventions
+  criteria_columns:
+    - cohesion
+    - syntax
+    - vocabulary
+    - phraseology
+    - grammar
+    - conventions
+  raw_columns:
+    - Overall_1
+    - Cohesion_1
+    - Syntax_1
+    - Vocabulary_1
+    - Phraseology_1
+    - Grammar_1
+    - Conventions_1
+  calibration_target_n: 10

@@ -1,0 +1,4 @@
+[abaes_eval_fwk.plugins]
+demo_retriever = aes_demo_plugin:PLUGIN
+demo_incompatible = aes_incompatible_plugin:INCOMPATIBLE_PLUGIN
+demo_malformed = aes_incompatible_plugin:MALFORMED_PLUGIN

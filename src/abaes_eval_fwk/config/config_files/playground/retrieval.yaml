@@ -1,0 +1,10 @@
+retrieval:
+  strategy: random
+  n_ex_per_score: 1
+  max_examples: 6
+  hybrid_dense_weight: 0.5
+  hybrid_bm25_weight: 0.5
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  embedding_device: cpu
+  embedding_batch_size: 8
+  embedding_threads: 1

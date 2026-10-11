@@ -1,0 +1,1201 @@
+experiment_id,dataset,essay_id,model,criterion,human_score,pred_score,confidence,completion_tokens
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000021569,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,161
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000073499,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000022437,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000047285,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,176
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000104932,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000119877,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000096378,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000051084,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,185
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000034921,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000123835,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000088490,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,195
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000132708,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000143500,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000036004,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000052192,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000141617,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000106128,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000045503,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000127367,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,244
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000056028,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,246
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000015662,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000152250,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,156
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000154190,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000073390,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000101700,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,195
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000071320,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000063240,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000103314,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000106180,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,171
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000046635,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,186
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000104712,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000049726,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,224
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000045696,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000102645,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000046876,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000046400,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,219
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000044048,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000078150,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000046931,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000108313,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000084909,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000053501,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,158
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000100158,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,134
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000095189,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000058378,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000094485,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000086325,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000050796,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000099918,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000150199,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,165
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000131990,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000084024,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,264
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000087533,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,231
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000088551,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,237
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000134577,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,138
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000094972,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000096933,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000099435,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000090338,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,260
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000082443,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,232
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000149370,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000031934,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,177
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000133547,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,163
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000033948,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,168
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000152245,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000146457,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,149
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000151894,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000143311,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000119079,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,148
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000025188,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000142893,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000145441,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000139628,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,201
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000042987,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000142495,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000123037,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000030093,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000123843,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000010360,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000042292,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,4,0.8,157
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000157334,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000031856,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,326
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000118642,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000128221,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000037267,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000038630,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,171
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000038366,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000023596,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000043603,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000043321,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000062797,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000063872,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,158
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000069844,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000068502,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,176
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000049327,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000019787,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,260
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000064533,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,244
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000035813,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,156
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000049308,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000042514,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000049164,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000040054,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000043711,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000030197,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000066395,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,313
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000048341,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000059767,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000050880,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,241
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000048209,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,217
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000029555,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000058904,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000108646_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,133
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000051274,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000033455,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000027796,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,242
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000052577,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000032489,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,162
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000139121,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000094889,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,177
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000136162,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000135872,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000099406,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,154
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000143280,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000119649,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000102380,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000101391,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000136384,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000118937,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,166
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000100048,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000116333,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000133270,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000124773,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,195
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000112075,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000109743,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000108643,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000120847,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,221
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000132676,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000089258,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,162
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000132087,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000079703,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000087749,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000154382,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,158
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000149549,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000081890,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000092377,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000081429,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,237
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000092891,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000093585,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000151955,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000081676,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,248
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000077846,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000145243,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000129002,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,153
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000159359,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000157379,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000148183,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,243
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000141755,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000036686,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000139252,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000035265,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000024739,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000142898,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000032287,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000032429,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000053564,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000144238,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,255
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000033409,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000033673,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000032454,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000055389,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000102245,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000080080,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000074033,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,156
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000075505,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,160
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000098119,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,194
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000093492,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000067225,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000058021,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,194
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000102627,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,264
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000087701,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000110218,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,171
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000084788,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000046576,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000044727,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000117287,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000049266,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000121348,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000048918,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000105210,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,5,0.85,231
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000096216,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000040194,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000047276,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,278
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000123520,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,221
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5022023,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,133
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000109200,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,209
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000105543,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000032372,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000151402,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000110358,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,195
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000044284,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5076453,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,148
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5079729,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.85,144
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 1,AAAVUP14319000044937,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5074547,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5265328,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,136
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5053766,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,177
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5061444,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,182
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5359645,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5352700,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5180611,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,171
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171908,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171607,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5165324,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5057163_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,160
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5162258,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,161
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5153838,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,164
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5218276,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,149
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5381607,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5219014,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.85,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5026168,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,162
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5029038,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.85,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5307521,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5149806,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,3,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5149792,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5083437,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,173
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5024225_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5313049,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5267679,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,146
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5299418,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171811,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,159
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5298119,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5302836_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5308107,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171938,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5022909,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5180886,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,170
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5178282,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,4,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5024156,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5083398,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,237
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171437,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5154173,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5025932,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5153251,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,168
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5166364,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196466,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5079619,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,368
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196194,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,156
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5415131,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,134
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5377361,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,163
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5056889,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,163
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5060918,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,136
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5356579,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,159
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5060598,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,163
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5370764,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5025668,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,232
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5353888,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,154
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5053819,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5060192,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,245
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5076340,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5069889,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,253
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5074557,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,138
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5059402,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,176
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5031449,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5344275,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5028292,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5366769,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5367616,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5342188,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,261
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5031000,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,158
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5056904,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5170100,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5024940,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5030819,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5164272,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5174081,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5071314,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,141
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5348063,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,270
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5178499,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,217
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5032166,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,158
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5085008,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,159
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5079584,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,135
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5173820,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,243
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171692,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,238
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5083338,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5089330,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5023713,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,246
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171945,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,247
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5079951,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,164
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5027653,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5076393,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5164103,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,154
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5156579,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5062301,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5157222,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5149974,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5026392,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5079830,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,286
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5057102,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5299803,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,165
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,7010014_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,173
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5057274,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,257
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5313448,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,160
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5153231,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5299058,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5205250,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5342158,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,186
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5205601,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5347942,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5198140,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5214552,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,166
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5299416,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,265
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5152935,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,269
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5212805,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,154
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5218815,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5299331_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5154186_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,7076715,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5057227_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5381990,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5351968,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,156
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5369943,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,164
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5378536,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196157,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,150
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5361245,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5173942_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5376733,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5353557,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,205
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5351820,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,247
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5180628,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5188369,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5184633,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,248
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5184301,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5188602,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,246
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5180712,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,231
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5173872,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5173999,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5153916,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,137
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5205097,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196439,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5031341,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5353906,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5370042,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196660,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5366160,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5354232,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5180847,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,244
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5367081,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5025717,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5173983_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5356708,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5348149_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5023527,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5178600,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5026222,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5176755,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,162
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5156921,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5176754,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5415965,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5027671,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5215498,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5079652,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5028466,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5178823,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5152917,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,139
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5214639,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,177
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5303180,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,231
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5214532,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5083363,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,194
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5188713,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5218562,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,168
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5188384,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196270,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5184687,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,166
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5074440,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5164802,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5074693,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171481,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5349654,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,245
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5196476,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,161
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5025141,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,162
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5212683,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,166
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5212740,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5351554,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,177
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5076215,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5184602,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,187
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5171668,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5205683,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5076429_cleaned,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5076080,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5027773,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5353998,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,160
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5056843,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5178602,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,182
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5188571,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5415688,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5205051,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,596,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,105
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,41,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.9,145
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,27,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,147
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1533,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,127
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1524,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,128
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1496,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,131
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1274,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,108
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5165118,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5188652,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.85,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1552,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,152
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,639,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5376565,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP 2.0 Set 6,5153038,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.85,230
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1198,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,134
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1096,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,415,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1392,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,89,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,119
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,698,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,97
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,100,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,106
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,374,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1040,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,752,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,128
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1368,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,165
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1056,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,137,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,719,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1348,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1101,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,146
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,84,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1110,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1165,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,142
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1118,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,150
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,811,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1155,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1073,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,767,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,884,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,159
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,978,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1137,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,898,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,922,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,961,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1127,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,788,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,960,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,163
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1600,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,113
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1035,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1014,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,164
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1052,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,855,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,952,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,990,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1580,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,177
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1005,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1619,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,173
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1058,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,249
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1634,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,209
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1545,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,159
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1709,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,100
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1537,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1520,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1561,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1511,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1738,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1655,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1510,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,170
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1775,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1761,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1719,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1699,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1674,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1290,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1266,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1318,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1272,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1337,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1213,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1457,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1202,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1344,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1501,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,150
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1468,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1244,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1372,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1482,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1355,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,338,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,104
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1406,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,371,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,417,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1385,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,389,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,763,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,243
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,511,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,163
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,437,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,176
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,527,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,166
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,541,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,183
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,319,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,254
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,369,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,261
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,293,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,150
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,453,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,356,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,491,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,471,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,141
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,144,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,168
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,490,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,97,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,202
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,117,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,21,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,42,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,268,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,141
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,234,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,61,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,282,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,170,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,148
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,247,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,179,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,188
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,697,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,151
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,688,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,219,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,217
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,200,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,681,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,597,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,664,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,677,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,705,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,615,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,608,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,238
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,566,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,748,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,205
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,758,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,198,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,569,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,851,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,174
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,194,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,195
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,845,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1527,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,149
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,873,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1494,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,181
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,839,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,880,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,57,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,171
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,769,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,142
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,72,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,146
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,215,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1518,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,217
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1692,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,764,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,164
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,690,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,282
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1718,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,749,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,171
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,131,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,185
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1581,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,713,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,32,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,830,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,93,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,181
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,442,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,162
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,119,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,142,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,274
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1273,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,134
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,722,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,204
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1259,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1212,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,194
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,588,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,195
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1666,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,245
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1175,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,231
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,968,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,562,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,619,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,195
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1085,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1067,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,508,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,542,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,5,0.85,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,301,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,120
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1139,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,573,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,168
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,578,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1279,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,913,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,652,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,380,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,154
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1405,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1386,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,172
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,315,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,174
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1325,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1294,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,258,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1283,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1774,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.85,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,938,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.85,185
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,967,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,294,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1760,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1255,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,118,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.85,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1447,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,224
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,111,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.85,165
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,953,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.85,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,147,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,195
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,877,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9226,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,0,0.9,171
+RQ2_holistic_hybrid_no_think,ASAP AES Set 1,1170,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10094,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,252
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8863,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,269
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9314,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9273,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,246
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10164,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9293,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10269,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10297,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9915,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,0,0.9,138
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10248,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,0,0.9,197
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10210,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,0,0.9,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9992,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,224
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9544,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10193,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9492,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,224
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9359,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9518,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9568,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9609,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,253
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9592,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,240
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9471,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,189
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9415,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9973,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,238
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10569,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8899,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9840,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10527,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8877,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10565,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,145
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10405,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10374,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10460,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8927,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10357,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8958,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,1,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9845,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,212
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9874,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,247
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9864,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,248
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10560,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9892,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9905,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9748,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,186
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9704,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9877,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9889,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9787,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9649,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10619,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9814,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,174
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9921,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,239
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9804,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10594,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,243
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9668,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,0,0.9,162
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9692,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,281
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9733,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,284
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9778,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,175
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10622,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10196,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10179,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10220,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10167,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,231
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10296,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10150,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10326,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10340,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10363,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,217
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10230,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,239
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10235,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10406,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,262
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10458,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10356,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,247
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10007,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10115,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,232
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9994,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9951,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9939,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,254
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10330,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,237
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10074,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10431,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,241
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9065,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,0,0.9,158
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10107,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10037,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,186
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10052,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10069,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9000,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9093,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10440,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9373,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9394,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9384,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9010,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9081,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,245
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9023,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9356,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,242
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9233,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9409,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,284
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9185,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9192,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9154,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9180,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9119,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9323,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,310
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9145,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9136,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8944,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9310,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9275,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9596,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9298,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,263
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9517,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9501,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8918,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9557,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8910,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,267
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9560,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,240
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8985,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,249
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9465,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8961,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8960,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,8956,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,1,0.8,290
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10634,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,221
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10588,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10576,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9156,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10173,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10631,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,268
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10615,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,247
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10188,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10377,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9149,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10616,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,267
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10485,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,254
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10170,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,245
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10389,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,256
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10455,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10444,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,201
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9103,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9008,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.85,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10323,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9085,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,196
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10417,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,251
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10540,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10366,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9416,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10529,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,1,0.8,225
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10553,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,272
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9875,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9539,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10291,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,262
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9352,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,221
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9380,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,249
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9361,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,262
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9389,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,306
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9873,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,240
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9754,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,248
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9801,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,260
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9738,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9363,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,274
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10091,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.85,188
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9767,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,250
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9493,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,251
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9527,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9444,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,238
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9448,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9816,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,238
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9975,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,268
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9600,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,197
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9640,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,242
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9670,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,276
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9603,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9258,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,288
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9219,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9682,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,221
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10518,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9999,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,283
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10015,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9571,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9551,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,228
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9570,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,237
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9332,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,270
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9274,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,1,0.8,259
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9995,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,268
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10504,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10614,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,248
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9986,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,224
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9750,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,304
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9301,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,252
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9161,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10057,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,1,0.8,273
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10200,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,267
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9346,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,232
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9830,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,231
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17927,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,0,0.9,147
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9190,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,320
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10409,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,190
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9052,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19122,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,4,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10474,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,9074,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18764,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18956,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10127,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,239
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18152,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,1,0.85,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 4,10497,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,275
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19398,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,152
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18747,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,0,0.9,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18436,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18680,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,1,0.85,264
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18149,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18903,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19134,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19358,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18355,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18290,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19184,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,166
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17905,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,1,0.85,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19151,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18310,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,240
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19081,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,208
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18514,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18743,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.8,261
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18916,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,2,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18354,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18902,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18797,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.85,178
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17903,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19491,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,1,0.85,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18509,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,1,0.85,248
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18720,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,241
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19479,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,149
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19439,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17937,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,215
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17982,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.8,241
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18659,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18403,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19036,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,177
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19042,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18754,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.8,261
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17881,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,3,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18714,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19387,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.8,157
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18484,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18529,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,2,0.8,198
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19304,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18769,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,165
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18272,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,260
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19028,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18358,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,158
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17997,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,7,0.8,326
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18564,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,7,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17965,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,5,0.8,254
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19220,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,6,4,0.8,272
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18803,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,3,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19402,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,5,0.8,180
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17941,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18129,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19163,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,182
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18801,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,0,0.9,137
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18787,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,7,0.8,256
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19263,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,7,0.8,247
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18137,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,234
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18777,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,3,0.85,289
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19092,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,4,0.8,205
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18434,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,6,0.8,330
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18072,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,7,0.8,243
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18254,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,7,6,0.8,255
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19508,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19350,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18796,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18710,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18792,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,285
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19158,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,8,0.85,189
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19176,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,192
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18760,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,6,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19489,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19420,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,271
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19554,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,274
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19078,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19357,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,327
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19111,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,168
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18999,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,200
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19462,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,6,0.8,276
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18982,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,265
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19338,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,173
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18694,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,8,0.8,340
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19011,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.85,209
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19187,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,6,0.8,330
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18881,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,254
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18855,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18933,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19228,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18480,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,160
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19253,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18554,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,178
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18891,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,229
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19292,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,271
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18133,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,1,0.8,205
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18106,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,204
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18169,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,239
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18124,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,276
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18057,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,281
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18915,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,7,0.8,310
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18292,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,7,0.8,238
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18322,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,223
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18524,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,7,0.85,265
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18369,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,259
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18285,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,209
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18449,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,6,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17967,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18603,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18238,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18230,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,7,0.8,239
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18253,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,245
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17918,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,214
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18641,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,7,0.8,244
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17853,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,3,0.8,252
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19150,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.8,160
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17845,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,224
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17986,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,8,0.85,171
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18026,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,7,0.85,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19094,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.8,171
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19108,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17913,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,4,0.8,319
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18572,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,8,5,0.8,230
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19268,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,5,0.8,167
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19499,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,280
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17859,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,288
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19286,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17998,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.85,275
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18955,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.8,155
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18062,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,5,0.8,249
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17964,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,5,0.8,242
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19169,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.85,203
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18092,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,5,0.8,264
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19116,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,332
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19475,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.8,221
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19240,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18672,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18594,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,3,0.8,199
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18475,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,218
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17930,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,6,0.8,256
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18991,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,5,0.8,217
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18608,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,4,0.8,169
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18940,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,307
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18618,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,6,0.8,226
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18847,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,4,0.8,184
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18508,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,4,0.85,299
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17872,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.8,191
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18073,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,4,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17987,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,5,0.8,179
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18708,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,5,0.8,227
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19463,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.8,188
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18691,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18624,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,9,7,0.8,312
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18664,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.8,264
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19432,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.85,240
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18049,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,5,0.8,219
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18438,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,5,0.8,193
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18391,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,8,0.85,230
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18798,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,4,0.8,235
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18407,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,5,0.8,185
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19031,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.85,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18751,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,4,0.8,187
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18178,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,8,0.85,215
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19030,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,8,0.8,221
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19079,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,4,0.8,222
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18256,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,4,0.8,205
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18705,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,4,0.8,206
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18696,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,8,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19192,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,7,0.8,216
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18985,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,4,0.8,246
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18799,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,4,0.8,264
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18477,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,7,0.8,202
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18631,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,159
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17891,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,0,0.8,170
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19471,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,5,0.8,181
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18741,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,7,0.8,207
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18430,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,10,7,0.8,427
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18528,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,8,0.8,264
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18226,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,11,7,0.85,296
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19068,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,7,0.85,274
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18685,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,7,0.85,196
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18362,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19313,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,9,0.85,202
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19516,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,6,0.8,210
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,17871,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,8,0.8,236
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18419,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,8,0.85,202
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18832,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,211
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18266,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,9,0.85,213
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18336,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,267
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18160,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,6,0.8,279
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18868,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,8,0.85,201
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18761,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,8,0.8,233
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18534,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,242
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18848,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,204
+RQ2_holistic_hybrid_no_think,ELLIPSE,E76B3F5205CD,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,1,2,0.8,186
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19421,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,4,0.8,220
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,19352,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,6,0.8,277
+RQ2_holistic_hybrid_no_think,ELLIPSE,67E711AF87A2,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,0,3,0.8,248
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18014,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,7,0.8,285
+RQ2_holistic_hybrid_no_think,ELLIPSE,C1EAD0C50570,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,200
+RQ2_holistic_hybrid_no_think,ELLIPSE,56E32CEEB127,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,190
+RQ2_holistic_hybrid_no_think,ASAP AES Set 7,18983,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,12,7,0.8,345
+RQ2_holistic_hybrid_no_think,ELLIPSE,470D092F3831,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,227
+RQ2_holistic_hybrid_no_think,ELLIPSE,584C6453CA5A,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,236
+RQ2_holistic_hybrid_no_think,ELLIPSE,D8934CA35801,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,190
+RQ2_holistic_hybrid_no_think,ELLIPSE,3418CB8125B3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,231
+RQ2_holistic_hybrid_no_think,ELLIPSE,4EB4E8611272,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,283
+RQ2_holistic_hybrid_no_think,ELLIPSE,E3611716918E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.85,224
+RQ2_holistic_hybrid_no_think,ELLIPSE,5D693DD9978D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.85,173
+RQ2_holistic_hybrid_no_think,ELLIPSE,2A4B5673EBAC,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,1,0.85,249
+RQ2_holistic_hybrid_no_think,ELLIPSE,D41787486DA6,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,226
+RQ2_holistic_hybrid_no_think,ELLIPSE,51BAD5699073,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,288
+RQ2_holistic_hybrid_no_think,ELLIPSE,7F0B7DDE89B2,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,209
+RQ2_holistic_hybrid_no_think,ELLIPSE,A4DA4201903F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,1,0.85,201
+RQ2_holistic_hybrid_no_think,ELLIPSE,DBAB680CBC5D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,1,0.85,253
+RQ2_holistic_hybrid_no_think,ELLIPSE,8F3B39C509B9,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,242
+RQ2_holistic_hybrid_no_think,ELLIPSE,79098D096CB8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,245
+RQ2_holistic_hybrid_no_think,ELLIPSE,94ACF6006DB9,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,235
+RQ2_holistic_hybrid_no_think,ELLIPSE,84CE7281265F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,224
+RQ2_holistic_hybrid_no_think,ELLIPSE,6792C2E73B6A,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,187
+RQ2_holistic_hybrid_no_think,ELLIPSE,5F407964AF46,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,189
+RQ2_holistic_hybrid_no_think,ELLIPSE,B8F0ECC9DC86,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,231
+RQ2_holistic_hybrid_no_think,ELLIPSE,69C15737269C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,226
+RQ2_holistic_hybrid_no_think,ELLIPSE,AE0DB193F5B5,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,193
+RQ2_holistic_hybrid_no_think,ELLIPSE,B3145EA3395B,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,239
+RQ2_holistic_hybrid_no_think,ELLIPSE,1829D6D139C2,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,201
+RQ2_holistic_hybrid_no_think,ELLIPSE,F50C9936F416,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,207
+RQ2_holistic_hybrid_no_think,ELLIPSE,A975CBC4A7E8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,252
+RQ2_holistic_hybrid_no_think,ELLIPSE,FAAFFC983E47,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,182
+RQ2_holistic_hybrid_no_think,ELLIPSE,ED74D2C2403B,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,239
+RQ2_holistic_hybrid_no_think,ELLIPSE,206522E53696,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,272
+RQ2_holistic_hybrid_no_think,ELLIPSE,ED57CFEC1CF1,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,256
+RQ2_holistic_hybrid_no_think,ELLIPSE,F9072F36ECE7,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,159
+RQ2_holistic_hybrid_no_think,ELLIPSE,FEA2C3FB45D1,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,247
+RQ2_holistic_hybrid_no_think,ELLIPSE,296B1DD1E251,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,3,0.8,220
+RQ2_holistic_hybrid_no_think,ELLIPSE,FA0A22FE957A,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,244
+RQ2_holistic_hybrid_no_think,ELLIPSE,F7DD6134C693,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,270
+RQ2_holistic_hybrid_no_think,ELLIPSE,AAE16C990870,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,169
+RQ2_holistic_hybrid_no_think,ELLIPSE,EA37D9C12C91,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,2,2,0.8,242
+RQ2_holistic_hybrid_no_think,ELLIPSE,ABBE700093F0,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,203
+RQ2_holistic_hybrid_no_think,ELLIPSE,FA08CD5A2E48,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,205
+RQ2_holistic_hybrid_no_think,ELLIPSE,B2055DB7B29E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,163
+RQ2_holistic_hybrid_no_think,ELLIPSE,AD5F7E8C127F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,172
+RQ2_holistic_hybrid_no_think,ELLIPSE,B459B5B87707,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.85,196
+RQ2_holistic_hybrid_no_think,ELLIPSE,A39660CA003E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,244
+RQ2_holistic_hybrid_no_think,ELLIPSE,E8795A1AA404,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,211
+RQ2_holistic_hybrid_no_think,ELLIPSE,B6A5721D64C1,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,205
+RQ2_holistic_hybrid_no_think,ELLIPSE,FA2DE7E82907,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,232
+RQ2_holistic_hybrid_no_think,ELLIPSE,B1C410876D33,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,225
+RQ2_holistic_hybrid_no_think,ELLIPSE,FEAF4F517583,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,177
+RQ2_holistic_hybrid_no_think,ELLIPSE,FF4CBDA0E418,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,191
+RQ2_holistic_hybrid_no_think,ELLIPSE,9735E542665C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,194
+RQ2_holistic_hybrid_no_think,ELLIPSE,AFC600D922F6,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,231
+RQ2_holistic_hybrid_no_think,ELLIPSE,523130079501,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,188
+RQ2_holistic_hybrid_no_think,ELLIPSE,92B418CEA06E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,207
+RQ2_holistic_hybrid_no_think,ELLIPSE,976E2E05C4EB,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,253
+RQ2_holistic_hybrid_no_think,ELLIPSE,998DA357F910,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,197
+RQ2_holistic_hybrid_no_think,ELLIPSE,9DDBBA28EBD0,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,210
+RQ2_holistic_hybrid_no_think,ELLIPSE,902341F8EB11,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,269
+RQ2_holistic_hybrid_no_think,ELLIPSE,FB4D3D883D49,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,254
+RQ2_holistic_hybrid_no_think,ELLIPSE,9EADCECA2FB8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,280
+RQ2_holistic_hybrid_no_think,ELLIPSE,A0A2D6856B0E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,245
+RQ2_holistic_hybrid_no_think,ELLIPSE,9CE077EDCC85,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,211
+RQ2_holistic_hybrid_no_think,ELLIPSE,EEEF81C2E133,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,211
+RQ2_holistic_hybrid_no_think,ELLIPSE,D10BBD82D66F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.85,217
+RQ2_holistic_hybrid_no_think,ELLIPSE,9B4EEAAB752E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,221
+RQ2_holistic_hybrid_no_think,ELLIPSE,D03CE04CF47C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,162
+RQ2_holistic_hybrid_no_think,ELLIPSE,D35A126B4379,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,223
+RQ2_holistic_hybrid_no_think,ELLIPSE,D30614F0911F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,227
+RQ2_holistic_hybrid_no_think,ELLIPSE,EFD563DFAC60,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,230
+RQ2_holistic_hybrid_no_think,ELLIPSE,DAD5BCDAB7DD,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,196
+RQ2_holistic_hybrid_no_think,ELLIPSE,EB03C897F7E8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.85,198
+RQ2_holistic_hybrid_no_think,ELLIPSE,E96C0F9CE5E3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,271
+RQ2_holistic_hybrid_no_think,ELLIPSE,EA40087521CC,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,4,0.85,257
+RQ2_holistic_hybrid_no_think,ELLIPSE,D5C7AA1266CC,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,208
+RQ2_holistic_hybrid_no_think,ELLIPSE,D7817C171926,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,207
+RQ2_holistic_hybrid_no_think,ELLIPSE,EC8590A774E6,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,211
+RQ2_holistic_hybrid_no_think,ELLIPSE,F3A5981B0288,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,188
+RQ2_holistic_hybrid_no_think,ELLIPSE,CA4941643D09,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,199
+RQ2_holistic_hybrid_no_think,ELLIPSE,BF580042A644,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,208
+RQ2_holistic_hybrid_no_think,ELLIPSE,BB06ADBF1640,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,211
+RQ2_holistic_hybrid_no_think,ELLIPSE,F495D071AE60,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,237
+RQ2_holistic_hybrid_no_think,ELLIPSE,DCEE7FD21CFD,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,306
+RQ2_holistic_hybrid_no_think,ELLIPSE,F584D9BB5F5C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,228
+RQ2_holistic_hybrid_no_think,ELLIPSE,E110443F5184,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,250
+RQ2_holistic_hybrid_no_think,ELLIPSE,E1AE7FDD072F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,252
+RQ2_holistic_hybrid_no_think,ELLIPSE,C48A4DC42846,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,174
+RQ2_holistic_hybrid_no_think,ELLIPSE,C8EBB096262B,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,278
+RQ2_holistic_hybrid_no_think,ELLIPSE,F12C7794CDCB,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,239
+RQ2_holistic_hybrid_no_think,ELLIPSE,F22FE8D7FA16,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,195
+RQ2_holistic_hybrid_no_think,ELLIPSE,58567312BDAB,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,196
+RQ2_holistic_hybrid_no_think,ELLIPSE,CAC6822F740C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,266
+RQ2_holistic_hybrid_no_think,ELLIPSE,2358C2CE9966,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,164
+RQ2_holistic_hybrid_no_think,ELLIPSE,C5CA6C22BAFE,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,1,0.85,268
+RQ2_holistic_hybrid_no_think,ELLIPSE,5902C2E86345,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,212
+RQ2_holistic_hybrid_no_think,ELLIPSE,559902F0A513,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,234
+RQ2_holistic_hybrid_no_think,ELLIPSE,50611B996992,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,209
+RQ2_holistic_hybrid_no_think,ELLIPSE,5A9C20C851FD,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,242
+RQ2_holistic_hybrid_no_think,ELLIPSE,506A69171959,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,213
+RQ2_holistic_hybrid_no_think,ELLIPSE,6586DF43A92D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,203
+RQ2_holistic_hybrid_no_think,ELLIPSE,17E521D5F29C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,231
+RQ2_holistic_hybrid_no_think,ELLIPSE,1C2665B95694,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,215
+RQ2_holistic_hybrid_no_think,ELLIPSE,5C2A497012B9,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,202
+RQ2_holistic_hybrid_no_think,ELLIPSE,2EF984473EC5,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,198
+RQ2_holistic_hybrid_no_think,ELLIPSE,4D7E52C79A3D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,206
+RQ2_holistic_hybrid_no_think,ELLIPSE,674F5DA988D2,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,279
+RQ2_holistic_hybrid_no_think,ELLIPSE,33ADAAB38BFC,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,201
+RQ2_holistic_hybrid_no_think,ELLIPSE,4002D91C6B6C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,219
+RQ2_holistic_hybrid_no_think,ELLIPSE,642E44E8DD25,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,312
+RQ2_holistic_hybrid_no_think,ELLIPSE,1AA55FB101FD,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,278
+RQ2_holistic_hybrid_no_think,ELLIPSE,39776B3A4C70,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,205
+RQ2_holistic_hybrid_no_think,ELLIPSE,2BE976C99FDF,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,188
+RQ2_holistic_hybrid_no_think,ELLIPSE,34553E598A00,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,253
+RQ2_holistic_hybrid_no_think,ELLIPSE,410D72D3CCE8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,295
+RQ2_holistic_hybrid_no_think,ELLIPSE,2A7997AE8E72,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,192
+RQ2_holistic_hybrid_no_think,ELLIPSE,483EE18C996B,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,229
+RQ2_holistic_hybrid_no_think,ELLIPSE,4D377B163021,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,211
+RQ2_holistic_hybrid_no_think,ELLIPSE,28C8F048A469,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,221
+RQ2_holistic_hybrid_no_think,ELLIPSE,2BA422F3619F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,238
+RQ2_holistic_hybrid_no_think,ELLIPSE,064423D845B1,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,201
+RQ2_holistic_hybrid_no_think,ELLIPSE,4ABC0ED00F91,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,266
+RQ2_holistic_hybrid_no_think,ELLIPSE,757C5E55BA96,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,186
+RQ2_holistic_hybrid_no_think,ELLIPSE,7797541CF0A6,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,204
+RQ2_holistic_hybrid_no_think,ELLIPSE,7B802407D629,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,255
+RQ2_holistic_hybrid_no_think,ELLIPSE,7982F5F494E2,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,219
+RQ2_holistic_hybrid_no_think,ELLIPSE,450A7F9AC54A,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,271
+RQ2_holistic_hybrid_no_think,ELLIPSE,82722CEBCAB3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,192
+RQ2_holistic_hybrid_no_think,ELLIPSE,017D2125A1DE,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,195
+RQ2_holistic_hybrid_no_think,ELLIPSE,8B1EB1890F9B,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,227
+RQ2_holistic_hybrid_no_think,ELLIPSE,027CB6393714,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,245
+RQ2_holistic_hybrid_no_think,ELLIPSE,0465517EB6B7,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,189
+RQ2_holistic_hybrid_no_think,ELLIPSE,03D00899C901,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,263
+RQ2_holistic_hybrid_no_think,ELLIPSE,079FDB42E429,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.85,316
+RQ2_holistic_hybrid_no_think,ELLIPSE,84FC9651F650,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.8,221
+RQ2_holistic_hybrid_no_think,ELLIPSE,7138786DA45C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,191
+RQ2_holistic_hybrid_no_think,ELLIPSE,6B2FD789B8C8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,165
+RQ2_holistic_hybrid_no_think,ELLIPSE,13578C0BCC3C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,200
+RQ2_holistic_hybrid_no_think,ELLIPSE,70B91D253E27,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,230
+RQ2_holistic_hybrid_no_think,ELLIPSE,6EF7CBB46501,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,248
+RQ2_holistic_hybrid_no_think,ELLIPSE,F2165F132C87,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,188
+RQ2_holistic_hybrid_no_think,ELLIPSE,E2F767441B44,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,195
+RQ2_holistic_hybrid_no_think,ELLIPSE,6CB7C1B3C548,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,2,0.85,242
+RQ2_holistic_hybrid_no_think,ELLIPSE,FE1D0E5EA2EB,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,190
+RQ2_holistic_hybrid_no_think,ELLIPSE,15B68B826F8D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,191
+RQ2_holistic_hybrid_no_think,ELLIPSE,E36B406AFE70,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,203
+RQ2_holistic_hybrid_no_think,ELLIPSE,750AFA674F45,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,3,3,0.8,239
+RQ2_holistic_hybrid_no_think,ELLIPSE,0016926B079C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,167
+RQ2_holistic_hybrid_no_think,ELLIPSE,01B3FDB3FD57,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,171
+RQ2_holistic_hybrid_no_think,ELLIPSE,FF190BD8380B,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,190
+RQ2_holistic_hybrid_no_think,ELLIPSE,2723DB12AC00,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,189
+RQ2_holistic_hybrid_no_think,ELLIPSE,24C654C85C1F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,185
+RQ2_holistic_hybrid_no_think,ELLIPSE,0F8436260047,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,155
+RQ2_holistic_hybrid_no_think,ELLIPSE,2A96CE614119,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,196
+RQ2_holistic_hybrid_no_think,ELLIPSE,E8B0698217A3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,240
+RQ2_holistic_hybrid_no_think,ELLIPSE,E21C97204867,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,288
+RQ2_holistic_hybrid_no_think,ELLIPSE,EB5924FBD25C,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,205
+RQ2_holistic_hybrid_no_think,ELLIPSE,AC5D4FAD6FDA,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,186
+RQ2_holistic_hybrid_no_think,ELLIPSE,E6338A929654,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,213
+RQ2_holistic_hybrid_no_think,ELLIPSE,0A1482CD6163,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,293
+RQ2_holistic_hybrid_no_think,ELLIPSE,F1620489BEB3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,255
+RQ2_holistic_hybrid_no_think,ELLIPSE,AF4A2E8AD2A5,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,223
+RQ2_holistic_hybrid_no_think,ELLIPSE,A72A4397F9F5,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,209
+RQ2_holistic_hybrid_no_think,ELLIPSE,A9A152AAFBE1,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,214
+RQ2_holistic_hybrid_no_think,ELLIPSE,E6CF2D3B4FA2,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,257
+RQ2_holistic_hybrid_no_think,ELLIPSE,A4BBB301E3CE,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,186
+RQ2_holistic_hybrid_no_think,ELLIPSE,B9BA0955819D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,239
+RQ2_holistic_hybrid_no_think,ELLIPSE,BCF16DEB277E,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,241
+RQ2_holistic_hybrid_no_think,ELLIPSE,8B9EEF86DD66,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,167
+RQ2_holistic_hybrid_no_think,ELLIPSE,6805FE96E548,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,275
+RQ2_holistic_hybrid_no_think,ELLIPSE,92B8F2F85C44,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,226
+RQ2_holistic_hybrid_no_think,ELLIPSE,8397368B57EA,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.85,228
+RQ2_holistic_hybrid_no_think,ELLIPSE,7949A941BF0F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,185
+RQ2_holistic_hybrid_no_think,ELLIPSE,D390FE972D8F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,166
+RQ2_holistic_hybrid_no_think,ELLIPSE,A3E6A572C6E5,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,231
+RQ2_holistic_hybrid_no_think,ELLIPSE,90E2214EFEC8,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,235
+RQ2_holistic_hybrid_no_think,ELLIPSE,7D955FAD0C73,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,195
+RQ2_holistic_hybrid_no_think,ELLIPSE,D684AE8A9418,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,189
+RQ2_holistic_hybrid_no_think,ELLIPSE,6712BD512DB7,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,369
+RQ2_holistic_hybrid_no_think,ELLIPSE,9DD22B9D10F4,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,215
+RQ2_holistic_hybrid_no_think,ELLIPSE,D0211302AE30,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,203
+RQ2_holistic_hybrid_no_think,ELLIPSE,7E48A7A7B400,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,257
+RQ2_holistic_hybrid_no_think,ELLIPSE,3DB503D247B3,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,181
+RQ2_holistic_hybrid_no_think,ELLIPSE,39524C93F4D4,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,230
+RQ2_holistic_hybrid_no_think,ELLIPSE,5CF895003869,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,190
+RQ2_holistic_hybrid_no_think,ELLIPSE,DD66EBC605D1,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,259
+RQ2_holistic_hybrid_no_think,ELLIPSE,D250DB9080E0,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,282
+RQ2_holistic_hybrid_no_think,ELLIPSE,3CDCFB2C7F25,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.85,261
+RQ2_holistic_hybrid_no_think,ELLIPSE,C97C2190DB65,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,205
+RQ2_holistic_hybrid_no_think,ELLIPSE,C6DDD966C9FC,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,4,0.85,276
+RQ2_holistic_hybrid_no_think,ELLIPSE,CEAD27DE3263,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,209
+RQ2_holistic_hybrid_no_think,ELLIPSE,58E485E875D5,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,216
+RQ2_holistic_hybrid_no_think,ELLIPSE,CD7201C66BBC,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,162
+RQ2_holistic_hybrid_no_think,ELLIPSE,F05D3802BC94,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,170
+RQ2_holistic_hybrid_no_think,ELLIPSE,34C829F3DC6A,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.85,333
+RQ2_holistic_hybrid_no_think,ELLIPSE,5DB370AD8EFB,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,2,0.8,223
+RQ2_holistic_hybrid_no_think,ELLIPSE,3D29C845934D,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,3,0.8,223
+RQ2_holistic_hybrid_no_think,ELLIPSE,4EECC9B3CF7F,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,4,3,0.8,251
+RQ2_holistic_hybrid_no_think,ELLIPSE,BDA166D1989A,neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic,holistic,5,4,0.85,275

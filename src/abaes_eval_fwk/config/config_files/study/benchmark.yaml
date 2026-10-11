@@ -1,0 +1,15 @@
+# Component paths are relative to this file.
+schema_version: 1
+components:
+  paths: config/paths.yaml
+  datasets: config/datasets.yaml
+  sampling: config/sampling.yaml
+  retrieval: config/retrieval.yaml
+  prompts: config/prompts.yaml
+  runtime: config/runtime.yaml
+  models: config/models.yaml
+  experiments:
+  - config/rq1.yaml
+  - config/rq2.yaml
+  - config/rq3.yaml
+  - config/rq4.yaml

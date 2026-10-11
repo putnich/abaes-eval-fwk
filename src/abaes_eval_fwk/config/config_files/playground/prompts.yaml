@@ -1,0 +1,71 @@
+# The grading prompt templates, as sent to the model. Editing a template here changes what every
+# experiment in this project asks for; the run manifest records the resolved text, and a resume
+# rejects a run whose prompts changed, so an edit is a new experiment rather than a silent one.
+#
+# A template may use these placeholders and no others:
+#   both slots      assignment_type, assignment_prompt, source_essay, student_work, score_min,
+#                   score_max, examples_block, examples_comparison_step,
+#                   source_verification_step, brevity_instruction
+#   holistic        rubric_guidelines
+#   criterion       criterion_label, criterion_guidelines
+# student_work, score_min, score_max, examples_block and the slot's own guidelines are required:
+# a template without them would grade nothing, or would silently drop retrieved examples.
+#
+# `file:` reads the template from a path relative to benchmark.yaml instead of inlining it:
+#   holistic:
+#     file: prompts/holistic.txt
+prompts:
+  # Single-agent grading against the whole rubric.
+  holistic: |-
+    You are an expert evaluator for student {assignment_type}s.
+
+    Prompt given to the student:
+    """
+    {assignment_prompt}
+    """{source_essay}
+
+    Scoring rubric:
+    """
+    {rubric_guidelines}
+    """
+
+    Official score range: {score_min}–{score_max}
+    {examples_block}
+
+    Student submission to grade:
+    """
+    {student_work}
+    """
+
+    Follow this grading process:
+    1. Read the rubric score level guidelines and identify what distinguishes each score.
+    2. Compare the submission holistically against the rubric score level guidelines to determine which score it most closely resembles overall.{examples_comparison_step}{source_verification_step}
+    3. Compare against adjacent score level guidelines to verify the score determined in step 2.
+    4. Assign a single final score on the official scale {score_min}–{score_max}. Provide a brief justification of the grading decision, grounded in the rubric's score-level guidelines and specific evidence from the submission.{brevity_instruction}
+
+  # One rubric criterion, graded by its own specialist.
+  criterion_specialized: |-
+    You are an expert {criterion_label} criterion evaluator for student {assignment_type}s. Your job is to assess {criterion_label} only.
+
+    Prompt given to the student:
+    """
+    {assignment_prompt}
+    """{source_essay}
+
+    Scoring rubric for this {criterion_label} criterion:
+    """
+    {criterion_guidelines}
+    """
+
+    Official score range for {criterion_label} criterion: {score_min}–{score_max}{examples_block}
+
+    Student submission to grade:
+    """
+    {student_work}
+    """
+
+    Follow this grading process:
+    1. Read the criterion score level guidelines above and identify what distinguishes each score.
+    2. Compare the submission against the criterion score level guidelines to determine which score it most closely resembles for {criterion_label}.{examples_comparison_step} Evaluate only {criterion_label} criterion — ignore strengths or weaknesses in other dimensions.{source_verification_step}
+    3. Compare against adjacent criterion score level guidelines to verify the score determined in step 2.
+    4. Assign a score within {score_min}–{score_max}. Provide a brief justification of your grading decision, grounded in the rubric criterion's score-level guidelines and specific evidence from the submission.{brevity_instruction}

@@ -1,0 +1,43 @@
+experiments:
+- name: rq1-zero_shot
+  rq: RQ1
+  model: model_a
+  architecture: holistic
+  retrieval: zero_shot
+  reasoning: ""
+- name: rq1-random
+  rq: RQ1
+  model: model_a
+  architecture: holistic
+  retrieval: random
+  reasoning: ""
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+- name: rq1-lexical
+  rq: RQ1
+  model: model_a
+  architecture: holistic
+  retrieval: lexical
+  reasoning: ""
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+- name: rq1-semantic
+  rq: RQ1
+  model: model_a
+  architecture: holistic
+  retrieval: semantic
+  reasoning: ""
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+- name: rq1-hybrid
+  rq: RQ1
+  model: model_a
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: ""
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]

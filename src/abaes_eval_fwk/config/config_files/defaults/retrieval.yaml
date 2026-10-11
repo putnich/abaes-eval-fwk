@@ -1,0 +1,4 @@
+retrieval:
+  strategy: hybrid
+  n_ex_per_score: 1
+  max_examples: 6

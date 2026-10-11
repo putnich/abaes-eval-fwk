@@ -1,0 +1,1201 @@
+experiment_id,dataset,essay_id,model,criterion,human_score,pred_score,confidence,completion_tokens
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000073499,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.99,159
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000096378,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.9,179
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000143500,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,3,0.8,188
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000152250,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.9,187
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000127367,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,183
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000056028,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,193
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000088490,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.9,200
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000141617,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.99,207
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000021569,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.99,206
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000119877,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,219
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000052192,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,228
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000104712,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,229
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000106128,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,230
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000036004,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,228
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000104932,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.99,230
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000154190,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000063240,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,3,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000022437,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,238
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000132708,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.99,245
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000015662,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,4,0.8,247
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000034921,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.99,242
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000073390,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,262
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000101700,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,267
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000103314,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,268
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000071320,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,285
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000051084,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,292
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000046876,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.95,107
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000123835,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,298
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000045503,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,303
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000047285,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,309
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000049726,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,328
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000046400,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.95,189
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000046635,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000044048,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,235
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000106180,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.95,222
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000078150,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000045696,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000099918,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,163
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000086325,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,212
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000046931,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,305
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000084024,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,212
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000084909,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,284
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000096933,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,249
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000151894,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,237
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000149370,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,286
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000152245,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,247
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000050796,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,291
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000095189,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000131990,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,271
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000058378,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,175
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000025188,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,179
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000146457,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,185
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000133547,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,331
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000087533,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000145441,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,227
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000099435,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,229
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000139628,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,210
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000082443,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000090338,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,243
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000150199,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,271
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000033948,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,294
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000142893,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,289
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000088551,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,288
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000134577,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.95,208
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000102645,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,220
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000031934,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,342
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000031856,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,227
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000053501,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,236
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000142495,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,280
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000030093,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,194
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000023596,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,168
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000049164,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,154
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000069844,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,186
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000063872,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,190
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000064533,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,189
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000143311,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,228
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000157334,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,226
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000038366,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000042987,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,253
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000043321,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,259
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000068502,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,258
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000119079,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,267
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000128221,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,156
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000094972,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,166
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000019787,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,287
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000123037,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,294
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000066395,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000123843,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,314
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000038630,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,203
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000062797,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,314
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000010360,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,327
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000049308,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,222
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000049327,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,230
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000118642,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,229
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000042292,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000048341,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.9,177
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000043603,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,284
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000050880,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,235
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000037267,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,303
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000108313,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,276
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000094485,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,300
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000035813,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,223
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000100158,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,246
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000048209,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,213
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000051274,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000040054,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,253
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000030197,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000029555,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000043711,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,319
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000042514,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,321
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000059767,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,253
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000108646_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,206
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000027796,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,253
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000032489,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,223
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000058904,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,267
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000033455,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,269
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000143280,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,228
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000100048,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,218
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000136162,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,249
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000135872,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,287
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000052577,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,310
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000139121,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,300
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000102380,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,302
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000094889,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,293
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000101391,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,258
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000124773,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,218
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000116333,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,224
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000136384,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,311
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000118937,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,231
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000109743,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,242
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000120847,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000132087,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,191
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000119649,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,276
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000112075,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,224
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000108643,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,241
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000079703,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,206
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000133270,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,274
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000087749,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,214
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000149549,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,216
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000132676,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,247
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000154382,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,210
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000081429,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,247
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000089258,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,279
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000151955,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,235
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000145243,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,210
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000093585,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,220
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000081890,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,301
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000092377,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,247
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000157379,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,216
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000129002,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,218
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000142898,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,1,0.95,181
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000092891,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,293
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000081676,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,343
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000077846,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,271
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000035265,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,239
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000159359,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,5,0.8,270
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000036686,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,264
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000139252,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000148183,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,307
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000141755,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,274
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000032454,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,216
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000033409,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000033673,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000032429,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,260
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000024739,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,291
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000055389,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000102245,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,215
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000144238,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,308
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000093492,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000053564,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,289
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000032287,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,309
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000102627,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000098119,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,251
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000084788,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,214
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000087701,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,220
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000067225,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,263
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000075505,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000049266,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,178
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000046576,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,213
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000058021,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,257
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000074033,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,287
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000110218,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,273
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000080080,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.9,316
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000105210,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.9,220
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000105543,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,212
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000048918,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,255
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000121348,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,270
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000044284,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,2,0.8,205
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000044727,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,303
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000117287,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,325
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000032372,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000040194,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,249
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000096216,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,252
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000047276,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,366
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000123520,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,281
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000151402,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.9,244
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000044937,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,3,0.8,223
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5352700,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,182
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000109200,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,283
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000110358,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,289
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5079729,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,231
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171607,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,201
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5022023,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,278
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5265328,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,204
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5076453,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,243
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5359645,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,221
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5074547,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,299
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5061444,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,1.0,225
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171908,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,213
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5162258,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,164
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5053766,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,266
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5381607,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,3,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5149806,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,3,0.8,247
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5057163_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.95,200
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5180611,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,293
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5165324,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,273
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5149792,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,192
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5153838,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,252
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5313049,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,195
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5024225_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,176
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5307521,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,229
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5029038,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,1.0,231
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5083437,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,217
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5308107,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.9,170
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5219014,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,248
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171938,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,190
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5026168,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,267
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5299418,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,256
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5218276,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.9,297
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5267679,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,238
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5024156,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5298119,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5302836_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,237
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5022909,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,222
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5180886,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,209
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171811,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,256
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5153251,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,143
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171437,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,225
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196466,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,160
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5166364,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,168
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5079619,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,327
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5025932,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,207
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5025668,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,180
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5060192,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,181
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5083398,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,335
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5069889,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,167
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5178282,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,318
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5415131,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,207
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5154173,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,266
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196194,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5370764,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,251
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5356579,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5056889,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,241
+RQ1_holistic_semantic,ASAP 2.0 Set 1,AAAVUP14319000099406,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,357
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5377361,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,282
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5060598,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,246
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5031449,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,207
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5366769,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,207
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5367616,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,204
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5028292,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,205
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5059402,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,211
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5342188,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,236
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5353888,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.95,284
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5053819,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,286
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5344275,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,228
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5060918,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,290
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5074557,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5164272,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5076340,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,297
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5178499,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.95,188
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5348063,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,286
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5056904,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,293
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5024940,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,287
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5173820,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,244
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5032166,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,224
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5030819,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5174081,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,277
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5023713,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,236
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5031000,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,299
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5170100,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,300
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171692,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,279
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171945,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,222
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5089330,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,225
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5027653,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,192
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5083338,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,244
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5076393,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,202
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5079951,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,203
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5057274,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,177
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5164103,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.95,181
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5085008,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,269
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5071314,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,275
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5062301,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,223
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5057102,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,182
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5079830,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,258
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5079584,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,280
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5157222,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,263
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5156579,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,265
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5026392,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,233
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5153231,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,241
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5299416,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,176
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5205250,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,177
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5299803,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,206
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5149974,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,278
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5313448,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,223
+RQ1_holistic_semantic,ASAP 2.0 Set 6,7010014_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,266
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5299058,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,248
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5347942,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,234
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5214552,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,1.0,208
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5152935,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,283
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5057227_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5212805,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5198140,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,278
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5342158,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,307
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5381990,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,240
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5361245,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,225
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5154186_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,251
+RQ1_holistic_semantic,ASAP 2.0 Set 6,7076715,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,265
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5218815,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,311
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5378536,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,223
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5205601,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,352
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5299331_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,290
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5351968,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,261
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5351820,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,305
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5173942_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,308
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5376733,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,251
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5180628,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,213
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5353557,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,321
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5188369,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,242
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5184633,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,248
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5369943,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,269
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5205097,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,200
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5184301,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,224
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196439,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,235
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196157,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,284
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5173872,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,246
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5173999,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,259
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5188602,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,307
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5180847,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,218
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5180712,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,288
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5370042,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196660,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,304
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5031341,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,263
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5026222,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,180
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5354232,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,265
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5356708,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5153916,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,295
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5353906,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,297
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5025717,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,259
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5178823,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,195
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5348149_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,242
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5079652,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,163
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5176755,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,228
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5156921,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,239
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5366160,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,318
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5367081,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,319
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5173983_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,329
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5028466,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5215498,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,206
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5023527,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,292
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5303180,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,232
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5415965,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,296
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5178600,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.9,301
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5188384,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,224
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5083363,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,199
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5027671,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,303
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5214532,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,215
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5176754,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,334
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5214639,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,245
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5184687,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,210
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5218562,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.9,272
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171481,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,197
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5152917,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5188713,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,252
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5074693,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,253
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5164802,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,289
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196270,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,254
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5349654,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,263
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5076080,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,210
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5212740,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,215
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5196476,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,258
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5353998,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,208
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5076429_cleaned,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,230
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5171668,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,226
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5165118,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,184
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5205683,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,258
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5025141,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.9,270
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5212683,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.9,279
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5188571,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,231
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5351554,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,253
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5074440,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,349
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5027773,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,294
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5076215,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,281
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5184602,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,285
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5056843,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,287
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5178602,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.9,285
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5415688,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,280
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5205051,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,291
+RQ1_holistic_semantic,ASAP AES Set 1,41,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,1.0,221
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5188652,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.9,283
+RQ1_holistic_semantic,ASAP AES Set 1,1552,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.9,195
+RQ1_holistic_semantic,ASAP AES Set 1,100,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,119
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5153038,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.9,312
+RQ1_holistic_semantic,ASAP 2.0 Set 6,5376565,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.9,313
+RQ1_holistic_semantic,ASAP AES Set 1,27,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,1.0,281
+RQ1_holistic_semantic,ASAP AES Set 1,1533,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,214
+RQ1_holistic_semantic,ASAP AES Set 1,1274,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,187
+RQ1_holistic_semantic,ASAP AES Set 1,639,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,239
+RQ1_holistic_semantic,ASAP AES Set 1,1496,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,257
+RQ1_holistic_semantic,ASAP AES Set 1,596,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 1,1392,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,4,0.8,312
+RQ1_holistic_semantic,ASAP AES Set 1,1096,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,1.0,316
+RQ1_holistic_semantic,ASAP AES Set 1,1198,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,227
+RQ1_holistic_semantic,ASAP AES Set 1,1524,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 1,698,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,198
+RQ1_holistic_semantic,ASAP AES Set 1,374,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,251
+RQ1_holistic_semantic,ASAP AES Set 1,1040,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,246
+RQ1_holistic_semantic,ASAP AES Set 1,137,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,192
+RQ1_holistic_semantic,ASAP AES Set 1,1368,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,235
+RQ1_holistic_semantic,ASAP AES Set 1,1348,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,247
+RQ1_holistic_semantic,ASAP AES Set 1,1056,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,266
+RQ1_holistic_semantic,ASAP AES Set 1,84,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 1,89,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,270
+RQ1_holistic_semantic,ASAP AES Set 1,752,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,264
+RQ1_holistic_semantic,ASAP AES Set 1,719,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,258
+RQ1_holistic_semantic,ASAP AES Set 1,1110,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,240
+RQ1_holistic_semantic,ASAP AES Set 1,415,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,325
+RQ1_holistic_semantic,ASAP AES Set 1,1073,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,264
+RQ1_holistic_semantic,ASAP AES Set 1,1101,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,227
+RQ1_holistic_semantic,ASAP AES Set 1,1165,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,198
+RQ1_holistic_semantic,ASAP AES Set 1,1155,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,241
+RQ1_holistic_semantic,ASAP AES Set 1,1137,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,218
+RQ1_holistic_semantic,ASAP AES Set 1,811,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,336
+RQ1_holistic_semantic,ASAP AES Set 1,1127,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,287
+RQ1_holistic_semantic,ASAP AES Set 1,767,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 1,884,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,259
+RQ1_holistic_semantic,ASAP AES Set 1,978,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,258
+RQ1_holistic_semantic,ASAP AES Set 1,898,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,281
+RQ1_holistic_semantic,ASAP AES Set 1,961,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 1,1052,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,241
+RQ1_holistic_semantic,ASAP AES Set 1,990,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,224
+RQ1_holistic_semantic,ASAP AES Set 1,922,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 1,952,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 1,1118,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,327
+RQ1_holistic_semantic,ASAP AES Set 1,788,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,314
+RQ1_holistic_semantic,ASAP AES Set 1,1014,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,228
+RQ1_holistic_semantic,ASAP AES Set 1,855,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,242
+RQ1_holistic_semantic,ASAP AES Set 1,960,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,278
+RQ1_holistic_semantic,ASAP AES Set 1,1035,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 1,1005,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 1,1537,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,232
+RQ1_holistic_semantic,ASAP AES Set 1,1580,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 1,1058,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,316
+RQ1_holistic_semantic,ASAP AES Set 1,1600,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,290
+RQ1_holistic_semantic,ASAP AES Set 1,1738,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,200
+RQ1_holistic_semantic,ASAP AES Set 1,1619,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 1,1545,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 1,1634,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,309
+RQ1_holistic_semantic,ASAP AES Set 1,1520,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 1,1511,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 1,1337,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,171
+RQ1_holistic_semantic,ASAP AES Set 1,1561,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 1,1719,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,267
+RQ1_holistic_semantic,ASAP AES Set 1,1655,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,214
+RQ1_holistic_semantic,ASAP AES Set 1,1761,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,222
+RQ1_holistic_semantic,ASAP AES Set 1,1510,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,196
+RQ1_holistic_semantic,ASAP AES Set 1,1213,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,184
+RQ1_holistic_semantic,ASAP AES Set 1,1202,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,197
+RQ1_holistic_semantic,ASAP AES Set 1,1775,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,241
+RQ1_holistic_semantic,ASAP AES Set 1,1266,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,192
+RQ1_holistic_semantic,ASAP AES Set 1,1709,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,245
+RQ1_holistic_semantic,ASAP AES Set 1,1457,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,187
+RQ1_holistic_semantic,ASAP AES Set 1,1318,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,227
+RQ1_holistic_semantic,ASAP AES Set 1,1290,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,232
+RQ1_holistic_semantic,ASAP AES Set 1,1674,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,281
+RQ1_holistic_semantic,ASAP AES Set 1,1244,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,237
+RQ1_holistic_semantic,ASAP AES Set 1,1272,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 1,1699,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,273
+RQ1_holistic_semantic,ASAP AES Set 1,1344,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,237
+RQ1_holistic_semantic,ASAP AES Set 1,1501,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,201
+RQ1_holistic_semantic,ASAP AES Set 1,1355,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 1,1482,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 1,1468,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,306
+RQ1_holistic_semantic,ASAP AES Set 1,369,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,191
+RQ1_holistic_semantic,ASAP AES Set 1,389,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,227
+RQ1_holistic_semantic,ASAP AES Set 1,371,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,240
+RQ1_holistic_semantic,ASAP AES Set 1,1372,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,312
+RQ1_holistic_semantic,ASAP AES Set 1,763,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 1,1385,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 1,356,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,226
+RQ1_holistic_semantic,ASAP AES Set 1,417,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,251
+RQ1_holistic_semantic,ASAP AES Set 1,437,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,237
+RQ1_holistic_semantic,ASAP AES Set 1,1406,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,304
+RQ1_holistic_semantic,ASAP AES Set 1,527,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 1,293,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,239
+RQ1_holistic_semantic,ASAP AES Set 1,491,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,260
+RQ1_holistic_semantic,ASAP AES Set 1,338,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,290
+RQ1_holistic_semantic,ASAP AES Set 1,319,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,308
+RQ1_holistic_semantic,ASAP AES Set 1,453,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 1,511,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 1,490,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,275
+RQ1_holistic_semantic,ASAP AES Set 1,541,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 1,21,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 1,117,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,282
+RQ1_holistic_semantic,ASAP AES Set 1,61,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 1,471,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,321
+RQ1_holistic_semantic,ASAP AES Set 1,97,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,336
+RQ1_holistic_semantic,ASAP AES Set 1,3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,312
+RQ1_holistic_semantic,ASAP AES Set 1,42,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,325
+RQ1_holistic_semantic,ASAP AES Set 1,179,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,220
+RQ1_holistic_semantic,ASAP AES Set 1,247,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,260
+RQ1_holistic_semantic,ASAP AES Set 1,170,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,248
+RQ1_holistic_semantic,ASAP AES Set 1,200,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,211
+RQ1_holistic_semantic,ASAP AES Set 1,282,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,5,0.8,246
+RQ1_holistic_semantic,ASAP AES Set 1,268,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,266
+RQ1_holistic_semantic,ASAP AES Set 1,688,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,220
+RQ1_holistic_semantic,ASAP AES Set 1,234,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,304
+RQ1_holistic_semantic,ASAP AES Set 1,681,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,222
+RQ1_holistic_semantic,ASAP AES Set 1,597,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,243
+RQ1_holistic_semantic,ASAP AES Set 1,705,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,181
+RQ1_holistic_semantic,ASAP AES Set 1,677,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,254
+RQ1_holistic_semantic,ASAP AES Set 1,144,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,422
+RQ1_holistic_semantic,ASAP AES Set 1,219,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,275
+RQ1_holistic_semantic,ASAP AES Set 1,664,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,217
+RQ1_holistic_semantic,ASAP AES Set 1,615,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,230
+RQ1_holistic_semantic,ASAP AES Set 1,198,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,197
+RQ1_holistic_semantic,ASAP AES Set 1,566,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,234
+RQ1_holistic_semantic,ASAP AES Set 1,194,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,6,0.9,245
+RQ1_holistic_semantic,ASAP AES Set 1,758,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,247
+RQ1_holistic_semantic,ASAP AES Set 1,748,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,269
+RQ1_holistic_semantic,ASAP AES Set 1,839,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,237
+RQ1_holistic_semantic,ASAP AES Set 1,608,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,343
+RQ1_holistic_semantic,ASAP AES Set 1,873,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,221
+RQ1_holistic_semantic,ASAP AES Set 1,569,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,306
+RQ1_holistic_semantic,ASAP AES Set 1,851,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,245
+RQ1_holistic_semantic,ASAP AES Set 1,697,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,340
+RQ1_holistic_semantic,ASAP AES Set 1,845,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,285
+RQ1_holistic_semantic,ASAP AES Set 1,1527,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,219
+RQ1_holistic_semantic,ASAP AES Set 1,690,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,241
+RQ1_holistic_semantic,ASAP AES Set 1,1494,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 1,880,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,286
+RQ1_holistic_semantic,ASAP AES Set 1,215,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,265
+RQ1_holistic_semantic,ASAP AES Set 1,142,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,206
+RQ1_holistic_semantic,ASAP AES Set 1,1692,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 1,1518,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 1,749,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,252
+RQ1_holistic_semantic,ASAP AES Set 1,769,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,265
+RQ1_holistic_semantic,ASAP AES Set 1,131,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,234
+RQ1_holistic_semantic,ASAP AES Set 1,72,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 1,57,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,321
+RQ1_holistic_semantic,ASAP AES Set 1,32,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 1,1718,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,319
+RQ1_holistic_semantic,ASAP AES Set 1,713,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,265
+RQ1_holistic_semantic,ASAP AES Set 1,1666,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,264
+RQ1_holistic_semantic,ASAP AES Set 1,722,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,233
+RQ1_holistic_semantic,ASAP AES Set 1,1581,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,289
+RQ1_holistic_semantic,ASAP AES Set 1,1259,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,226
+RQ1_holistic_semantic,ASAP AES Set 1,764,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,368
+RQ1_holistic_semantic,ASAP AES Set 1,93,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,6,0.95,274
+RQ1_holistic_semantic,ASAP AES Set 1,442,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,249
+RQ1_holistic_semantic,ASAP AES Set 1,119,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,289
+RQ1_holistic_semantic,ASAP AES Set 1,1085,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,198
+RQ1_holistic_semantic,ASAP AES Set 1,588,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,266
+RQ1_holistic_semantic,ASAP AES Set 1,830,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,359
+RQ1_holistic_semantic,ASAP AES Set 1,1273,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,242
+RQ1_holistic_semantic,ASAP AES Set 1,619,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,248
+RQ1_holistic_semantic,ASAP AES Set 1,1175,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,303
+RQ1_holistic_semantic,ASAP AES Set 1,1212,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,305
+RQ1_holistic_semantic,ASAP AES Set 1,968,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,260
+RQ1_holistic_semantic,ASAP AES Set 1,562,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,267
+RQ1_holistic_semantic,ASAP AES Set 1,542,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,239
+RQ1_holistic_semantic,ASAP AES Set 1,1067,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,242
+RQ1_holistic_semantic,ASAP AES Set 1,578,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,241
+RQ1_holistic_semantic,ASAP AES Set 1,1405,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,204
+RQ1_holistic_semantic,ASAP AES Set 1,508,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,267
+RQ1_holistic_semantic,ASAP AES Set 1,573,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,271
+RQ1_holistic_semantic,ASAP AES Set 1,1279,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 1,1139,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,306
+RQ1_holistic_semantic,ASAP AES Set 1,652,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,269
+RQ1_holistic_semantic,ASAP AES Set 1,1325,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,255
+RQ1_holistic_semantic,ASAP AES Set 1,294,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,3,0.8,199
+RQ1_holistic_semantic,ASAP AES Set 1,301,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,289
+RQ1_holistic_semantic,ASAP AES Set 1,315,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,243
+RQ1_holistic_semantic,ASAP AES Set 1,1283,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,221
+RQ1_holistic_semantic,ASAP AES Set 1,913,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,289
+RQ1_holistic_semantic,ASAP AES Set 1,953,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,185
+RQ1_holistic_semantic,ASAP AES Set 1,380,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 1,258,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,247
+RQ1_holistic_semantic,ASAP AES Set 1,1774,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,251
+RQ1_holistic_semantic,ASAP AES Set 1,938,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,6,0.9,236
+RQ1_holistic_semantic,ASAP AES Set 1,1386,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,337
+RQ1_holistic_semantic,ASAP AES Set 1,967,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,4,0.8,235
+RQ1_holistic_semantic,ASAP AES Set 1,1447,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,265
+RQ1_holistic_semantic,ASAP AES Set 1,118,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,6,0.95,217
+RQ1_holistic_semantic,ASAP AES Set 1,1294,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,311
+RQ1_holistic_semantic,ASAP AES Set 1,1255,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 1,1170,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,6,0.95,241
+RQ1_holistic_semantic,ASAP AES Set 4,10094,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,0.9,212
+RQ1_holistic_semantic,ASAP AES Set 4,9226,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,208
+RQ1_holistic_semantic,ASAP AES Set 1,1760,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,4,0.8,327
+RQ1_holistic_semantic,ASAP AES Set 1,111,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 4,9273,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,238
+RQ1_holistic_semantic,ASAP AES Set 1,877,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,314
+RQ1_holistic_semantic,ASAP AES Set 1,147,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,313
+RQ1_holistic_semantic,ASAP AES Set 4,10164,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,249
+RQ1_holistic_semantic,ASAP AES Set 4,9314,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,259
+RQ1_holistic_semantic,ASAP AES Set 4,8863,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,326
+RQ1_holistic_semantic,ASAP AES Set 4,10210,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,223
+RQ1_holistic_semantic,ASAP AES Set 4,9992,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,235
+RQ1_holistic_semantic,ASAP AES Set 4,10269,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,270
+RQ1_holistic_semantic,ASAP AES Set 4,9293,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,273
+RQ1_holistic_semantic,ASAP AES Set 4,10193,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,252
+RQ1_holistic_semantic,ASAP AES Set 4,10248,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,252
+RQ1_holistic_semantic,ASAP AES Set 4,9568,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,205
+RQ1_holistic_semantic,ASAP AES Set 4,9544,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,263
+RQ1_holistic_semantic,ASAP AES Set 4,9471,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,194
+RQ1_holistic_semantic,ASAP AES Set 4,9518,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,244
+RQ1_holistic_semantic,ASAP AES Set 4,10297,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,306
+RQ1_holistic_semantic,ASAP AES Set 4,9492,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 4,9915,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,227
+RQ1_holistic_semantic,ASAP AES Set 4,9973,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,212
+RQ1_holistic_semantic,ASAP AES Set 4,9609,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,286
+RQ1_holistic_semantic,ASAP AES Set 4,10405,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,219
+RQ1_holistic_semantic,ASAP AES Set 4,10569,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,231
+RQ1_holistic_semantic,ASAP AES Set 4,9359,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.9,277
+RQ1_holistic_semantic,ASAP AES Set 4,9415,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,241
+RQ1_holistic_semantic,ASAP AES Set 4,9592,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,286
+RQ1_holistic_semantic,ASAP AES Set 4,8958,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,239
+RQ1_holistic_semantic,ASAP AES Set 4,9840,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,0.9,310
+RQ1_holistic_semantic,ASAP AES Set 4,10527,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,231
+RQ1_holistic_semantic,ASAP AES Set 4,10460,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,225
+RQ1_holistic_semantic,ASAP AES Set 4,8927,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,209
+RQ1_holistic_semantic,ASAP AES Set 4,8899,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,292
+RQ1_holistic_semantic,ASAP AES Set 4,10357,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,231
+RQ1_holistic_semantic,ASAP AES Set 4,8877,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,0,1.0,257
+RQ1_holistic_semantic,ASAP AES Set 4,10565,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.9,242
+RQ1_holistic_semantic,ASAP AES Set 4,10374,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,1,0.8,345
+RQ1_holistic_semantic,ASAP AES Set 4,9905,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,215
+RQ1_holistic_semantic,ASAP AES Set 4,9921,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,229
+RQ1_holistic_semantic,ASAP AES Set 4,9845,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 4,9864,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 4,9874,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,291
+RQ1_holistic_semantic,ASAP AES Set 4,9889,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,244
+RQ1_holistic_semantic,ASAP AES Set 4,9692,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,232
+RQ1_holistic_semantic,ASAP AES Set 4,10619,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,247
+RQ1_holistic_semantic,ASAP AES Set 4,9877,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,275
+RQ1_holistic_semantic,ASAP AES Set 4,9892,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,307
+RQ1_holistic_semantic,ASAP AES Set 4,10560,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,322
+RQ1_holistic_semantic,ASAP AES Set 4,9748,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 4,10622,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,235
+RQ1_holistic_semantic,ASAP AES Set 4,9733,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,302
+RQ1_holistic_semantic,ASAP AES Set 4,9668,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,195
+RQ1_holistic_semantic,ASAP AES Set 4,9787,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 4,9649,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,333
+RQ1_holistic_semantic,ASAP AES Set 4,9814,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,269
+RQ1_holistic_semantic,ASAP AES Set 4,10220,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,198
+RQ1_holistic_semantic,ASAP AES Set 4,9804,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 4,9704,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,0.9,332
+RQ1_holistic_semantic,ASAP AES Set 4,10594,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,332
+RQ1_holistic_semantic,ASAP AES Set 4,10196,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,264
+RQ1_holistic_semantic,ASAP AES Set 4,9778,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,0.9,277
+RQ1_holistic_semantic,ASAP AES Set 4,10167,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,257
+RQ1_holistic_semantic,ASAP AES Set 4,10363,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,200
+RQ1_holistic_semantic,ASAP AES Set 4,10179,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 4,10230,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,246
+RQ1_holistic_semantic,ASAP AES Set 4,10150,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 4,10406,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,291
+RQ1_holistic_semantic,ASAP AES Set 4,10326,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,238
+RQ1_holistic_semantic,ASAP AES Set 4,10235,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,249
+RQ1_holistic_semantic,ASAP AES Set 4,10296,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 4,10340,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,278
+RQ1_holistic_semantic,ASAP AES Set 4,10356,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 4,10115,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,269
+RQ1_holistic_semantic,ASAP AES Set 4,10330,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,220
+RQ1_holistic_semantic,ASAP AES Set 4,10007,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,258
+RQ1_holistic_semantic,ASAP AES Set 4,10458,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,286
+RQ1_holistic_semantic,ASAP AES Set 4,9951,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,294
+RQ1_holistic_semantic,ASAP AES Set 4,9994,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,320
+RQ1_holistic_semantic,ASAP AES Set 4,9065,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,229
+RQ1_holistic_semantic,ASAP AES Set 4,10069,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 4,10107,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,283
+RQ1_holistic_semantic,ASAP AES Set 4,10440,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 4,10431,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 4,10037,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 4,9081,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,213
+RQ1_holistic_semantic,ASAP AES Set 4,9373,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 4,9939,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,364
+RQ1_holistic_semantic,ASAP AES Set 4,10052,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,314
+RQ1_holistic_semantic,ASAP AES Set 4,10074,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,358
+RQ1_holistic_semantic,ASAP AES Set 4,9356,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,269
+RQ1_holistic_semantic,ASAP AES Set 4,9093,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 4,9384,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,306
+RQ1_holistic_semantic,ASAP AES Set 4,9000,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,259
+RQ1_holistic_semantic,ASAP AES Set 4,9323,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.9,236
+RQ1_holistic_semantic,ASAP AES Set 4,9233,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,240
+RQ1_holistic_semantic,ASAP AES Set 4,9409,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 4,9023,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,278
+RQ1_holistic_semantic,ASAP AES Set 4,9394,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,259
+RQ1_holistic_semantic,ASAP AES Set 4,9010,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,326
+RQ1_holistic_semantic,ASAP AES Set 4,9154,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,274
+RQ1_holistic_semantic,ASAP AES Set 4,9180,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,317
+RQ1_holistic_semantic,ASAP AES Set 4,9192,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 4,9119,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 4,9185,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,302
+RQ1_holistic_semantic,ASAP AES Set 4,9145,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,248
+RQ1_holistic_semantic,ASAP AES Set 4,9298,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,302
+RQ1_holistic_semantic,ASAP AES Set 4,9517,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,241
+RQ1_holistic_semantic,ASAP AES Set 4,9596,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,248
+RQ1_holistic_semantic,ASAP AES Set 4,8956,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,211
+RQ1_holistic_semantic,ASAP AES Set 4,9501,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,257
+RQ1_holistic_semantic,ASAP AES Set 4,9136,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,301
+RQ1_holistic_semantic,ASAP AES Set 4,8944,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,301
+RQ1_holistic_semantic,ASAP AES Set 4,9310,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,324
+RQ1_holistic_semantic,ASAP AES Set 4,8985,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,232
+RQ1_holistic_semantic,ASAP AES Set 4,10631,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,233
+RQ1_holistic_semantic,ASAP AES Set 4,9275,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,352
+RQ1_holistic_semantic,ASAP AES Set 4,10634,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,238
+RQ1_holistic_semantic,ASAP AES Set 4,9560,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,305
+RQ1_holistic_semantic,ASAP AES Set 4,10173,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,212
+RQ1_holistic_semantic,ASAP AES Set 4,9557,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,319
+RQ1_holistic_semantic,ASAP AES Set 4,9465,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,290
+RQ1_holistic_semantic,ASAP AES Set 4,8910,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,359
+RQ1_holistic_semantic,ASAP AES Set 4,8960,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,0,1.0,291
+RQ1_holistic_semantic,ASAP AES Set 4,8918,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,364
+RQ1_holistic_semantic,ASAP AES Set 4,9156,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,269
+RQ1_holistic_semantic,ASAP AES Set 4,10588,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,251
+RQ1_holistic_semantic,ASAP AES Set 4,8961,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,2,0.8,318
+RQ1_holistic_semantic,ASAP AES Set 4,10576,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,290
+RQ1_holistic_semantic,ASAP AES Set 4,9149,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 4,10615,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,368
+RQ1_holistic_semantic,ASAP AES Set 4,10188,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,306
+RQ1_holistic_semantic,ASAP AES Set 4,10170,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 4,10389,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,301
+RQ1_holistic_semantic,ASAP AES Set 4,10323,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,263
+RQ1_holistic_semantic,ASAP AES Set 4,9085,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,196
+RQ1_holistic_semantic,ASAP AES Set 4,10455,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 4,10485,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,333
+RQ1_holistic_semantic,ASAP AES Set 4,10616,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,404
+RQ1_holistic_semantic,ASAP AES Set 4,10417,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,281
+RQ1_holistic_semantic,ASAP AES Set 4,10377,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,332
+RQ1_holistic_semantic,ASAP AES Set 4,9008,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,305
+RQ1_holistic_semantic,ASAP AES Set 4,10529,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,255
+RQ1_holistic_semantic,ASAP AES Set 4,9352,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,209
+RQ1_holistic_semantic,ASAP AES Set 4,9103,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,323
+RQ1_holistic_semantic,ASAP AES Set 4,10366,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,283
+RQ1_holistic_semantic,ASAP AES Set 4,9380,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,235
+RQ1_holistic_semantic,ASAP AES Set 4,10444,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,363
+RQ1_holistic_semantic,ASAP AES Set 4,9389,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,275
+RQ1_holistic_semantic,ASAP AES Set 4,10540,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 4,9416,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,255
+RQ1_holistic_semantic,ASAP AES Set 4,9873,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,227
+RQ1_holistic_semantic,ASAP AES Set 4,10291,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,347
+RQ1_holistic_semantic,ASAP AES Set 4,10553,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,377
+RQ1_holistic_semantic,ASAP AES Set 4,9875,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 4,9361,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,279
+RQ1_holistic_semantic,ASAP AES Set 4,9539,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,352
+RQ1_holistic_semantic,ASAP AES Set 4,9801,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,288
+RQ1_holistic_semantic,ASAP AES Set 4,9363,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,329
+RQ1_holistic_semantic,ASAP AES Set 4,9754,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 4,9527,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,246
+RQ1_holistic_semantic,ASAP AES Set 4,9975,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,240
+RQ1_holistic_semantic,ASAP AES Set 4,9738,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,297
+RQ1_holistic_semantic,ASAP AES Set 4,9219,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,219
+RQ1_holistic_semantic,ASAP AES Set 4,9444,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 4,9448,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 4,9600,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,237
+RQ1_holistic_semantic,ASAP AES Set 4,10091,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 4,9603,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,273
+RQ1_holistic_semantic,ASAP AES Set 4,9258,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,309
+RQ1_holistic_semantic,ASAP AES Set 4,9640,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,307
+RQ1_holistic_semantic,ASAP AES Set 4,9682,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 4,9570,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,251
+RQ1_holistic_semantic,ASAP AES Set 4,9816,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,351
+RQ1_holistic_semantic,ASAP AES Set 4,10015,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 4,9999,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,275
+RQ1_holistic_semantic,ASAP AES Set 4,9670,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,346
+RQ1_holistic_semantic,ASAP AES Set 4,9493,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,408
+RQ1_holistic_semantic,ASAP AES Set 4,10518,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,272
+RQ1_holistic_semantic,ASAP AES Set 4,9551,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,258
+RQ1_holistic_semantic,ASAP AES Set 4,9750,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,251
+RQ1_holistic_semantic,ASAP AES Set 4,9767,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,442
+RQ1_holistic_semantic,ASAP AES Set 4,9274,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,331
+RQ1_holistic_semantic,ASAP AES Set 4,10504,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 4,9571,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,317
+RQ1_holistic_semantic,ASAP AES Set 4,9995,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,357
+RQ1_holistic_semantic,ASAP AES Set 4,10057,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.9,240
+RQ1_holistic_semantic,ASAP AES Set 4,9332,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,392
+RQ1_holistic_semantic,ASAP AES Set 4,10614,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,332
+RQ1_holistic_semantic,ASAP AES Set 4,9301,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,271
+RQ1_holistic_semantic,ASAP AES Set 7,17927,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,0,1.0,169
+RQ1_holistic_semantic,ASAP AES Set 4,9190,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,284
+RQ1_holistic_semantic,ASAP AES Set 4,9830,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 4,9986,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,334
+RQ1_holistic_semantic,ASAP AES Set 7,18680,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,202
+RQ1_holistic_semantic,ASAP AES Set 4,9052,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,234
+RQ1_holistic_semantic,ASAP AES Set 4,9161,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,284
+RQ1_holistic_semantic,ASAP AES Set 7,18956,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,1,0.8,205
+RQ1_holistic_semantic,ASAP AES Set 7,18149,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,1,0.9,176
+RQ1_holistic_semantic,ASAP AES Set 4,10497,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,285
+RQ1_holistic_semantic,ASAP AES Set 4,10474,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,285
+RQ1_holistic_semantic,ASAP AES Set 4,9346,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,298
+RQ1_holistic_semantic,ASAP AES Set 4,10409,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.9,252
+RQ1_holistic_semantic,ASAP AES Set 7,18436,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,6,0.8,220
+RQ1_holistic_semantic,ASAP AES Set 4,10127,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,273
+RQ1_holistic_semantic,ASAP AES Set 4,10200,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,348
+RQ1_holistic_semantic,ASAP AES Set 7,19122,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,6,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 7,18152,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,282
+RQ1_holistic_semantic,ASAP AES Set 7,18764,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,290
+RQ1_holistic_semantic,ASAP AES Set 7,19398,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,0,1.0,231
+RQ1_holistic_semantic,ASAP AES Set 7,18747,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 4,9074,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,345
+RQ1_holistic_semantic,ASAP AES Set 7,18903,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,246
+RQ1_holistic_semantic,ASAP AES Set 7,19358,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,287
+RQ1_holistic_semantic,ASAP AES Set 7,18290,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,256
+RQ1_holistic_semantic,ASAP AES Set 7,19134,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,8,0.8,284
+RQ1_holistic_semantic,ASAP AES Set 7,18310,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 7,18743,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,219
+RQ1_holistic_semantic,ASAP AES Set 7,19151,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,197
+RQ1_holistic_semantic,ASAP AES Set 7,18355,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,6,0.8,319
+RQ1_holistic_semantic,ASAP AES Set 7,17905,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,271
+RQ1_holistic_semantic,ASAP AES Set 7,19184,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,232
+RQ1_holistic_semantic,ASAP AES Set 7,18916,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,2,0.8,229
+RQ1_holistic_semantic,ASAP AES Set 7,17937,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,2,0.8,187
+RQ1_holistic_semantic,ASAP AES Set 7,19491,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,1,0.8,211
+RQ1_holistic_semantic,ASAP AES Set 7,18354,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.85,242
+RQ1_holistic_semantic,ASAP AES Set 7,17903,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,225
+RQ1_holistic_semantic,ASAP AES Set 7,18902,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,254
+RQ1_holistic_semantic,ASAP AES Set 7,17982,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,6,0.8,231
+RQ1_holistic_semantic,ASAP AES Set 7,18509,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 7,18514,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,8,0.85,274
+RQ1_holistic_semantic,ASAP AES Set 7,18720,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,267
+RQ1_holistic_semantic,ASAP AES Set 7,19479,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,2,0.8,224
+RQ1_holistic_semantic,ASAP AES Set 7,19081,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,321
+RQ1_holistic_semantic,ASAP AES Set 7,19042,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,2,0.8,219
+RQ1_holistic_semantic,ASAP AES Set 7,19439,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,5,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 7,18797,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,6,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 7,19036,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,2,0.8,240
+RQ1_holistic_semantic,ASAP AES Set 7,18659,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,6,0.8,260
+RQ1_holistic_semantic,ASAP AES Set 7,18754,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,9,0.85,281
+RQ1_holistic_semantic,ASAP AES Set 7,18403,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,4,0.8,281
+RQ1_holistic_semantic,ASAP AES Set 7,17965,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,4,0.8,166
+RQ1_holistic_semantic,ASAP AES Set 7,18529,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,2,0.8,206
+RQ1_holistic_semantic,ASAP AES Set 7,18714,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,4,0.8,286
+RQ1_holistic_semantic,ASAP AES Set 7,19304,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,4,0.8,240
+RQ1_holistic_semantic,ASAP AES Set 7,17997,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,8,0.85,269
+RQ1_holistic_semantic,ASAP AES Set 7,19387,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,255
+RQ1_holistic_semantic,ASAP AES Set 7,18484,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.85,269
+RQ1_holistic_semantic,ASAP AES Set 7,18272,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,8,0.8,311
+RQ1_holistic_semantic,ASAP AES Set 7,18769,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,5,0.8,245
+RQ1_holistic_semantic,ASAP AES Set 7,17881,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,6,0.8,346
+RQ1_holistic_semantic,ASAP AES Set 7,18803,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,6,0.8,205
+RQ1_holistic_semantic,ASAP AES Set 7,18434,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,9,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 7,18564,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,9,0.8,284
+RQ1_holistic_semantic,ASAP AES Set 7,19163,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,6,0.8,215
+RQ1_holistic_semantic,ASAP AES Set 7,19028,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,6,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 7,18358,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,6,0.8,282
+RQ1_holistic_semantic,ASAP AES Set 7,18777,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,2,0.8,291
+RQ1_holistic_semantic,ASAP AES Set 7,19402,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,7,0.8,250
+RQ1_holistic_semantic,ASAP AES Set 7,19220,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,6,6,0.8,323
+RQ1_holistic_semantic,ASAP AES Set 7,18801,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,0,1.0,211
+RQ1_holistic_semantic,ASAP AES Set 7,18129,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,6,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 7,18787,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,8,0.85,323
+RQ1_holistic_semantic,ASAP AES Set 7,19350,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.8,234
+RQ1_holistic_semantic,ASAP AES Set 7,17941,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,6,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 7,18137,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,8,0.85,300
+RQ1_holistic_semantic,ASAP AES Set 7,19263,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,7,0.8,340
+RQ1_holistic_semantic,ASAP AES Set 7,19357,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,249
+RQ1_holistic_semantic,ASAP AES Set 7,18792,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.85,272
+RQ1_holistic_semantic,ASAP AES Set 7,18072,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,8,0.85,309
+RQ1_holistic_semantic,ASAP AES Set 7,19092,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,5,0.8,331
+RQ1_holistic_semantic,ASAP AES Set 7,18254,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,7,7,0.85,309
+RQ1_holistic_semantic,ASAP AES Set 7,18710,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,2,0.8,263
+RQ1_holistic_semantic,ASAP AES Set 7,18796,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.85,304
+RQ1_holistic_semantic,ASAP AES Set 7,19420,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,266
+RQ1_holistic_semantic,ASAP AES Set 7,19554,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,271
+RQ1_holistic_semantic,ASAP AES Set 7,18694,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 7,19462,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.8,267
+RQ1_holistic_semantic,ASAP AES Set 7,18760,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.8,289
+RQ1_holistic_semantic,ASAP AES Set 7,19508,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,331
+RQ1_holistic_semantic,ASAP AES Set 7,19489,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,292
+RQ1_holistic_semantic,ASAP AES Set 7,19158,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 7,19011,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,5,0.8,222
+RQ1_holistic_semantic,ASAP AES Set 7,19187,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 7,19338,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.85,238
+RQ1_holistic_semantic,ASAP AES Set 7,19292,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,238
+RQ1_holistic_semantic,ASAP AES Set 7,18982,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,7,0.85,308
+RQ1_holistic_semantic,ASAP AES Set 7,19111,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 7,18891,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,236
+RQ1_holistic_semantic,ASAP AES Set 7,19078,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,280
+RQ1_holistic_semantic,ASAP AES Set 7,19176,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,7,0.8,301
+RQ1_holistic_semantic,ASAP AES Set 7,18933,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,242
+RQ1_holistic_semantic,ASAP AES Set 7,19228,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,247
+RQ1_holistic_semantic,ASAP AES Set 7,18133,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,0,1.0,215
+RQ1_holistic_semantic,ASAP AES Set 7,18999,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,316
+RQ1_holistic_semantic,ASAP AES Set 7,18855,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,5,0.8,276
+RQ1_holistic_semantic,ASAP AES Set 7,18881,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,311
+RQ1_holistic_semantic,ASAP AES Set 7,18915,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.85,245
+RQ1_holistic_semantic,ASAP AES Set 7,18124,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,7,0.8,247
+RQ1_holistic_semantic,ASAP AES Set 7,18169,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,276
+RQ1_holistic_semantic,ASAP AES Set 7,18057,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,265
+RQ1_holistic_semantic,ASAP AES Set 7,18554,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,279
+RQ1_holistic_semantic,ASAP AES Set 7,18106,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,260
+RQ1_holistic_semantic,ASAP AES Set 7,18480,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.8,323
+RQ1_holistic_semantic,ASAP AES Set 7,18524,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 7,18292,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.8,266
+RQ1_holistic_semantic,ASAP AES Set 7,19253,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,7,0.8,396
+RQ1_holistic_semantic,ASAP AES Set 7,18230,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.85,260
+RQ1_holistic_semantic,ASAP AES Set 7,18285,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,305
+RQ1_holistic_semantic,ASAP AES Set 7,18369,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.8,324
+RQ1_holistic_semantic,ASAP AES Set 7,18322,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,345
+RQ1_holistic_semantic,ASAP AES Set 7,18641,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.8,254
+RQ1_holistic_semantic,ASAP AES Set 7,17913,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,254
+RQ1_holistic_semantic,ASAP AES Set 7,18238,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,278
+RQ1_holistic_semantic,ASAP AES Set 7,17967,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,276
+RQ1_holistic_semantic,ASAP AES Set 7,17853,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,281
+RQ1_holistic_semantic,ASAP AES Set 7,17845,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,273
+RQ1_holistic_semantic,ASAP AES Set 7,18253,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,5,0.8,320
+RQ1_holistic_semantic,ASAP AES Set 7,18603,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,5,0.8,308
+RQ1_holistic_semantic,ASAP AES Set 7,18449,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,361
+RQ1_holistic_semantic,ASAP AES Set 7,19499,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,9,0.85,257
+RQ1_holistic_semantic,ASAP AES Set 7,17918,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,6,0.8,295
+RQ1_holistic_semantic,ASAP AES Set 7,18572,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,4,0.8,279
+RQ1_holistic_semantic,ASAP AES Set 7,19108,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,267
+RQ1_holistic_semantic,ASAP AES Set 7,17986,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,8,0.85,300
+RQ1_holistic_semantic,ASAP AES Set 7,18026,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,8,9,0.85,311
+RQ1_holistic_semantic,ASAP AES Set 7,19150,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,313
+RQ1_holistic_semantic,ASAP AES Set 7,19286,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,4,0.8,215
+RQ1_holistic_semantic,ASAP AES Set 7,19268,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.85,241
+RQ1_holistic_semantic,ASAP AES Set 7,17998,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.85,269
+RQ1_holistic_semantic,ASAP AES Set 7,17859,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.85,337
+RQ1_holistic_semantic,ASAP AES Set 7,18062,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,239
+RQ1_holistic_semantic,ASAP AES Set 7,19116,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.8,309
+RQ1_holistic_semantic,ASAP AES Set 7,17964,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,7,0.8,274
+RQ1_holistic_semantic,ASAP AES Set 7,17930,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.85,216
+RQ1_holistic_semantic,ASAP AES Set 7,19169,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.85,234
+RQ1_holistic_semantic,ASAP AES Set 7,18092,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,4,0.8,324
+RQ1_holistic_semantic,ASAP AES Set 7,18475,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.85,236
+RQ1_holistic_semantic,ASAP AES Set 7,19475,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,301
+RQ1_holistic_semantic,ASAP AES Set 7,18672,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,9,0.8,261
+RQ1_holistic_semantic,ASAP AES Set 7,18618,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.8,219
+RQ1_holistic_semantic,ASAP AES Set 7,19094,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,456
+RQ1_holistic_semantic,ASAP AES Set 7,18940,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,9,0.85,270
+RQ1_holistic_semantic,ASAP AES Set 7,18991,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,4,0.8,246
+RQ1_holistic_semantic,ASAP AES Set 7,18847,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,6,0.8,235
+RQ1_holistic_semantic,ASAP AES Set 7,18955,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,294
+RQ1_holistic_semantic,ASAP AES Set 7,18508,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,276
+RQ1_holistic_semantic,ASAP AES Set 7,18624,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,8,0.8,270
+RQ1_holistic_semantic,ASAP AES Set 7,18608,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.85,259
+RQ1_holistic_semantic,ASAP AES Set 7,19240,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,7,0.8,334
+RQ1_holistic_semantic,ASAP AES Set 7,18594,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,4,0.8,307
+RQ1_holistic_semantic,ASAP AES Set 7,17987,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,7,0.8,226
+RQ1_holistic_semantic,ASAP AES Set 7,18708,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,9,6,0.8,278
+RQ1_holistic_semantic,ASAP AES Set 7,18664,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,9,0.8,281
+RQ1_holistic_semantic,ASAP AES Set 7,17872,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,9,0.85,272
+RQ1_holistic_semantic,ASAP AES Set 7,19432,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.85,272
+RQ1_holistic_semantic,ASAP AES Set 7,18049,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,7,0.8,231
+RQ1_holistic_semantic,ASAP AES Set 7,18691,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.85,317
+RQ1_holistic_semantic,ASAP AES Set 7,18391,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,9,0.85,263
+RQ1_holistic_semantic,ASAP AES Set 7,18798,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,9,0.85,280
+RQ1_holistic_semantic,ASAP AES Set 7,19463,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.8,324
+RQ1_holistic_semantic,ASAP AES Set 7,18438,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.85,267
+RQ1_holistic_semantic,ASAP AES Set 7,19079,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,6,0.8,278
+RQ1_holistic_semantic,ASAP AES Set 7,18073,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,6,0.8,333
+RQ1_holistic_semantic,ASAP AES Set 7,18407,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.85,287
+RQ1_holistic_semantic,ASAP AES Set 7,18799,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,8,0.85,247
+RQ1_holistic_semantic,ASAP AES Set 7,18256,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,4,0.8,266
+RQ1_holistic_semantic,ASAP AES Set 7,18430,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,8,0.85,347
+RQ1_holistic_semantic,ASAP AES Set 7,18985,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,8,0.8,262
+RQ1_holistic_semantic,ASAP AES Set 7,19030,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,9,0.8,312
+RQ1_holistic_semantic,ASAP AES Set 7,19031,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,10,9,0.8,311
+RQ1_holistic_semantic,ASAP AES Set 7,18705,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,4,0.8,284
+RQ1_holistic_semantic,ASAP AES Set 7,18178,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,9,0.8,313
+RQ1_holistic_semantic,ASAP AES Set 7,18631,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,6,0.8,232
+RQ1_holistic_semantic,ASAP AES Set 7,19471,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,4,0.8,271
+RQ1_holistic_semantic,ASAP AES Set 7,18226,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,8,0.85,287
+RQ1_holistic_semantic,ASAP AES Set 7,18741,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,277
+RQ1_holistic_semantic,ASAP AES Set 7,18751,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,7,0.85,340
+RQ1_holistic_semantic,ASAP AES Set 7,18528,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,9,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 7,18477,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,9,0.8,296
+RQ1_holistic_semantic,ASAP AES Set 7,18696,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,6,0.8,320
+RQ1_holistic_semantic,ASAP AES Set 7,17891,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,2,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 7,18362,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,4,0.8,238
+RQ1_holistic_semantic,ASAP AES Set 7,19192,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,11,9,0.8,342
+RQ1_holistic_semantic,ASAP AES Set 7,18336,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.8,268
+RQ1_holistic_semantic,ASAP AES Set 7,18160,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.85,307
+RQ1_holistic_semantic,ASAP AES Set 7,19068,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,397
+RQ1_holistic_semantic,ASAP AES Set 7,18685,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,6,0.8,341
+RQ1_holistic_semantic,ASAP AES Set 7,19313,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,287
+RQ1_holistic_semantic,ASAP AES Set 7,18419,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,253
+RQ1_holistic_semantic,ASAP AES Set 7,17871,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,326
+RQ1_holistic_semantic,ASAP AES Set 7,18832,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.85,314
+RQ1_holistic_semantic,ASAP AES Set 7,19352,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,6,0.8,275
+RQ1_holistic_semantic,ASAP AES Set 7,19516,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.85,342
+RQ1_holistic_semantic,ASAP AES Set 7,18266,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,291
+RQ1_holistic_semantic,ELLIPSE,56E32CEEB127,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,170
+RQ1_holistic_semantic,ELLIPSE,E76B3F5205CD,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,1,1,0.8,193
+RQ1_holistic_semantic,ASAP AES Set 7,18534,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,6,0.8,280
+RQ1_holistic_semantic,ELLIPSE,67E711AF87A2,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,0,3,0.8,242
+RQ1_holistic_semantic,ELLIPSE,470D092F3831,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,225
+RQ1_holistic_semantic,ASAP AES Set 7,18761,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,300
+RQ1_holistic_semantic,ASAP AES Set 7,18848,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.85,281
+RQ1_holistic_semantic,ASAP AES Set 7,19421,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.8,273
+RQ1_holistic_semantic,ASAP AES Set 7,18983,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.85,295
+RQ1_holistic_semantic,ASAP AES Set 7,18868,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,9,0.8,308
+RQ1_holistic_semantic,ELLIPSE,C1EAD0C50570,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,240
+RQ1_holistic_semantic,ELLIPSE,DBAB680CBC5D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,185
+RQ1_holistic_semantic,ELLIPSE,2A4B5673EBAC,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,254
+RQ1_holistic_semantic,ELLIPSE,D41787486DA6,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,220
+RQ1_holistic_semantic,ELLIPSE,4EB4E8611272,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,293
+RQ1_holistic_semantic,ASAP AES Set 7,18014,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,12,8,0.85,326
+RQ1_holistic_semantic,ELLIPSE,E3611716918E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,244
+RQ1_holistic_semantic,ELLIPSE,51BAD5699073,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,328
+RQ1_holistic_semantic,ELLIPSE,3418CB8125B3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,336
+RQ1_holistic_semantic,ELLIPSE,79098D096CB8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,205
+RQ1_holistic_semantic,ELLIPSE,A4DA4201903F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,233
+RQ1_holistic_semantic,ELLIPSE,6792C2E73B6A,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,179
+RQ1_holistic_semantic,ELLIPSE,94ACF6006DB9,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,207
+RQ1_holistic_semantic,ELLIPSE,D8934CA35801,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,323
+RQ1_holistic_semantic,ELLIPSE,8F3B39C509B9,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,228
+RQ1_holistic_semantic,ELLIPSE,7F0B7DDE89B2,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,265
+RQ1_holistic_semantic,ELLIPSE,5D693DD9978D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,299
+RQ1_holistic_semantic,ELLIPSE,84CE7281265F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,261
+RQ1_holistic_semantic,ELLIPSE,B3145EA3395B,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,249
+RQ1_holistic_semantic,ELLIPSE,A975CBC4A7E8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,248
+RQ1_holistic_semantic,ELLIPSE,B8F0ECC9DC86,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,276
+RQ1_holistic_semantic,ELLIPSE,FAAFFC983E47,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,234
+RQ1_holistic_semantic,ELLIPSE,F9072F36ECE7,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,190
+RQ1_holistic_semantic,ELLIPSE,AE0DB193F5B5,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,264
+RQ1_holistic_semantic,ELLIPSE,ED74D2C2403B,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,267
+RQ1_holistic_semantic,ELLIPSE,69C15737269C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,281
+RQ1_holistic_semantic,ELLIPSE,1829D6D139C2,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,287
+RQ1_holistic_semantic,ELLIPSE,ED57CFEC1CF1,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,1,0.8,285
+RQ1_holistic_semantic,ELLIPSE,FA0A22FE957A,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,250
+RQ1_holistic_semantic,ELLIPSE,5F407964AF46,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,349
+RQ1_holistic_semantic,ELLIPSE,F50C9936F416,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,301
+RQ1_holistic_semantic,ELLIPSE,296B1DD1E251,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,3,0.8,249
+RQ1_holistic_semantic,ELLIPSE,206522E53696,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,301
+RQ1_holistic_semantic,ELLIPSE,F7DD6134C693,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,281
+RQ1_holistic_semantic,ELLIPSE,A39660CA003E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,223
+RQ1_holistic_semantic,ELLIPSE,AAE16C990870,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,262
+RQ1_holistic_semantic,ELLIPSE,AD5F7E8C127F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,191
+RQ1_holistic_semantic,ELLIPSE,E8795A1AA404,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,234
+RQ1_holistic_semantic,ELLIPSE,B2055DB7B29E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,234
+RQ1_holistic_semantic,ELLIPSE,FA2DE7E82907,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,273
+RQ1_holistic_semantic,ELLIPSE,EA37D9C12C91,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,349
+RQ1_holistic_semantic,ELLIPSE,FEA2C3FB45D1,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,375
+RQ1_holistic_semantic,ELLIPSE,ABBE700093F0,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,313
+RQ1_holistic_semantic,ELLIPSE,B459B5B87707,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,301
+RQ1_holistic_semantic,ELLIPSE,FA08CD5A2E48,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,335
+RQ1_holistic_semantic,ELLIPSE,B6A5721D64C1,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,317
+RQ1_holistic_semantic,ELLIPSE,AFC600D922F6,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,264
+RQ1_holistic_semantic,ELLIPSE,976E2E05C4EB,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,232
+RQ1_holistic_semantic,ELLIPSE,9735E542665C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,228
+RQ1_holistic_semantic,ELLIPSE,523130079501,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,249
+RQ1_holistic_semantic,ELLIPSE,B1C410876D33,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,322
+RQ1_holistic_semantic,ELLIPSE,EEEF81C2E133,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,202
+RQ1_holistic_semantic,ELLIPSE,D30614F0911F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,164
+RQ1_holistic_semantic,ELLIPSE,FEAF4F517583,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,323
+RQ1_holistic_semantic,ELLIPSE,9B4EEAAB752E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,253
+RQ1_holistic_semantic,ELLIPSE,92B418CEA06E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,288
+RQ1_holistic_semantic,ELLIPSE,998DA357F910,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,270
+RQ1_holistic_semantic,ELLIPSE,FF4CBDA0E418,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,370
+RQ1_holistic_semantic,ELLIPSE,9DDBBA28EBD0,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,299
+RQ1_holistic_semantic,ELLIPSE,D10BBD82D66F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,245
+RQ1_holistic_semantic,ELLIPSE,902341F8EB11,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,333
+RQ1_holistic_semantic,ELLIPSE,9CE077EDCC85,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,315
+RQ1_holistic_semantic,ELLIPSE,FB4D3D883D49,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,317
+RQ1_holistic_semantic,ELLIPSE,9EADCECA2FB8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,351
+RQ1_holistic_semantic,ELLIPSE,D35A126B4379,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,280
+RQ1_holistic_semantic,ELLIPSE,EFD563DFAC60,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,261
+RQ1_holistic_semantic,ELLIPSE,E96C0F9CE5E3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,278
+RQ1_holistic_semantic,ELLIPSE,A0A2D6856B0E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,385
+RQ1_holistic_semantic,ELLIPSE,DCEE7FD21CFD,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,227
+RQ1_holistic_semantic,ELLIPSE,D7817C171926,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,211
+RQ1_holistic_semantic,ELLIPSE,D03CE04CF47C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,306
+RQ1_holistic_semantic,ELLIPSE,EA40087521CC,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,311
+RQ1_holistic_semantic,ELLIPSE,DAD5BCDAB7DD,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,342
+RQ1_holistic_semantic,ELLIPSE,EB03C897F7E8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,320
+RQ1_holistic_semantic,ELLIPSE,EC8590A774E6,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,272
+RQ1_holistic_semantic,ELLIPSE,BB06ADBF1640,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.8,229
+RQ1_holistic_semantic,ELLIPSE,E1AE7FDD072F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,219
+RQ1_holistic_semantic,ELLIPSE,F495D071AE60,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,285
+RQ1_holistic_semantic,ELLIPSE,BF580042A644,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,275
+RQ1_holistic_semantic,ELLIPSE,F3A5981B0288,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,283
+RQ1_holistic_semantic,ELLIPSE,E110443F5184,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,284
+RQ1_holistic_semantic,ELLIPSE,F584D9BB5F5C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,253
+RQ1_holistic_semantic,ELLIPSE,D5C7AA1266CC,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,351
+RQ1_holistic_semantic,ELLIPSE,CA4941643D09,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,239
+RQ1_holistic_semantic,ELLIPSE,CAC6822F740C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,217
+RQ1_holistic_semantic,ELLIPSE,F12C7794CDCB,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,250
+RQ1_holistic_semantic,ELLIPSE,C5CA6C22BAFE,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.8,222
+RQ1_holistic_semantic,ELLIPSE,C8EBB096262B,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,273
+RQ1_holistic_semantic,ELLIPSE,C48A4DC42846,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,243
+RQ1_holistic_semantic,ELLIPSE,58567312BDAB,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,241
+RQ1_holistic_semantic,ELLIPSE,5A9C20C851FD,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,223
+RQ1_holistic_semantic,ELLIPSE,50611B996992,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,235
+RQ1_holistic_semantic,ELLIPSE,559902F0A513,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,294
+RQ1_holistic_semantic,ELLIPSE,410D72D3CCE8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,163
+RQ1_holistic_semantic,ELLIPSE,2358C2CE9966,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,290
+RQ1_holistic_semantic,ELLIPSE,5C2A497012B9,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,208
+RQ1_holistic_semantic,ELLIPSE,17E521D5F29C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,284
+RQ1_holistic_semantic,ELLIPSE,5902C2E86345,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,329
+RQ1_holistic_semantic,ELLIPSE,6586DF43A92D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,264
+RQ1_holistic_semantic,ELLIPSE,674F5DA988D2,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,291
+RQ1_holistic_semantic,ELLIPSE,4002D91C6B6C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,220
+RQ1_holistic_semantic,ELLIPSE,F22FE8D7FA16,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,383
+RQ1_holistic_semantic,ELLIPSE,642E44E8DD25,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,341
+RQ1_holistic_semantic,ELLIPSE,2A7997AE8E72,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,202
+RQ1_holistic_semantic,ELLIPSE,34553E598A00,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,1,0.9,239
+RQ1_holistic_semantic,ELLIPSE,4D7E52C79A3D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,287
+RQ1_holistic_semantic,ELLIPSE,483EE18C996B,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,248
+RQ1_holistic_semantic,ELLIPSE,1C2665B95694,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,311
+RQ1_holistic_semantic,ELLIPSE,4ABC0ED00F91,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,256
+RQ1_holistic_semantic,ELLIPSE,1AA55FB101FD,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,328
+RQ1_holistic_semantic,ELLIPSE,2EF984473EC5,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,324
+RQ1_holistic_semantic,ELLIPSE,28C8F048A469,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,256
+RQ1_holistic_semantic,ELLIPSE,450A7F9AC54A,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,245
+RQ1_holistic_semantic,ELLIPSE,2BA422F3619F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,267
+RQ1_holistic_semantic,ELLIPSE,064423D845B1,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,208
+RQ1_holistic_semantic,ELLIPSE,2BE976C99FDF,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,327
+RQ1_holistic_semantic,ELLIPSE,39776B3A4C70,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,335
+RQ1_holistic_semantic,ELLIPSE,079FDB42E429,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,236
+RQ1_holistic_semantic,ELLIPSE,33ADAAB38BFC,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,349
+RQ1_holistic_semantic,ELLIPSE,4D377B163021,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,343
+RQ1_holistic_semantic,ELLIPSE,7B802407D629,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,293
+RQ1_holistic_semantic,ELLIPSE,7797541CF0A6,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,271
+RQ1_holistic_semantic,ELLIPSE,82722CEBCAB3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,212
+RQ1_holistic_semantic,ELLIPSE,0465517EB6B7,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,227
+RQ1_holistic_semantic,ELLIPSE,84FC9651F650,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,203
+RQ1_holistic_semantic,ELLIPSE,757C5E55BA96,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,298
+RQ1_holistic_semantic,ELLIPSE,7982F5F494E2,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,296
+RQ1_holistic_semantic,ELLIPSE,027CB6393714,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,311
+RQ1_holistic_semantic,ELLIPSE,6B2FD789B8C8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,213
+RQ1_holistic_semantic,ELLIPSE,6CB7C1B3C548,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,234
+RQ1_holistic_semantic,ELLIPSE,E36B406AFE70,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,199
+RQ1_holistic_semantic,ELLIPSE,017D2125A1DE,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,315
+RQ1_holistic_semantic,ELLIPSE,584C6453CA5A,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,2,2,0.8,316
+RQ1_holistic_semantic,ELLIPSE,8B1EB1890F9B,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,339
+RQ1_holistic_semantic,ELLIPSE,6EF7CBB46501,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,4,0.8,295
+RQ1_holistic_semantic,ELLIPSE,13578C0BCC3C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,288
+RQ1_holistic_semantic,ELLIPSE,750AFA674F45,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,263
+RQ1_holistic_semantic,ELLIPSE,70B91D253E27,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,297
+RQ1_holistic_semantic,ELLIPSE,03D00899C901,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,2,0.8,373
+RQ1_holistic_semantic,ELLIPSE,F2165F132C87,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,243
+RQ1_holistic_semantic,ELLIPSE,E8B0698217A3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,200
+RQ1_holistic_semantic,ELLIPSE,7138786DA45C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,327
+RQ1_holistic_semantic,ELLIPSE,FF190BD8380B,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,235
+RQ1_holistic_semantic,ELLIPSE,FE1D0E5EA2EB,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,286
+RQ1_holistic_semantic,ELLIPSE,E2F767441B44,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,311
+RQ1_holistic_semantic,ELLIPSE,0F8436260047,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,182
+RQ1_holistic_semantic,ELLIPSE,15B68B826F8D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,313
+RQ1_holistic_semantic,ELLIPSE,0016926B079C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,299
+RQ1_holistic_semantic,ELLIPSE,2723DB12AC00,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,263
+RQ1_holistic_semantic,ELLIPSE,0A1482CD6163,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,247
+RQ1_holistic_semantic,ELLIPSE,2A96CE614119,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,235
+RQ1_holistic_semantic,ELLIPSE,24C654C85C1F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,272
+RQ1_holistic_semantic,ELLIPSE,AC5D4FAD6FDA,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,185
+RQ1_holistic_semantic,ELLIPSE,01B3FDB3FD57,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,332
+RQ1_holistic_semantic,ELLIPSE,F1620489BEB3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,256
+RQ1_holistic_semantic,ELLIPSE,E6338A929654,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,241
+RQ1_holistic_semantic,ELLIPSE,E21C97204867,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,382
+RQ1_holistic_semantic,ELLIPSE,AF4A2E8AD2A5,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,232
+RQ1_holistic_semantic,ELLIPSE,A9A152AAFBE1,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,239
+RQ1_holistic_semantic,ELLIPSE,6712BD512DB7,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,224
+RQ1_holistic_semantic,ELLIPSE,A72A4397F9F5,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,260
+RQ1_holistic_semantic,ELLIPSE,A4BBB301E3CE,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,269
+RQ1_holistic_semantic,ELLIPSE,EB5924FBD25C,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,369
+RQ1_holistic_semantic,ELLIPSE,90E2214EFEC8,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,251
+RQ1_holistic_semantic,ELLIPSE,8397368B57EA,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,290
+RQ1_holistic_semantic,ELLIPSE,7949A941BF0F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,266
+RQ1_holistic_semantic,ELLIPSE,7E48A7A7B400,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,253
+RQ1_holistic_semantic,ELLIPSE,B9BA0955819D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,333
+RQ1_holistic_semantic,ELLIPSE,E6CF2D3B4FA2,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,360
+RQ1_holistic_semantic,ELLIPSE,6805FE96E548,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,317
+RQ1_holistic_semantic,ELLIPSE,92B8F2F85C44,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,321
+RQ1_holistic_semantic,ELLIPSE,8B9EEF86DD66,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,329
+RQ1_holistic_semantic,ELLIPSE,D390FE972D8F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,258
+RQ1_holistic_semantic,ELLIPSE,BCF16DEB277E,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,377
+RQ1_holistic_semantic,ELLIPSE,7D955FAD0C73,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,297
+RQ1_holistic_semantic,ELLIPSE,D0211302AE30,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,259
+RQ1_holistic_semantic,ELLIPSE,D684AE8A9418,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,330
+RQ1_holistic_semantic,ELLIPSE,9DD22B9D10F4,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,350
+RQ1_holistic_semantic,ELLIPSE,34C829F3DC6A,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,302
+RQ1_holistic_semantic,ELLIPSE,DD66EBC605D1,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,324
+RQ1_holistic_semantic,ELLIPSE,D250DB9080E0,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,331
+RQ1_holistic_semantic,ELLIPSE,39524C93F4D4,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,321
+RQ1_holistic_semantic,ELLIPSE,3DB503D247B3,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,301
+RQ1_holistic_semantic,ELLIPSE,3CDCFB2C7F25,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,288
+RQ1_holistic_semantic,ELLIPSE,C6DDD966C9FC,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,289
+RQ1_holistic_semantic,ELLIPSE,A3E6A572C6E5,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,450
+RQ1_holistic_semantic,ELLIPSE,58E485E875D5,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,291
+RQ1_holistic_semantic,ELLIPSE,CEAD27DE3263,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,284
+RQ1_holistic_semantic,ELLIPSE,5CF895003869,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,322
+RQ1_holistic_semantic,ELLIPSE,CD7201C66BBC,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,257
+RQ1_holistic_semantic,ELLIPSE,C97C2190DB65,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,4,0.8,337
+RQ1_holistic_semantic,ELLIPSE,3D29C845934D,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,279
+RQ1_holistic_semantic,ELLIPSE,5DB370AD8EFB,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,2,0.8,319
+RQ1_holistic_semantic,ELLIPSE,F05D3802BC94,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,311
+RQ1_holistic_semantic,ELLIPSE,4EECC9B3CF7F,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,4,3,0.8,314
+RQ1_holistic_semantic,ELLIPSE,BDA166D1989A,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,5,4,0.8,337
+RQ1_holistic_semantic,ELLIPSE,506A69171959,neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic,holistic,3,3,0.8,280

@@ -1,0 +1,5 @@
+sampling:
+  sample_size: 200
+  seed: 42
+  evaluation_strategy: quantile_rank
+  calibration_strategy: stratified

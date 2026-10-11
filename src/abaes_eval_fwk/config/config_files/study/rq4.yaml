@@ -1,0 +1,77 @@
+experiments:
+- name: rq4-holistic-pool_average
+  rq: RQ4
+  model: model_final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: pool_average
+  reuse:
+    results:
+    - '@model_a-holistic'
+    - '@model_b-holistic'
+    - '@model_c-holistic'
+- name: rq4-holistic-disagreement
+  rq: RQ4
+  model: model_final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: disagreement
+  reuse:
+    results:
+    - '@model_a-holistic'
+    - '@model_b-holistic'
+    - '@model_c-holistic'
+    independent: '@model_final-holistic'
+- name: rq4-holistic-review_based
+  rq: RQ4
+  model: model_final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: review_based
+  reuse:
+    results:
+    - '@model_a-holistic'
+    - '@model_b-holistic'
+    - '@model_c-holistic'
+    independent: '@model_final-holistic'
+  control:
+    baseline: rq4-holistic-disagreement
+    "on": [procedure]
+- name: rq4-criterion-pool_average
+  rq: RQ4
+  model: model_final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: pool_average
+  reuse:
+    results:
+    - '@model_a-criterion'
+    - '@model_b-criterion'
+    - '@model_c-criterion'
+- name: rq4-criterion-disagreement
+  rq: RQ4
+  model: model_final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: disagreement
+  reuse:
+    results:
+    - '@model_a-criterion'
+    - '@model_b-criterion'
+    - '@model_c-criterion'
+    independent: '@model_final-criterion'
+- name: rq4-criterion-review_based
+  rq: RQ4
+  model: model_final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: review_based
+  reuse:
+    results:
+    - '@model_a-criterion'
+    - '@model_b-criterion'
+    - '@model_c-criterion'
+    independent: '@model_final-criterion'
+  control:
+    baseline: rq4-criterion-disagreement
+    "on": [procedure]

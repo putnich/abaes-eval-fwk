@@ -6,8 +6,6 @@ metrics:
     pearson: true       # Pearson correlation coefficient
     spearman: true      # Spearman rank correlation coefficient
     qwk: true           # Quadratic Weighted Kappa (inter-rater agreement)
-    mae: false          # Mean Absolute Error in the dataset's own score points
-    rmse: false         # Root Mean Squared Error in the dataset's own score points
 
   # Reader-supplied metrics, as name -> module:function. The callable is passed preds, humans,
   # and scale as keyword arguments and returns a number (NaN where the metric is undefined);

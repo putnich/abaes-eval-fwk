@@ -12,18 +12,18 @@ Thank you for your interest in contributing! This document provides guidelines a
    source .venv/bin/activate
    python -m pip install -e '.[dev]'
    ```
-4. **Install pre-commit hooks**: `pre-commit install --install-hooks`
-   - The local `mypy` hook needs `mypy` on your PATH: `pip install mypy`
+4. **Install pre-commit hooks**: `pip install pre-commit mypy`, then
+   `pre-commit install --install-hooks` (the local `mypy` and `pytest` hooks use the tools on your
+   PATH)
 
 ## Development Workflow
 
 ### Before Committing
 
 Pre-commit hooks run automatically on every commit and will:
-- Format code with Black (100-char line length)
-- Auto-fix linting issues with Ruff
+- Lint and format code with Ruff (100-char line length)
 - Scan for security issues with Bandit
-- Type-check with mypy and run the test suite
+- Type-check with mypy and run the unit tests
 - Validate file formatting (trailing whitespace, YAML/JSON syntax, merge conflicts, private keys)
 
 If a hook fails, review the changes/output and commit again.
@@ -32,17 +32,21 @@ If a hook fails, review the changes/output and commit again.
 
 - **Python 3.11–3.14** required (CI tests all four; 3.12 is the recommended local version)
 - Ruff for linting and formatting (100-character line length)
-- Black and mypy run via pre-commit
+- Bandit and mypy run via pre-commit
 - No comments unless the WHY is non-obvious
 
 ### Testing
 
 ```bash
-# Run the test suite
+# Run the unit tests (the pre-commit hook runs these)
 pytest
 
 # Run a specific test
 pytest tests/test_file.py::test_function
+
+# Run the integration tests: CLI runs and the offline playground suite (several minutes;
+# CI runs them for PRs into main, pushes to main, and releases)
+pytest -m integration
 
 # Smoke-test the CLI against the bundled playground (no model calls)
 abaes-eval-fwk init playground
@@ -56,9 +60,10 @@ abaes-eval-fwk run playground/benchmark.yaml
 python -m pip install -e '.[dev]'   # Install framework + dev dependencies
 ruff check .                        # Lint
 ruff format --check .               # Check formatting (ruff format . to apply)
-pytest                              # Run tests
+pytest                              # Unit tests
+pytest -m integration               # Integration tests
 python -m build                     # Build sdist + wheel
-pre-commit run --all-files          # Run every hook (black, ruff, bandit, mypy, pytest, ...)
+pre-commit run --all-files          # Run every hook (ruff, bandit, mypy, unit tests, ...)
 ```
 
 ### Git Workflow

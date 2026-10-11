@@ -1,58 +1,42 @@
-# Replication package
+# Study results
 
-Per-essay result CSVs backing the paper's RQ1–RQ4 experiments, for recomputing metrics and
-significance tests with the public `abaes-eval-fwk` framework. No aggregated tables or
-precomputed metrics are included here — every number in the paper is recomputed by running
-the commands below against these CSVs.
+Per-essay result CSVs from the RQ1–RQ4 study. Every reported metric, significance test, and RQ4
+procedure statistic can be recomputed from these files with `abaes-eval-fwk`. No aggregated
+tables or precomputed metrics are included.
 
 ## Layout
 
-Every file follows `RQ<n>_<architecture>_<...>_<model>[_{r,nr}].csv` — architecture and model
-are always in the name, not just the directory, so a file is self-describing even copied out
-of context. `_r` / `_nr` mark a model run with reasoning on / off.
+File names follow `RQ<n>_<architecture>_<...>_<model>[_{r,nr}].csv`, so a file is self-describing
+outside its folder. `_r` / `_nr` mark a model run with reasoning on / off.
 
 ```
-results/
-  RQ1/                        retrieval-strategy comparison, holistic scoring, Llama 3.3 only
-    holistic/RQ1_holistic_<retrieval>_llama.csv   retrieval in {zero_shot, random, lexical, semantic, hybrid}
-  RQ2/                        architecture comparison (holistic vs. criterion), hybrid retrieval, reasoning off
-    holistic/RQ2_holistic_<model>.csv
-    criterion/RQ2_criterion_<model>.csv
-  RQ3/                        reasoning on/off ablation, hybrid retrieval -- the reasoning-on counterpart to RQ2
-    holistic/RQ3_holistic_<model>_r.csv
-    criterion/RQ3_criterion_<model>_r.csv
-  RQ4/                        final-agent deliberation (no Baseline H/C files -- see below)
-    holistic/RQ4_holistic_disagreement_based_adjudication_gemma_r.csv   DA-H
-    holistic/RQ4_holistic_review_based_adjudication_gemma_r.csv         RA-H
-    criterion/RQ4_criterion_disagreement_based_adjudication_gemma_r.csv DA-C
-    criterion/RQ4_criterion_review_based_adjudication_gemma_r.csv       RA-C
-    review/holistic/RQ4_holistic_review_gemma_r_<source_model>.csv      RA reviewer verdicts (outcome only)
-    review/criterion/RQ4_criterion_review_gemma_r_<source_model>.csv
-    disagreement/holistic/RQ4_holistic_disagreement_pool_gemma_r.csv    DA pool scores + disagreement outcome
-    disagreement/criterion/RQ4_criterion_disagreement_pool_gemma_r.csv  (no graded scores -- excluded from metrics recomputation below)
+results/study/
+  RQ1/holistic/RQ1_holistic_<retrieval>_llama.csv       retrieval: zero_shot, random, lexical, semantic, hybrid
+  RQ2/{holistic,criterion}/RQ2_<arch>_<model>.csv       architecture comparison; hybrid retrieval, reasoning off
+  RQ3/{holistic,criterion}/RQ3_<arch>_<model>_r.csv     reasoning-on counterparts of RQ2
+  RQ4/{holistic,criterion}/
+    RQ4_<arch>_disagreement_based_adjudication_gemma_r.csv   DA
+    RQ4_<arch>_review_based_adjudication_gemma_r.csv         RA
+  RQ4/review/{holistic,criterion}/RQ4_<arch>_review_gemma_r_<source_model>.csv   RA review verdicts
+  RQ4/disagreement/{holistic,criterion}/RQ4_<arch>_disagreement_pool_gemma_r.csv DA pool scores and outcome
+  samples/rq4_review_demo_<arch>.csv                    sample reviews with full justifications and reasoning
 ```
 
-`RQ2`'s six models (`llama`, `mixtral`, `phi`, `gemma_nr`, `qwen_nr`, `deepseek_nr`) are
-reasoning disabled or not applicable; `RQ3`'s three models (`deepseek_r`, `gemma_r`, `qwen_r`)
-are the same families with reasoning enabled. `RQ4`'s `<source_model>` names a member of the
-pool Gemma 4 (reasoning on) adjudicates or reviews over -- each model's best RQ2/RQ3
-configuration: `llama`, `deepseek_r`, `qwen_r` in the holistic setting, and `llama`,
-`deepseek_nr`, `qwen_r` in the criterion setting.
+- **RQ2** models: `llama`, `mixtral`, `phi`, `gemma_nr`, `qwen_nr`, `deepseek_nr` (reasoning off
+  or not applicable).
+- **RQ3** models: `deepseek_r`, `gemma_r`, `qwen_r` (the same families with reasoning on).
+- **RQ4**: Gemma 4 (reasoning on) adjudicates or reviews a pool of three source models, each in
+  its best RQ2/RQ3 configuration: `llama`, `deepseek_r`, `qwen_r` (holistic) and `llama`,
+  `deepseek_nr`, `qwen_r` (criterion).
+
+`review/`, `disagreement/`, and `samples/` hold no graded scores; skip them when recomputing
+metrics.
 
 ## Setup
 
-1. Obtain your own copies of ASAP AES, ASAP 2.0, and ELLIPSE (see `docs/datasets.md`);
-   dataset access is subject to the original providers' terms and is not bundled here or in
-   the framework. Lay them out as:
-
-   ```
-   <data_root>/datasets/ASAP_AES/training_set_rel3.tsv
-   <data_root>/datasets/ASAP_2.0/ASAP2_train_sourcetexts.csv
-   <data_root>/datasets/ELLIPSE/ELLIPSE_Final_github_train.csv
-   <data_root>/datasets/ELLIPSE/ellipsis_raw_rater_scores_anon_all_essay.csv
-   ```
-
-2. From an `abaes-eval-fwk` checkout, install and generate the study project:
+1. Download ASAP AES, ASAP 2.0, and ELLIPSE as described in
+   [docs/datasets.md](../../docs/datasets.md#downloading-the-benchmark-corpora).
+2. Install the framework and create the study project:
 
    ```bash
    python3.12 -m venv .venv && source .venv/bin/activate
@@ -60,11 +44,10 @@ configuration: `llama`, `deepseek_r`, `qwen_r` in the holistic setting, and `lla
    abaes-eval-fwk init study --template study
    ```
 
-3. Point `study/config/paths.yaml` at your `<data_root>` from step 1 (the only edit required —
-   `study/config/datasets.yaml` already matches that layout):
+3. Point `study/config/paths.yaml` at the directory that contains `datasets/`:
 
    ```yaml
-   data_root: /absolute/path/to/your/data_root
+   data_root: /absolute/path/to/data_root
    output_dir: runs
    ```
 
@@ -74,59 +57,53 @@ configuration: `llama`, `deepseek_r`, `qwen_r` in the holistic setting, and `lla
    abaes-eval-fwk validate study/benchmark.yaml --check-data
    ```
 
-   This should print a validated submission count for each of the 6 datasets and
-   `Valid configuration: 23 experiments, 6 datasets`, with no further edits needed.
+   Expect a submission count for each of the 6 datasets and
+   `Valid configuration: 23 experiments, 6 datasets`.
 
-`study/benchmark.yaml` is the `<config>` argument used in every command below.
-
-## Recomputing metrics (RQ1–RQ3)
+## Metrics (RQ1–RQ3, RQ4 DA/RA)
 
 ```bash
-abaes-eval-fwk metrics study/benchmark.yaml results/study/RQ1/holistic/RQ1_holistic_hybrid_llama.csv --output analysis/rq1-hybrid
+abaes-eval-fwk metrics study/benchmark.yaml \
+  results/study/RQ1/holistic/RQ1_holistic_hybrid_llama.csv --output analysis/rq1-hybrid
 ```
 
-Reports NMAE, NRMSE, Pearson, Spearman, and QWK per dataset plus the unweighted average —
-NMAE is what the paper reports; the rest are additional metrics over the same scores.
-
-To recompute every file at once, nest `--output` by relative path, not bare filename — DA/RA's
-holistic and criterion CSVs share the same basename by design, so nesting by filename alone
-collides between the two:
+Reports NMAE (the primary metric), NRMSE, Pearson, Spearman, and QWK per dataset, plus the
+dataset-equal average. Each input gets its own folder under `--output`, named after the CSV, so
+every file can be recomputed into one directory:
 
 ```bash
-find results/study \( -path '*/review/*' -o -path '*/disagreement/*' \) -prune -o -name '*.csv' -print | while read -r csv; do
-  outdir="analysis/$(dirname "$csv" | sed 's#results/study/##')"
-  abaes-eval-fwk metrics study/benchmark.yaml "$csv" --output "$outdir"
+find results/study \( -path '*/review/*' -o -path '*/disagreement/*' -o -path '*/samples/*' \) -prune \
+  -o -name '*.csv' -print | while read -r csv; do
+  abaes-eval-fwk metrics study/benchmark.yaml "$csv" --output analysis/metrics
 done
 ```
 
-## Recomputing significance tests
+## Significance tests
 
-Paired two-sided Wilcoxon tests over absolute scoring error, matched by essay ID:
+Paired two-sided Wilcoxon tests on normalized absolute scoring error, matched by essay ID:
 
 ```bash
 abaes-eval-fwk compare study/benchmark.yaml \
-  results/study/RQ1/holistic/RQ1_holistic_zero_shot_llama.csv results/study/RQ1/holistic/RQ1_holistic_hybrid_llama.csv \
+  results/study/RQ1/holistic/RQ1_holistic_zero_shot_llama.csv \
+  results/study/RQ1/holistic/RQ1_holistic_hybrid_llama.csv \
   --output analysis/rq1_zero_shot_vs_hybrid.csv
 ```
 
-Use the same pattern for any RQ2 holistic-vs-criterion pair (same model), RQ3
-reasoning-off-vs-on pair (same architecture), or RQ4 baseline-vs-DA / baseline-vs-RA pair.
+Use the same pattern for RQ2 holistic vs. criterion (same model), RQ3 reasoning off vs. on (same
+architecture), and RQ4 baseline vs. DA or RA.
 
-## Recomputing the RQ4 pool-average baselines
+## RQ4 pool-average baselines
 
-Each final-agent run's initial pool is the independent scores from three models over the same
-essays (see the paper, Section on Final Agent Deliberation). Rebuild Baseline H / Baseline C
-directly from the RQ2/RQ3 CSVs above:
+Baseline H and Baseline C average the three pool members' independent scores, rebuilt from the
+RQ2/RQ3 CSVs:
 
 ```bash
-# Baseline H: Llama 3.3, DeepSeek-R1-32B (reasoning on), Qwen 3.8 (reasoning on)
 abaes-eval-fwk baseline study/benchmark.yaml \
   results/study/RQ2/holistic/RQ2_holistic_llama.csv \
   results/study/RQ3/holistic/RQ3_holistic_deepseek_r.csv \
   results/study/RQ3/holistic/RQ3_holistic_qwen_r.csv \
   --output analysis/pool_average_holistic.csv
 
-# Baseline C: Llama 3.3, DeepSeek-R1-32B (reasoning off), Qwen 3.8 (reasoning on)
 abaes-eval-fwk baseline study/benchmark.yaml \
   results/study/RQ2/criterion/RQ2_criterion_llama.csv \
   results/study/RQ2/criterion/RQ2_criterion_deepseek_nr.csv \
@@ -134,17 +111,14 @@ abaes-eval-fwk baseline study/benchmark.yaml \
   --output analysis/pool_average_criterion.csv
 ```
 
-The DA-H/DA-C/RA-H/RA-C result CSVs under `RQ4/` are the final agent's (Gemma 4, reasoning
-enabled) output over that same pool; they can be evaluated with `metrics` and compared against
-baseline with `compare` as above, but regenerating them from scratch via `abaes-eval-fwk run`
-requires access to that model.
+The DA/RA CSVs are Gemma 4's output over the same pools. Regenerating them with
+`abaes-eval-fwk run` needs access to that model.
 
-## Recomputing the RQ4 procedure outcomes and review tokens
+## RQ4 procedure outcomes and review tokens
 
-`adjudication` takes the same pool sources as `baseline` plus the pool's review CSVs. It
-recomputes each pool's DA outcome from the source scores with the rule DA applies at run time
-(normalized mean pairwise disagreement above 0.2), and each RA outcome from the reviews
-(positive: every assessment admissible; mixed: some; negative: none):
+`adjudication` takes the same pool sources as `baseline` plus the pool's review CSVs. It recomputes
+each DA outcome with the run-time rule (normalized mean pairwise disagreement above 0.2) and each
+RA outcome from the reviews (positive: all assessments admissible; mixed: some; negative: none):
 
 ```bash
 abaes-eval-fwk adjudication study/benchmark.yaml \
@@ -162,18 +136,16 @@ abaes-eval-fwk adjudication study/benchmark.yaml \
   --output analysis/adjudication_criterion
 ```
 
-Each `--output` directory receives:
+Each output directory contains:
 
-- `outcomes.csv`: count and percent of each DA and RA outcome per dataset, and over `All items`,
-  the pooled share the paper reports (1,200 holistic pools, 5,400 criterion-level pools).
-- `outcome_items.csv`: the outcome of every pool, with DA's normalized disagreement and RA's
-  admissible count.
-- `review_tokens.csv`: the review's average completion tokens per essay for each reviewed
-  source model, summed across an essay's criteria and averaged with datasets weighted equally,
-  as `metrics` averages grading tokens. Its `Average` rows are the "+Rev." column of the paper's
-  completion-token table.
+- `outcomes.csv`: count and share of each DA and RA outcome per dataset and over `All items`
+  (1,200 holistic pools, 5,400 criterion-level pools).
+- `outcome_items.csv`: each pool's outcome, DA's normalized disagreement, and RA's admissible
+  count.
+- `review_tokens.csv`: average review completion tokens per essay for each reviewed source
+  model, summed over an essay's criteria and averaged with datasets weighted equally.
 
-Expected `All items` and `Average` values, as reported in the paper:
+Expected `All items` and `Average` values (the reported values):
 
 | | Holistic | Criterion |
 | --- | --- | --- |
@@ -181,11 +153,10 @@ Expected `All items` and `Average` values, as reported in the paper:
 | RA positive (all admissible) | 36.7% | 35.6% |
 | RA mixed | 56.0% | 62.2% |
 | RA negative | 7.3% | 2.2% |
-| +Rev. tokens, DeepSeek-R1-32B | 1,330 | 5,210 |
-| +Rev. tokens, Llama 3.3 | 1,306 | 5,446 |
-| +Rev. tokens, Qwen 3.8 | 1,060 | 4,147 |
+| Review tokens, DeepSeek-R1-32B | 1,330 | 5,210 |
+| Review tokens, Llama 3.3 | 1,306 | 5,446 |
+| Review tokens, Qwen 3.8 | 1,060 | 4,147 |
 
-`tests/test_replication_package.py` runs the same computation on these files, pins the values
-above, and checks that the counted outcomes are the branches the runs took: resolving each pool
-from its outcome, with Gemma 4's RQ3 reasoning-enabled assessment as the independent one,
-rebuilds every final score in the DA and RA result CSVs.
+`tests/test_replication_package.py` pins these values. It also checks that resolving each pool
+from its counted outcome, with Gemma 4's RQ3 assessment as the independent one, rebuilds every
+final score in the DA and RA CSVs.

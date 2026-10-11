@@ -281,7 +281,7 @@ def metrics_config(spec: dict) -> MetricsConfig:
         raise ValueError("metrics.compute must be a mapping")
     _keys(
         compute_spec,
-        {"nmae", "nrmse", "pearson", "spearman", "qwk", "mae", "rmse"},
+        {"nmae", "nrmse", "pearson", "spearman", "qwk"},
         "metrics.compute",
     )
     for key in compute_spec:

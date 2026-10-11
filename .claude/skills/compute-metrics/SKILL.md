@@ -22,7 +22,7 @@ Wraps the framework's `metrics`/`compare`/`baseline`/`adjudication` subcommands 
    ```bash
    abaes-eval-fwk metrics <config> <results.csv> [--output DIR]
    ```
-   Writes `<DIR or output_dir/analysis>/<results_stem>.csv`: one row per dataset (NMAE, MAE, RMSE, NRMSE, QWK, Pearson, Spearman) plus a trailing Average row. NMAE (`10 × MAE / (score_max − score_min)`) is the primary metric.
+   Writes `<DIR or output_dir/analysis>/<results_stem>/<experiment_id>.csv`: one row per dataset (NMAE, NRMSE, QWK, Pearson, Spearman, plus any configured custom metrics) plus a trailing Average row. NMAE (absolute errors rescaled by `10 / (score_max − score_min)`, then averaged) is the primary metric.
 3. **Two CSVs (baseline vs. variant)** → paired comparison:
    ```bash
    abaes-eval-fwk compare <config> <baseline.csv> <variant.csv> [--allow-partial] [--alpha 0.05]
@@ -43,7 +43,7 @@ Wraps the framework's `metrics`/`compare`/`baseline`/`adjudication` subcommands 
 
 ## Gotcha: `--output` means different things per subcommand
 
-For `metrics` and `adjudication`, `--output` is a **directory** (for `metrics` the file becomes `<DIR>/<results_stem>.csv`). For `compare` and `baseline`, `--output` is the **exact destination file path**. Passing a bare filename to `metrics --output` or a bare directory to `compare --output`/`baseline --output` produces the wrong shape — always show the resolved command before running it.
+For `metrics` and `adjudication`, `--output` is a **directory** (for `metrics` the file becomes `<DIR>/<results_stem>/<experiment_id>.csv`). For `compare` and `baseline`, `--output` is the **exact destination file path**. Passing a bare filename to `metrics --output` or a bare directory to `compare --output`/`baseline --output` produces the wrong shape — always show the resolved command before running it.
 
 ## Gotcha: dataset coverage and extensions
 

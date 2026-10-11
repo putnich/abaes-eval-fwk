@@ -16,13 +16,13 @@ setting changes, where a run can fail, and which code to open when extending the
 
 ```mermaid
 flowchart TB
-    cli["cli.py<br/>init · validate · prepare · run<br/>metrics · compare · baseline"]
+    cli["cli.py<br/>init · validate · prepare · run<br/>metrics · compare · baseline · adjudication"]
     conf["configuration.py + config/<br/>load, merge, validate"]
     runner["runner.py<br/>worker process per experiment,<br/>manifest, provenance"]
     subgraph experiment["experiment/"]
         setup["setup/<br/>datasets, rubrics,<br/>sampling, calibration, reuse"]
         result["result/<br/>CSV writer"]
-        eval["eval/<br/>metrics, Wilcoxon,<br/>pool-average baseline"]
+        eval["eval/<br/>metrics, Wilcoxon,<br/>pool-average baseline,<br/>procedure outcomes"]
     end
     subgraph core["core/"]
         grader["grader/<br/>LangGraph workflow,<br/>concurrent orchestrator"]
@@ -55,4 +55,4 @@ flowchart TB
 | `core/agents/` | Prompt rendering, structured-output parsing, retries, and token accounting for each agent type |
 | `core/retriever/` | Picks score-stratified few-shot examples from the calibration pool |
 | `core/llm/` | Builds the chat client for a model profile (built-in providers or an `adapter_factory`) |
-| `experiment/eval/` | Metrics, paired Wilcoxon comparisons, pool-average baselines |
+| `experiment/eval/` | Metrics, paired Wilcoxon comparisons, pool-average baselines, DA/RA outcome counts |

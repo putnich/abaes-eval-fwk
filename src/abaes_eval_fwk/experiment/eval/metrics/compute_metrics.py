@@ -71,24 +71,22 @@ def _width(scale: Scale) -> float:
     return 10 / (scale.max - scale.min)
 
 
-def mae(*, preds: list[int], humans: list[int], scale: Scale) -> float:
-    """Mean absolute error in the dataset's own score points."""
+def _mean_absolute_error(preds: list[int], humans: list[int]) -> float:
     return sum(abs(e) for e in _errors(preds, humans)) / len(preds)
 
 
-def rmse(*, preds: list[int], humans: list[int], scale: Scale) -> float:
-    """Root mean squared error in the dataset's own score points."""
+def _root_mean_squared_error(preds: list[int], humans: list[int]) -> float:
     return math.sqrt(sum(e**2 for e in _errors(preds, humans)) / len(preds))
 
 
 def nmae(*, preds: list[int], humans: list[int], scale: Scale) -> float:
     """Mean absolute error on the shared 0-10 reference scale."""
-    return mae(preds=preds, humans=humans, scale=scale) * _width(scale)
+    return _mean_absolute_error(preds, humans) * _width(scale)
 
 
 def nrmse(*, preds: list[int], humans: list[int], scale: Scale) -> float:
     """Root mean squared error on the shared 0-10 reference scale."""
-    return rmse(preds=preds, humans=humans, scale=scale) * _width(scale)
+    return _root_mean_squared_error(preds, humans) * _width(scale)
 
 
 def pearson(*, preds: list[int], humans: list[int], scale: Scale) -> float:
@@ -125,8 +123,6 @@ BUILTIN_METRICS: Final[dict[str, Callable[..., float]]] = {
     "pearson": pearson,
     "spearman": spearman,
     "qwk": qwk,
-    "mae": mae,
-    "rmse": rmse,
 }
 # Output column order; also the order `metrics.compute` flags are read in. Custom metrics follow,
 # in configured order, so enabling one never moves an existing column.
@@ -136,8 +132,6 @@ _OUTPUT_ORDER: Final[tuple[str, ...]] = (
     "pearson",
     "spearman",
     "qwk",
-    "mae",
-    "rmse",
 )
 _HEADERS: Final[dict[str, str]] = {
     "nmae": "NMAE",
@@ -145,8 +139,6 @@ _HEADERS: Final[dict[str, str]] = {
     "pearson": "Pearson",
     "spearman": "Spearman",
     "qwk": "QWK",
-    "mae": "MAE",
-    "rmse": "RMSE",
 }
 # `r` and `rho` name the two correlations throughout the engine and in saved analyses; the
 # registry keys match the configuration instead (`pearson`, `spearman`), so both reach the value.

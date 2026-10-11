@@ -181,7 +181,7 @@ Named profiles, merged over `model_defaults`. Full guide: [models](models.md).
 models:
   model_a:
     provider: openai_compatible
-    model_name: Qwen/Qwen3-8B
+    model_name: neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic
     base_url: http://localhost:8000/v1
 ```
 
@@ -190,14 +190,13 @@ models:
 | Key | Default | Meaning |
 |---|---|---|
 | `compute.{nmae,nrmse,pearson,spearman,qwk}` | `true` | Columns in the saved table |
-| `compute.{mae,rmse}` | `false` | Errors in the dataset's own score points |
 | `custom.<column>` | none | `module:function` metric; can't reuse a built-in name |
 | `significance_thresholds` | `0.001`, `0.01`, `0.05` | p-values for `***`, `**`, `*` |
 | `wilcoxon.alternative` | `two-sided` | `two-sided`, `less`, `greater` |
 | `wilcoxon.alpha` | `0.05` | Significance level |
 | `wilcoxon.zero_method` | `wilcox` | `wilcox` drops zero differences; `pratt` keeps them |
 | `wilcoxon.method` | `auto` | `auto`, `approx`, `exact` |
-| `comparison.allow_partial_overlap` | `false` | Compare only the essays both runs share |
+| `comparison.allow_partial_overlap` | `false` | Compare only the datasets and essays both runs share |
 | `comparison.alpha` | `0.05` | Level used by `compare` |
 
 `compare --alpha` and `--allow-partial` override the configured values.

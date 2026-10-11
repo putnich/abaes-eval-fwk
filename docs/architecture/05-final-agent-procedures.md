@@ -13,8 +13,9 @@ shared conversation, followed by a synthesis turn. Holistic candidates are a sin
 
 ## pool_average
 
-The candidates' scores are averaged and rounded half-up to a score level. No model call. This
-is the baseline the adjudicating procedures are compared against.
+Each candidate's score is rounded half-up to a score level, and the rounded scores are averaged
+and rounded half-up again. No model call. This is the baseline the adjudicating procedures are
+compared against.
 
 For `criterion_specialized` candidates, each candidate's criterion scores are first combined
 into that candidate's overall score with the rubric's `criteria_aggregation`. The baseline is
@@ -26,17 +27,17 @@ candidates before aggregation, so a `sum` rubric with candidates totalling 0 and
 ```mermaid
 flowchart TB
     s(["candidate scores for one item"])
-    napd["NAPD = mean |a − b| over all pairs<br/>÷ (score_max − score_min) × 5"]
-    t{"NAPD > disagreement_threshold × 5?<br/>(default 0.2 → 20% of the scale)"}
+    dist["normalized disagreement =<br/>mean |a − b| over all pairs<br/>÷ (score_max − score_min)"]
+    t{"normalized disagreement ><br/>disagreement_threshold?<br/>(default 0.2 = 20% of the scale)"}
     agree["agreement:<br/>score = round_half_up(mean of candidates)<br/>model writes the justification"]
     dis["disagreement:<br/>candidates rejected,<br/>score = final model's independent assessment<br/>(no model call)"]
-    s --> napd --> t
+    s --> dist --> t
     t -- no --> agree
     t -- yes --> dis
 ```
 
-NAPD (normalized average pairwise disagreement) puts every rubric on a common 0–5 reference
-width, so one threshold works across scales of different sizes and any number of candidates.
+Dividing the mean pairwise distance by the scale's width gives a value in [0, 1], so one threshold
+works across scales of different sizes and any number of candidates.
 
 ## review_based
 
@@ -58,12 +59,11 @@ flowchart TB
     c --> neg
 ```
 
-A review judges two things: whether the score is consistent with the rubric's level
-guidelines, and whether the justification is grounded in evidence from the essay. A candidate is
-admissible only if it passes both. Each review runs in a separate conversation so no verdict
-anchors another. Reviews are written
-to the run's reviews CSV. A `review` (`non_grading`) experiment produces them on their own, and a
-later `review_based` experiment can replay them through `reuse.reviews` instead of asking again.
+A review checks that the score is consistent with the rubric's level guidelines and that the
+justification is grounded in evidence from the essay; a candidate is admissible only if it passes
+both. Each review runs in its own conversation, so no verdict anchors another. Reviews are saved
+to the run's reviews CSV. A `review` (`non_grading`) experiment produces them alone, and a later
+`review_based` experiment can replay them through `reuse.reviews`.
 
 ## Experiment dependencies
 

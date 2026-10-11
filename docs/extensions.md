@@ -45,8 +45,8 @@ The playground ships a working example of each point in `extensions/` (run
 | Criteria aggregation | rubric `criteria_aggregation` | `f(*, rubric, scores)` | overall score |
 | Model adapter | `models.<profile>.adapter_factory` | `f(config)` | LangChain-compatible chat model |
 
-Check the call shape carefully. The two sampling hooks receive positional arguments; the others
-receive keywords.
+Check the call shape carefully. The two sampling hooks receive their data positionally (evaluation
+sampling gets `n_per_set` by keyword); the others receive keywords only.
 
 ## Retrieval selector
 

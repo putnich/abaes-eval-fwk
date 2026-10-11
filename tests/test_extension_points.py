@@ -238,11 +238,10 @@ def test_the_compute_flags_choose_the_reported_columns():
             "nrmse": False,
             "pearson": False,
             "spearman": False,
-            "mae": True,
         },
         custom={"exact": "extensions:exact_agreement"},
     )
-    assert reported_metrics(config) == ["nmae", "qwk", "mae", "exact"]
+    assert reported_metrics(config) == ["nmae", "qwk", "exact"]
     # With no configuration the five historically reported metrics are the columns.
     assert reported_metrics() == ["nmae", "nrmse", "pearson", "spearman", "qwk"]
 
@@ -291,12 +290,11 @@ def test_a_custom_metric_reaches_the_saved_table(project, tmp_path):
     assert float(rows[0][header.index("exact")]) == pytest.approx(2 / 3)
 
 
-def test_mae_and_rmse_are_computed_whether_or_not_they_are_reported():
+def test_every_builtin_is_computed_whether_or_not_it_is_reported():
     """Computing every built-in costs nothing, and keeps a direct resolve_metrics call complete."""
     group = _metrics_set([2, 4], [3, 5], Scale(0, 10))
     resolve_metrics(group, Scale(0, 10))
     assert set(BUILTIN_METRICS) <= set(group.resolved)
-    assert group.resolved.mae == pytest.approx(1.0)
 
 
 # --------------------------------------------------------------------------- prompts

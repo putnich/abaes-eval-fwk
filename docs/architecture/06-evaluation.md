@@ -7,9 +7,9 @@ flowchart LR
     csv["results CSV"]
     agg["criterion rows → overall<br/>via criteria_aggregation"]
     hum["overall human score<br/>from the dataset"]
-    met["per dataset:<br/>NMAE · NRMSE · QWK ·<br/>Pearson · Spearman<br/>(+ MAE, RMSE, custom)"]
+    met["per dataset:<br/>NMAE · NRMSE · QWK ·<br/>Pearson · Spearman<br/>(+ custom metrics)"]
     avg["dataset-equal average row"]
-    cmp["compare: paired Wilcoxon<br/>on absolute error, per dataset"]
+    cmp["compare: paired Wilcoxon<br/>on normalized absolute error,<br/>per dataset"]
     csv --> agg --> met
     hum --> met
     met --> avg
@@ -18,8 +18,8 @@ flowchart LR
 
 `run` computes metrics automatically when `runtime.compute_metrics` is true. `metrics`,
 `compare`, and `baseline` rerun the same code on CSVs already on disk. NMAE, the primary metric,
-is `10 × MAE / (score_max − score_min)`, which puts datasets with different scales on one 0–10
-reference.
+rescales each absolute error to a 0–10 scale (`× 10 / (score_max − score_min)`) and averages
+them, so datasets with different scales share one reference.
 
 `adjudication` reports how the final-agent procedures resolve a pool. It recomputes every DA
 outcome from the pool's source results with the disagreement rule the procedure applies, counts
@@ -29,4 +29,4 @@ for each reviewed source. Boolean review columns (`rubric_consistency`, `evidenc
 
 ---
 
-[← Final-agent procedures](05-final-agent-procedures.md) · [Overview](README.md) · [Overview](README.md)
+[← Final-agent procedures](05-final-agent-procedures.md) · [Overview](README.md)

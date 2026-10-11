@@ -22,16 +22,16 @@ Optional extras: `dense` (sentence-transformers, for `semantic`/`hybrid` retriev
   works without a checkout.
 - The synthetic playground dataset and rubric, and the six study rubrics (`resources/`).
 - The playground's example `extensions/`.
-- Reader documentation under `abaes_eval_fwk/reader_docs/` (architecture chapters in its `architecture/` subfolder): these docs except the
-  repository's audit records. Find them in an installed environment with
+- The `docs/` guides, under `abaes_eval_fwk/reader_docs/` (architecture chapters in
+  `architecture/`). Locate them with
   `python -c "import abaes_eval_fwk, pathlib; print(pathlib.Path(abaes_eval_fwk.__file__).parent / 'reader_docs')"`.
 
 It does not contain student datasets, results, credentials, model weights, or tests.
 
 ## What the source distribution adds
 
-The sdist also carries `tests/`, `scripts/`, `LICENSE`, `README.md`, and `pyproject.toml`, so the
-test suite can run from it.
+The sdist also carries `tests/`, `LICENSE`, `README.md`, and `pyproject.toml`, so the test suite
+can run from it.
 
 ## Versions
 
@@ -58,19 +58,26 @@ Releases are published as GitHub Releases, not to PyPI.
    python -m build
    ls dist/          # abaes_eval_fwk-0.2.0-py3-none-any.whl and .tar.gz
    ```
-3. Push the tag. This publishes the release immediately:
+3. Push the tag:
    ```bash
    git push origin v0.2.0
    ```
-4. The CD workflow (`.github/workflows/cd.yml`) builds the sdist and wheel and attaches both to a
-   GitHub Release with generated notes. It can also be run by hand from the Actions tab for an
-   existing tag.
+4. The CD workflow (`.github/workflows/cd.yml`) runs the unit and integration tests, then builds
+   the sdist and wheel and attaches both to a GitHub Release with generated notes. If a test
+   fails, nothing is published. It can also be run by hand from the Actions tab for an existing
+   tag.
 
 The workflow refuses to overwrite an existing release. To redo a broken one, delete it first.
 Never move a published tag; release the next patch version instead.
 
 ## Continuous integration
 
+Tests come in two tiers. Unit tests run with a plain `pytest` and in the pre-commit hook. Tests
+that run the framework (CLI runs and the offline playground suite) are marked `integration`, are
+excluded by default, and run with `pytest -m integration`.
+
 `.github/workflows/ci.yml` runs on every push and pull request, on Python 3.11, 3.12, 3.13, and
-3.14: `ruff check`, `ruff format --check`, `pytest`, `python -m build`, and an install of the built
-wheel outside the checkout that runs `init` and the playground benchmark.
+3.14: `ruff check`, `ruff format --check`, the unit tests, and `python -m build`. For pull
+requests into `main`, pushes to `main`, and manual runs (`workflow_dispatch`), it also runs the
+integration tests and installs the built wheel outside the checkout to run `init` and the
+playground benchmark. `.github/workflows/cd.yml` runs both tiers before it builds a release.

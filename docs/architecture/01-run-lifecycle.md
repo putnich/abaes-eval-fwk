@@ -54,6 +54,7 @@ flowchart TB
         src["hashes of reused input files"]
         code["framework source SHA-256"]
         ext["extension source SHA-256"]
+        pkgs["installed package versions"]
     end
     identity --> m["manifest.json"]
     m --> q{"--resume DIR:<br/>identity unchanged?"}
@@ -61,11 +62,10 @@ flowchart TB
     q -- no --> rej["rejected: start a new run"]
 ```
 
-The manifest also records the Python version, platform, installed package versions, artifact
-paths, timestamps, and earlier attempts. Checkpoints are keyed by (rubric, essay, criterion), and
-the checkpoint file is specific to the variant, model, and source experiments, so two runs can't
-read each other's records.
+The manifest also records the Python version, platform, artifact paths, timestamps, and earlier
+attempts. Checkpoints are keyed by (rubric, essay, criterion) and live in the run's own
+`checkpoints/grader.sqlite`, so two runs can't read each other's records.
 
 ---
 
-[← Overview](README.md) · [Overview](README.md) · [Configuration resolution →](02-configuration-resolution.md)
+[Overview](README.md) · [Configuration resolution →](02-configuration-resolution.md)

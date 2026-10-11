@@ -33,7 +33,7 @@ Every `run` writes a suite manifest plus one directory per experiment. This skil
 ## Steps
 
 1. If given nothing, list the newest files in `<output_dir>/suites/` and ask which suite. A suite's `status` is `running`, `complete`, or `failed`; `error` names the experiment that stopped it.
-2. Open the failing experiment's `manifest.json`. `status` is `preparing`, `complete`, `partial` (graded, but `failures` lists essays that didn't), or `failed` (see `error`). `previous_attempts` shows earlier resumes.
+2. Open the failing experiment's `manifest.json`. `status` is `preparing`, `running`, `complete`, `partial` (graded, but `failures` lists essays that didn't), or `failed` (see `error`). `previous_attempts` shows earlier resumes.
 3. Read the tail of `logs/run.log` for the traceback or the last provider error. Common causes:
    - Connection/timeout errors → the endpoint in `models.yaml` is down or `timeout` is too low.
    - `context_overflow` errors → lower `retrieval.max_examples` or keep `runtime.context_overflow: truncate_examples`.

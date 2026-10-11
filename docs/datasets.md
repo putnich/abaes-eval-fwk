@@ -6,6 +6,7 @@ distributed with the framework; each corpus stays under its provider's terms.
 ## Contents
 
 - [Built-in datasets](#built-in-datasets)
+- [Downloading the benchmark corpora](#downloading-the-benchmark-corpora)
 - [Your own essays: normalized CSV](#your-own-essays-normalized-csv)
 - [Your own essays: loader](#your-own-essays-loader)
 - [Rubrics](#rubrics)
@@ -14,18 +15,15 @@ distributed with the framework; each corpus stays under its provider's terms.
 
 ## Built-in datasets
 
-Six benchmark sets are registered by name. Download each corpus from its provider and place the
-files under `<data_root>/datasets/<family>/` (`data_root` defaults to `data`, relative to
-`benchmark.yaml`):
+Six benchmark sets are registered by name. Their files go under `<data_root>/datasets/<family>/`
+(`data_root` defaults to `data`, relative to `benchmark.yaml`):
 
-| `name` | Family folder | File(s) | Source | Scores |
-|---|---|---|---|---|
-| `ASAP AES Set 1` | `ASAP_AES/` | `training_set_rel3.tsv` | [Kaggle ASAP AES](https://www.kaggle.com/c/asap-aes) | holistic (`rater1_domain1`) |
-| `ASAP AES Set 4` | `ASAP_AES/` | `training_set_rel3.tsv` | same | holistic |
-| `ASAP AES Set 7` | `ASAP_AES/` | `training_set_rel3.tsv` | same | holistic + ideas, organization, style, conventions (rater 1 traits) |
-| `ASAP 2.0 Set 1` | `ASAP_2.0/` | `ASAP2_train_sourcetexts.csv` | [Kaggle ASAP 2.0](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2) | holistic; prompt "Exploring Venus" |
-| `ASAP 2.0 Set 6` | `ASAP_2.0/` | `ASAP2_train_sourcetexts.csv` | same | holistic; prompt "Does the electoral college work?" |
-| `ELLIPSE` | `ELLIPSE/` | `ELLIPSE_Final_github_train.csv` + `ellipsis_raw_rater_scores_anon_all_essay.csv` | [ELLIPSE Corpus](https://github.com/scrosseye/ELLIPSE-Corpus) | `Overall_1` + six analytic dimensions (rater 1) |
+| `name` | Folder | File(s) | Human target |
+|---|---|---|---|
+| `ASAP AES Set 1`, `ASAP AES Set 4` | `ASAP_AES/` | `training_set_rel3.tsv` | `rater1_domain1` |
+| `ASAP AES Set 7` | `ASAP_AES/` | `training_set_rel3.tsv` | `rater1_domain1` + four rater-1 traits |
+| `ASAP 2.0 Set 1`, `ASAP 2.0 Set 6` | `ASAP_2.0/` | `ASAP2_train_sourcetexts.csv` | `score`; prompts "Exploring Venus" and "Does the electoral college work?" |
+| `ELLIPSE` | `ELLIPSE/` | `ELLIPSE_Final_github_train.csv`, `ellipsis_raw_rater_scores_anon_all_essay.csv` | `Overall_1` + six rater-1 analytic scores |
 
 ```
 data/datasets/
@@ -36,12 +34,51 @@ data/datasets/
     └── ellipsis_raw_rater_scores_anon_all_essay.csv
 ```
 
-The `study` template's `config/datasets.yaml` already declares all six with the right column
-mappings. Delete the entries you don't have files for. Every built-in uses the first rater's
-score as the human target, so scores are a single rater's judgment, not an average of raters.
+The `study` template's `config/datasets.yaml` declares all six; delete entries you have no files
+for. Human targets are the first rater's scores, not an average of raters. To keep a file
+elsewhere, set `data: path/to/file` on its entry (relative to `benchmark.yaml`).
 
-To use a file stored elsewhere, set `data: path/to/file` on the entry, relative to
-`benchmark.yaml`.
+## Downloading the benchmark corpora
+
+The Kaggle commands need the [Kaggle CLI](https://github.com/Kaggle/kaggle-api) (`pip install
+kaggle`) with an API token; downloading through the browser works as well. Run them from the
+directory that holds `benchmark.yaml`.
+
+**ASAP AES** comes from Kaggle's [The Hewlett Foundation: Automated Essay
+Scoring](https://www.kaggle.com/c/asap-aes/data) competition. Accept the competition rules on
+that page first. Only `training_set_rel3.tsv` is read.
+
+```bash
+kaggle competitions download -c asap-aes -p data/datasets/ASAP_AES
+unzip -o data/datasets/ASAP_AES/asap-aes.zip -d data/datasets/ASAP_AES
+```
+
+**ASAP 2.0** is the Kaggle dataset [ASAP 2.0: Automated Student Assessment
+Prize](https://www.kaggle.com/datasets/lburleigh/asap-2-0) (CC BY 4.0, about 200 MB). Don't use the
+`learning-agency-lab-automated-essay-scoring-2` competition files instead: they lack the
+`prompt_name` column the loader selects sets by.
+
+```bash
+kaggle datasets download -d lburleigh/asap-2-0 -p data/datasets/ASAP_2.0 --unzip
+```
+
+**ELLIPSE** comes from the [ELLIPSE-Corpus](https://github.com/scrosseye/ELLIPSE-Corpus) repository
+(CC BY-NC-SA 4.0). The per-rater scores ship as a password-protected zip, and the password is in
+that repository's README.
+
+```bash
+git clone --depth 1 https://github.com/scrosseye/ELLIPSE-Corpus.git ELLIPSE-Corpus
+mkdir -p data/datasets/ELLIPSE
+cp ELLIPSE-Corpus/ELLIPSE_Final_github_train.csv data/datasets/ELLIPSE/
+unzip -P '<password from README>' ELLIPSE-Corpus/ellipsis_raw_rater_scores_anon_all_essay.zip \
+  -d data/datasets/ELLIPSE
+```
+
+Then check that every set loads:
+
+```bash
+abaes-eval-fwk validate benchmark.yaml --check-data
+```
 
 ## Your own essays: normalized CSV
 
@@ -64,13 +101,13 @@ datasets:
   criteria_columns: [ideas, organization]
 ```
 
-The same CSV can back several datasets by giving each entry its own `set_id`, as the playground
-does. `csv:` and `data:` can't be combined.
+One CSV can back several datasets, each with its own `set_id`, as in the playground. `csv:` and
+`data:` can't be combined.
 
 ## Your own essays: loader
 
-When a corpus isn't in that shape (different column names, several files, a database export),
-write a loader instead of re-normalizing the file by hand before every run:
+For a corpus in another shape (other column names, several files, a database export), write a
+loader instead of re-normalizing the file before every run:
 
 ```yaml
 datasets:
@@ -97,14 +134,13 @@ def my_loader(*, dataset, data_path):
     )
 ```
 
-The returned frame goes through exactly the same validation as a built-in dataset's. The
-playground's `extensions/datasets.py` has two worked examples. See also
-[extensions](extensions.md).
+The returned frame is validated exactly like a built-in dataset's. The playground's
+`extensions/datasets.py` has two worked examples; see also [extensions](extensions.md).
 
 ## Rubrics
 
-A rubric is a YAML file. The study rubrics are copied into `rubrics/` by `init --template study`
-and are good starting points.
+A rubric is a YAML file. `init --template study` copies the study rubrics into `rubrics/`; they
+make good starting points.
 
 ```yaml
 assignment_type: Narrative essay        # required; shown to the model
@@ -131,9 +167,8 @@ criteria:
 
 ### Criteria aggregation
 
-Criterion-specialized grading produces one score per criterion. The rubric's
-`criteria_aggregation` combines them into the overall score that's evaluated against
-`human_score`:
+`criteria_aggregation` combines criterion-specialized scores into the overall score that is
+evaluated against `human_score`:
 
 | Value | Overall score |
 |---|---|
@@ -150,7 +185,7 @@ criteria_weights:          # every criterion exactly once; finite, ≥ 0, not al
   conventions: 0.2
 ```
 
-The result is rounded half-up to a score level. `criteria_weights` are rejected with any
+The result is rounded half-up to a score level. `criteria_weights` is rejected with any
 aggregation other than `weighted`.
 
 ## Validation rules
@@ -168,12 +203,11 @@ On success it prints `<name>: <n> validated submissions` for each dataset.
 
 ## Restricting experiments to datasets
 
-By default an experiment grades every configured dataset. Name a subset with `datasets:`:
+An experiment grades every configured dataset unless it names a subset:
 
 ```yaml
 - name: rq2-a-holistic-one-dataset
   datasets: [Synthetic demo]
 ```
 
-Metrics are reported per dataset, plus an average row that weights datasets equally regardless
-of their size.
+Metrics are reported per dataset, plus an average row that weights datasets equally.

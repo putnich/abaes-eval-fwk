@@ -27,11 +27,12 @@ model_defaults:            # optional; merged under every profile
 models:
   model_a:
     provider: openai_compatible
-    model_name: Qwen/Qwen3-8B
+    model_name: neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic
     base_url: http://localhost:8000/v1
   model_final:
-    provider: openai
-    model_name: gpt-4.1
+    provider: openai_compatible
+    model_name: google/gemma-4-31B-it
+    base_url: http://localhost:8003/v1
 ```
 
 Each profile is merged over `model_defaults`, which itself sits over the packaged defaults:
@@ -65,7 +66,9 @@ manifest or config.
 | `openai_compatible` | `PROVIDER_API_KEY`, optional | `api_key_env: MY_VAR` |
 
 For `openai_compatible`, a missing key is fine: local servers that don't check keys receive a
-placeholder. If you set `api_key_env` explicitly, that variable must exist.
+placeholder. If you set `api_key_env` explicitly, that variable must exist. To keep keys in a
+file, copy [`.env.example`](../.env.example) to `.env` (git-ignored) and load it with
+`set -a; source .env; set +a`, so the keys are exported to the framework's processes.
 
 ## Profile settings
 
@@ -92,25 +95,19 @@ placeholder. If you set `api_key_env` explicitly, that variable must exist.
 
 An experiment's `reasoning` selects which of the profile's options are merged into each request.
 The profile has to say how *its* model turns thinking on or off, because servers and model
-families differ:
+families differ. For a vLLM-served model whose chat template has a thinking switch, as in the
+`study` template:
 
 ```yaml
 models:
-  qwen3:
+  qwen:
     provider: openai_compatible
-    model_name: Qwen/Qwen3-8B
+    model_name: Qwen/Qwen3.8-27B-FP8
     base_url: http://localhost:8000/v1
     reasoning_on:
       extra_body: {chat_template_kwargs: {enable_thinking: true}}
     reasoning_off:
       extra_body: {chat_template_kwargs: {enable_thinking: false}}
-  o4-mini:
-    provider: openai
-    model_name: o4-mini
-    reasoning_on:
-      request_kwargs: {reasoning_effort: high}
-    reasoning_off:
-      request_kwargs: {reasoning_effort: low}
 ```
 
 | Experiment `reasoning` | Merged into the request |
@@ -153,9 +150,7 @@ models:
 ```python
 # extensions/adapters.py, beside benchmark.yaml
 def create_model(config):  # config: the resolved LLMConfig
-    from langchain_anthropic import ChatAnthropic
-
-    return ChatAnthropic(model=config.model_name, temperature=config.temperature)
+    return MyChatModel(model=config.model_name, temperature=config.temperature)
 ```
 
 The returned object must implement `invoke`, `bind_tools`, and `with_structured_output`, as any
@@ -170,7 +165,8 @@ framework itself. The packaged study template expects one OpenAI-compatible serv
 (ports 8000–8003), but profiles can share a server. For example, with vLLM:
 
 ```bash
-vllm serve Qwen/Qwen3-8B --port 8000 --enable-auto-tool-choice --tool-call-parser hermes
+vllm serve neuralmagic-ent/Llama-3.3-70B-Instruct-FP8-dynamic --port 8000 \
+  --enable-auto-tool-choice --tool-call-parser llama3_json
 ```
 
 Tool calling has to be enabled on the server for the default `function_calling` method; flag

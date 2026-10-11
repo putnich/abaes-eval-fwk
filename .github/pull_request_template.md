@@ -25,7 +25,7 @@
 - [ ] All tests pass
 
 ## Checklist
-- [ ] My code follows the project's code style (`ruff check`/`ruff format`; black, bandit, mypy via pre-commit)
+- [ ] My code follows the project's code style (`ruff check`/`ruff format`; bandit, mypy via pre-commit)
 - [ ] I've run `pre-commit run --all-files`
 - [ ] I've updated relevant documentation
 - [ ] I've added tests (for new features/fixes)
@@ -41,6 +41,6 @@
 ---
 
 **Before submitting:**
-- [ ] Read [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+- [ ] Read [CONTRIBUTING.md](https://github.com/putnich/abaes-eval-fwk/blob/main/.github/CONTRIBUTING.md)
 - [ ] Code review checklist passed
 - [ ] GitHub Actions CI passes

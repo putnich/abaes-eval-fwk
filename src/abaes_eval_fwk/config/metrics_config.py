@@ -9,14 +9,12 @@ from dataclasses import dataclass, field
 class MetricsCompute:
     """Which metrics to include in output.
 
-    No field has a default here: all seven are already defaulted in
+    No field has a default here: all five are already defaulted in
     config/config_files/defaults/metrics.yaml (metrics.compute), which load_config()
     always merges in before construction.
 
     Every built-in is computed on every run regardless (see resolve_metrics); these flags
-    select which ones reach the saved table. `mae` and `rmse` report the same errors as
-    `nmae`/`nrmse` in the dataset's own score points rather than on the shared 0-10 scale,
-    and default to off so a project's existing metric columns do not move.
+    select which ones reach the saved table.
     """
 
     nmae: bool
@@ -24,8 +22,6 @@ class MetricsCompute:
     pearson: bool
     spearman: bool
     qwk: bool
-    mae: bool
-    rmse: bool
 
 
 @dataclass

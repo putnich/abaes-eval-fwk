@@ -27,9 +27,12 @@ flowchart LR
 | `holistic` | `none` | 1 (+ retries) | no |
 | `criterion_specialized` | `none` | one per criterion, each in its own conversation | no |
 | `final_agent` | `pool_average` | 0 | ≥ 2 candidate files |
-| `final_agent` | `disagreement` | 0 or 1 (justification only, on agreement) | ≥ 2 candidates + the final model's independent run |
-| `final_agent` | `review_based` | one review per candidate (cacheable) + 0 or 1 | ≥ 2 candidates + independent run |
+| `final_agent` | `disagreement` | 0 or 1 per item (justification only, on agreement) | ≥ 2 candidates + the final model's independent run |
+| `final_agent` | `review_based` | one review per candidate per item (cacheable) + 0 or 1 per item | ≥ 2 candidates + independent run |
 | `non_grading` | `review` | one per source assessment | exactly 1 source file |
+
+For final agents, an item is the essay when the candidates are holistic, or one criterion when
+they're criterion-specialized; criterion candidates add one synthesis turn per essay.
 
 Specialists never see the other criteria, so one criterion's judgment can't anchor another's.
 Every architecture is evaluated against the dataset's overall human score. Criterion scores are

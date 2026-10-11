@@ -20,7 +20,7 @@ abaes-eval-fwk run study/benchmark.yaml --experiment rq1-hybrid
 4. Observe '...'
 
 ## Expected Behavior
-What you expected the framework to produce (e.g., a completed run directory with `results.csv`, a specific metric value, a successful `--dry-run` plan).
+What you expected the framework to produce (e.g., a completed run directory with its `results/*.csv`, a specific metric value, a successful `--dry-run` plan).
 
 ## Actual Behavior
 What actually happened (e.g., crash, validation error, wrong/implausible score, malformed output, resume rejected).

@@ -65,7 +65,7 @@ def _record(criterion, raw_score: float, essay_id: str = "essay-1") -> GradingRe
 
 
 def test_metric_errors_scale_by_ten_over_scale_width() -> None:
-    """NMAE/NRMSE are 10 x MAE/RMSE divided by the scale width, so 0-5 and 0-10 agree."""
+    """NMAE/NRMSE rescale each error by 10 over the scale width, so 0-5 and 0-10 agree."""
     errors = [(2, 3), (4, 5)]
     for scale, expected in ((Scale(0, 10), 1.0), (Scale(0, 5), 2.0), (Scale(1, 6), 2.0)):
         group = MetricsSet(
@@ -74,8 +74,6 @@ def test_metric_errors_scale_by_ten_over_scale_width() -> None:
         resolve_metrics(group, scale)
         assert group.resolved.nmae == pytest.approx(expected)
         assert group.resolved.nrmse == pytest.approx(expected)
-        assert group.resolved.mae == pytest.approx(1.0)
-        assert group.resolved.rmse == pytest.approx(1.0)
 
 
 def test_qwk_uses_quadratic_weights_over_every_label_in_the_scale() -> None:

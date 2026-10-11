@@ -28,11 +28,11 @@ flowchart TB
     rubric --> setup
 ```
 
-Calibration essays are never graded. Pools are cached under `<output_dir>/calibration/` with a
-fingerprint of the data and strategy in the filename. A cached pool that no longer matches what
-the strategy would produce raises an error (delete the file to rebuild it) rather than being
-silently reused. `prepare` runs this stage alone and
-writes the resulting IDs to `<output_dir>/splits/<hash>.json`, with no model or embedding calls.
+Calibration essays are never graded. Pools are cached under `<output_dir>/calibration/`, keyed
+by a fingerprint of the data and strategy. A cached pool that no longer matches what the strategy
+would produce raises an error (delete it to rebuild) instead of being reused. `prepare` runs this
+stage alone and writes the IDs to `<output_dir>/splits/<hash>.json`, with no model or embedding
+calls.
 
 A final-agent or review experiment doesn't sample. Its essays are the ones in the prior results
 it reuses.

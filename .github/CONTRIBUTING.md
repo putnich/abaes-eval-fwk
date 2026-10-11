@@ -31,7 +31,8 @@ If a hook fails, review the changes/output and commit again.
 
 ### Code Style
 
-- **Python 3.11–3.14** required (CI tests all four; 3.12 is the recommended local version)
+- **Python 3.11–3.14** required (CI runs the unit tests on all four and the integration tests on
+  3.12, the recommended local version)
 - Ruff for linting and formatting (100-character line length)
 - Bandit and mypy run via pre-commit
 - No comments unless the WHY is non-obvious
@@ -95,7 +96,7 @@ Examples:
 
 1. **Ensure all checks pass**:
    - Pre-commit hooks (run locally)
-   - GitHub Actions CI (lint, format, tests, build/wheel verification across Python 3.11–3.14)
+   - GitHub Actions CI (lint, format, unit tests, and build on Python 3.11–3.14; integration tests and wheel verification on 3.12)
    - Code review approval
 
 2. **Write a clear PR description**:

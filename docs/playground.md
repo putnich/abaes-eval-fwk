@@ -2,8 +2,10 @@
 
 The playground is an offline demo project. A deterministic synthetic grader stands in for the
 model, so every retrieval policy, grading architecture, reasoning mode, and final-agent procedure
-runs without an API key, network access, or real essays. Its scores are illustrative, not
-benchmark evidence (see [why](#why-the-scores-arent-real-grading)).
+runs without an API key or real essays. The `semantic` and `hybrid` experiments need the `dense`
+extra (`pip install -e '.[dev,dense]'`) and download a small embedding model the first time they
+run. Its scores are illustrative, not benchmark evidence (see
+[why](#why-the-scores-arent-real-grading)).
 
 For what each option does, see [architecture](architecture/README.md); for every setting, see
 [configuration](configuration.md).

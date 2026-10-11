@@ -7,7 +7,7 @@ published.
 
 | From | Command | Use when |
 |---|---|---|
-| A checkout | `pip install -e '.[dev]'` | Developing the framework |
+| A checkout | `pip install -e '.[dev,dense]'` | Developing the framework |
 | A GitHub Release | `pip install https://github.com/<owner>/<repo>/releases/download/vX.Y.Z/abaes_eval_fwk-X.Y.Z-py3-none-any.whl` | Using a fixed version |
 | A branch or commit | `pip install 'git+https://github.com/<owner>/<repo>.git@main'` | Trying unreleased changes |
 | A local build | `python -m build`, then `pip install dist/abaes_eval_fwk-*.whl` | Testing what a release would contain |
@@ -78,6 +78,7 @@ excluded by default, and run with `pytest -m integration`.
 
 `.github/workflows/ci.yml` runs on every push and pull request, on Python 3.11, 3.12, 3.13, and
 3.14: `ruff check`, `ruff format --check`, the unit tests, and `python -m build`. For pull
-requests into `main`, pushes to `main`, and manual runs (`workflow_dispatch`), it also runs the
-integration tests and installs the built wheel outside the checkout to run `init` and the
-playground benchmark. `.github/workflows/cd.yml` runs both tiers before it builds a release.
+requests into `main`, pushes to `main`, and manual runs (`workflow_dispatch`), it also installs
+the `dense` extra (CPU-only torch), runs the integration tests, and installs the built wheel
+outside the checkout to run `init` and the playground benchmark. `.github/workflows/cd.yml`
+installs the same extras and runs both tiers before it builds a release.

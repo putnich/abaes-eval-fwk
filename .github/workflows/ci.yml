@@ -21,6 +21,10 @@ jobs:
       - run: ruff check .
       - run: ruff format --check .
       - run: python -m pytest
+      # The playground's semantic and hybrid experiments need the dense extra; the CPU index keeps
+      # torch from pulling CUDA wheels.
+      - if: env.INTEGRATION == 'true'
+        run: python -m pip install '.[dense]' --extra-index-url https://download.pytorch.org/whl/cpu
       - if: env.INTEGRATION == 'true'
         run: python -m pytest -m integration
       - run: python -m build

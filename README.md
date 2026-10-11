@@ -72,11 +72,13 @@ Python 3.11–3.14 (3.12 recommended):
 ```bash
 python3.12 -m venv .venv
 source .venv/bin/activate              # Windows: .venv\Scripts\Activate.ps1
-python -m pip install -e '.[dev]'
+python -m pip install -e '.[dev,dense]'
 ```
 
-Optional extras: `dense` for semantic and hybrid retrieval (embeddings run on CPU by default and
-download on first use) and `deepseek` for the DeepSeek client.
+The `dense` extra provides the embeddings for semantic and hybrid retrieval, which both the
+playground and the study template use; they run on CPU by default, and the embedding model
+downloads on first use. Recomputing metrics from shipped results needs only `.[dev]`. The
+optional `deepseek` extra adds the DeepSeek client.
 
 ## Try it offline
 
@@ -89,7 +91,8 @@ abaes-eval-fwk run playground/benchmark.yaml
 `init` writes a self-contained demo project with synthetic essays, a rubric, and example
 extensions. A deterministic stand-in replaces the model, so every retrieval strategy,
 architecture, reasoning mode, and final-agent procedure runs without an API key, a GPU, or real
-student data. Its scores only illustrate the output format. See the
+student data; only the first semantic or hybrid run downloads the small embedding model. Its
+scores only illustrate the output format. See the
 [playground guide](docs/playground.md).
 
 ## Running new experiments

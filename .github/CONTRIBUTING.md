@@ -10,8 +10,9 @@ Thank you for your interest in contributing! This document provides guidelines a
    ```bash
    python3.12 -m venv .venv
    source .venv/bin/activate
-   python -m pip install -e '.[dev]'
+   python -m pip install -e '.[dev,dense]'
    ```
+   (`dense` is needed by the integration tests and the playground's semantic and hybrid runs.)
 4. **Install pre-commit hooks**: `pip install pre-commit mypy`, then
    `pre-commit install --install-hooks` (the local `mypy` and `pytest` hooks use the tools on your
    PATH)
@@ -44,8 +45,8 @@ pytest
 # Run a specific test
 pytest tests/test_file.py::test_function
 
-# Run the integration tests: CLI runs and the offline playground suite (several minutes;
-# CI runs them for PRs into main, pushes to main, and releases)
+# Run the integration tests: CLI runs and the offline playground suite (several minutes; needs
+# the dense extra; CI runs them for PRs into main, pushes to main, and releases)
 pytest -m integration
 
 # Smoke-test the CLI against the bundled playground (no model calls)
@@ -57,7 +58,7 @@ abaes-eval-fwk run playground/benchmark.yaml
 ### Local Development Commands
 
 ```bash
-python -m pip install -e '.[dev]'   # Install framework + dev dependencies
+python -m pip install -e '.[dev,dense]'   # Install framework + dev and dense dependencies
 ruff check .                        # Lint
 ruff format --check .               # Check formatting (ruff format . to apply)
 pytest                              # Unit tests

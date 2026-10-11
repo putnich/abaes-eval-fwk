@@ -76,8 +76,9 @@ Tests come in two tiers. Unit tests run with a plain `pytest` and in the pre-com
 that run the framework (CLI runs and the offline playground suite) are marked `integration`, are
 excluded by default, and run with `pytest -m integration`.
 
-`.github/workflows/ci.yml` has two jobs. `test` runs on every push and pull request, on Python
-3.11, 3.12, 3.13, and 3.14: `ruff check`, `ruff format --check`, the unit tests, and
+`.github/workflows/ci.yml` runs for pull requests, pushes to `main`, and manual runs; pushes to
+other branches are covered by the pre-commit hook. It has two jobs. `test` runs on Python 3.11,
+3.12, 3.13, and 3.14: `ruff check`, `ruff format --check`, the unit tests, and
 `python -m build`. `integration` runs only for pull requests into `main`, pushes to `main`, and
 manual runs (`workflow_dispatch`), on Python 3.12: it installs the `dense` extra (CPU-only
 torch), runs the integration tests, and installs the built wheel outside the checkout to run

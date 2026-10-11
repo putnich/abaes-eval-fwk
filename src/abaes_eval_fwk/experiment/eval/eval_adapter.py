@@ -129,3 +129,30 @@ def pool_average(
     return build_pool_average_baseline(
         source_csvs, rubrics, datasets, output_path, experiment_id=experiment_id
     )
+
+
+def procedure_outcomes(
+    source_csvs: Sequence[Path],
+    review_csvs: Sequence[Path],
+    dataset_configs: Sequence[DatasetConfig],
+    output_dir: Path,
+    *,
+    threshold: float = 0.2,
+) -> list[Path]:
+    """Count DA outcomes over a pool's sources and RA outcomes and cost over its reviews."""
+    from abaes_eval_fwk.experiment.eval.metrics.procedure_outcomes import (
+        disagreement_outcomes,
+        read_reviews,
+        save_procedure_outcomes,
+    )
+
+    disagreement = None
+    if source_csvs:
+        needed = set(grading_records(Path(source_csvs[0])))
+        configured = {config.label: config for config in dataset_configs}
+        if missing := needed - configured.keys():
+            raise ValueError(f"Dataset configurations missing for: {sorted(missing)}")
+        rubrics = {label: load_rubric(configured[label].rubric_path, label) for label in needed}
+        disagreement = disagreement_outcomes(source_csvs, rubrics, threshold)
+    reviews = read_reviews(review_csvs) if review_csvs else None
+    return save_procedure_outcomes(output_dir, disagreement=disagreement, reviews=reviews)

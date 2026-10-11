@@ -21,6 +21,12 @@ flowchart LR
 is `10 × MAE / (score_max − score_min)`, which puts datasets with different scales on one 0–10
 reference.
 
+`adjudication` reports how the final-agent procedures resolve a pool. It recomputes every DA
+outcome from the pool's source results with the disagreement rule the procedure applies, counts
+RA outcomes from the pool's reviews CSVs, and averages the reviews' completion tokens per essay
+for each reviewed source. Boolean review columns (`rubric_consistency`, `evidence_grounding`,
+`is_admissible`) are `1` or `0` in every CSV the framework writes or reads.
+
 ---
 
 [← Final-agent procedures](05-final-agent-procedures.md) · [Overview](README.md) · [Overview](README.md)

@@ -1,11 +1,11 @@
 ---
 name: compute-metrics
-description: Recompute NMAE/QWK/Pearson/Spearman metrics from a results CSV, compare two runs with a paired Wilcoxon test, or build a pool-average baseline from prior assessments
+description: Recompute NMAE/QWK/Pearson/Spearman metrics from a results CSV, compare two runs with a paired Wilcoxon test, build a pool-average baseline from prior assessments, or count DA/RA adjudication outcomes and review tokens
 ---
 
 # Compute Metrics
 
-Wraps the framework's `metrics`/`compare`/`baseline` subcommands — all three reload the rubrics and datasets declared in a `benchmark.yaml` and reuse the same scoring code `run` calls automatically after grading.
+Wraps the framework's `metrics`/`compare`/`baseline`/`adjudication` subcommands — all four reload the rubrics and datasets declared in a `benchmark.yaml` and reuse the same scoring code `run` calls automatically after grading.
 
 ## Usage
 
@@ -33,12 +33,17 @@ Wraps the framework's `metrics`/`compare`/`baseline` subcommands — all three r
    abaes-eval-fwk baseline <config> <source1.csv> <source2.csv> ... [--output PATH]
    ```
    Writes a synthetic results CSV usable as input to `metrics`/`compare`, to `<output_dir>/analysis/pool_average_results.csv` or the exact path given to `--output`.
-5. Report where each output file landed.
-6. Offer to display a summary table of the metrics/verdict in the terminal.
+5. **A pool's sources and/or its reviews → final-agent procedure outcomes and review cost**:
+   ```bash
+   abaes-eval-fwk adjudication <config> <source1.csv> <source2.csv> ... [--reviews <reviews.csv> ...] [--threshold 0.2] [--output DIR]
+   ```
+   DA outcomes (agreement/disagreement) are recomputed from the pool sources with the run-time disagreement rule; RA outcomes (positive/mixed/negative) and review completion tokens per essay come from the reviews CSVs (`is_admissible` must be `1`/`0`). Writes `outcomes.csv`, `outcome_items.csv`, and — when the reviews record tokens — `review_tokens.csv` to `<DIR or output_dir/analysis/adjudication>/`.
+6. Report where each output file landed.
+7. Offer to display a summary table of the metrics/verdict in the terminal.
 
 ## Gotcha: `--output` means different things per subcommand
 
-For `metrics`, `--output` is a **directory** (the file becomes `<DIR>/<results_stem>.csv`). For `compare` and `baseline`, `--output` is the **exact destination file path**. Passing a bare filename to `metrics --output` or a bare directory to `compare --output`/`baseline --output` produces the wrong shape — always show the resolved command before running it.
+For `metrics` and `adjudication`, `--output` is a **directory** (for `metrics` the file becomes `<DIR>/<results_stem>.csv`). For `compare` and `baseline`, `--output` is the **exact destination file path**. Passing a bare filename to `metrics --output` or a bare directory to `compare --output`/`baseline --output` produces the wrong shape — always show the resolved command before running it.
 
 ## Gotcha: dataset coverage and extensions
 

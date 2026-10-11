@@ -7,24 +7,20 @@ import math
 from collections.abc import Sequence
 from pathlib import Path
 
-from abaes_eval_fwk.core.models.assessment import Dataset, results_fieldnames
+from abaes_eval_fwk.core.models.assessment import Dataset, GradingRecord, results_fieldnames
 from abaes_eval_fwk.core.models.rubric import Rubric, combine_criterion_scores
 from abaes_eval_fwk.experiment.eval.aggregate_criteria import official_human_score
 from abaes_eval_fwk.experiment.eval.metrics.compute_metrics import grading_records
 from abaes_eval_fwk.utils.rounding import round_half_up
 
 
-def build_pool_average_baseline(
+def matched_source_records(
     source_csvs: Sequence[Path],
-    rubrics: Sequence[Rubric],
-    datasets: list[Dataset],
-    output_path: Path,
-    *,
-    experiment_id: str = "pool_average",
-) -> Path:
-    """Require matched source roles, aggregate each source's criteria, then pool the totals."""
+) -> list[dict[tuple[str, str, str], GradingRecord]]:
+    """Read each pool source keyed by (dataset, essay, criterion), requiring identical keys, so
+    every pooled item has exactly one assessment from every source."""
     if not source_csvs:
-        raise ValueError("A baseline requires at least one source results CSV")
+        raise ValueError("A pool requires at least one source results CSV")
     sources = []
     for path in source_csvs:
         records = grading_records(Path(path))
@@ -37,9 +33,21 @@ def build_pool_average_baseline(
         )
     keys = sources[0].keys()
     if any(source.keys() != keys for source in sources[1:]):
-        raise ValueError(
-            "Baseline sources must contain identical dataset, essay and criterion keys"
-        )
+        raise ValueError("Pool sources must contain identical dataset, essay and criterion keys")
+    return sources
+
+
+def build_pool_average_baseline(
+    source_csvs: Sequence[Path],
+    rubrics: Sequence[Rubric],
+    datasets: list[Dataset],
+    output_path: Path,
+    *,
+    experiment_id: str = "pool_average",
+) -> Path:
+    """Require matched source roles, aggregate each source's criteria, then pool the totals."""
+    sources = matched_source_records(source_csvs)
+    keys = sources[0].keys()
     rubrics_by_label = {str(r.rubric_id): r for r in rubrics}
     # (dataset, essay) -> one {criterion: rounded score} mapping per source, in source order.
     per_source: dict[tuple[str, str], list[dict[str, int]]] = {}

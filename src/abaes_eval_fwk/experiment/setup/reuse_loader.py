@@ -23,6 +23,7 @@ from abaes_eval_fwk.core.models.assessment import (
     Statistics,
     StudentSubmission,
     TokenUsage,
+    parse_csv_flag,
 )
 from abaes_eval_fwk.core.models.experiment import (
     Experiment,
@@ -358,13 +359,19 @@ def load_reused_reviews(
                         f"Reviews from the same source experiment, reviewer, and assessment "
                         f"should not appear in multiple reuse paths or as duplicates in one path."
                     )
+                rubric_consistency = parse_csv_flag(
+                    row[ReviewField.RUBRIC_CONSISTENCY], ReviewField.RUBRIC_CONSISTENCY.value
+                )
+                evidence_grounding = parse_csv_flag(
+                    row[ReviewField.EVIDENCE_GROUNDING], ReviewField.EVIDENCE_GROUNDING.value
+                )
                 merged[key] = {
-                    "rubric_consistency": row[ReviewField.RUBRIC_CONSISTENCY] == "True",
+                    "rubric_consistency": rubric_consistency,
                     "rubric_consistency_justification": row.get(
                         ReviewField.RUBRIC_CONSISTENCY_JUSTIFICATION
                     )
                     or "",
-                    "evidence_grounding": row[ReviewField.EVIDENCE_GROUNDING] == "True",
+                    "evidence_grounding": evidence_grounding,
                     "evidence_grounding_justification": row.get(
                         ReviewField.EVIDENCE_GROUNDING_JUSTIFICATION
                     )
@@ -372,7 +379,13 @@ def load_reused_reviews(
                     "reasoning": row.get(ReviewField.REASONING) or "",
                     # Absent from reviews CSVs written before this column existed; Review
                     # re-derives it from the two flags either way.
-                    "is_admissible": row.get(ReviewField.IS_ADMISSIBLE) == "True",
+                    "is_admissible": (
+                        parse_csv_flag(
+                            row[ReviewField.IS_ADMISSIBLE], ReviewField.IS_ADMISSIBLE.value
+                        )
+                        if ReviewField.IS_ADMISSIBLE in row
+                        else rubric_consistency and evidence_grounding
+                    ),
                 }
 
     if not merged:

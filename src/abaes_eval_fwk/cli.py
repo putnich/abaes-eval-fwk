@@ -39,6 +39,7 @@ def _parser() -> argparse.ArgumentParser:
         ("metrics", "Recompute metrics from a results CSV"),
         ("compare", "Compare paired results with Wilcoxon tests"),
         ("baseline", "Average prior assessments using rubric aggregation"),
+        ("adjudication", "Count DA/RA outcomes and review tokens from prior assessments"),
     ]:
         sub = commands.add_parser(name, help=help_text)
         sub.add_argument("config", type=Path)
@@ -79,7 +80,27 @@ def _parser() -> argparse.ArgumentParser:
             sub.add_argument("--alpha", type=float, default=0.05)
         if name == "baseline":
             sub.add_argument("sources", type=Path, nargs="+")
-        if name in {"metrics", "compare", "baseline"}:
+        if name == "adjudication":
+            sub.add_argument(
+                "sources",
+                type=Path,
+                nargs="*",
+                help="The pool's source results CSVs, as for baseline; DA outcomes need them",
+            )
+            sub.add_argument(
+                "--reviews",
+                type=Path,
+                nargs="+",
+                default=[],
+                help="Reviews CSVs of the pool's sources; RA outcomes and review tokens need them",
+            )
+            sub.add_argument(
+                "--threshold",
+                type=float,
+                default=0.2,
+                help="DA disagreement threshold, as the experiment's disagreement_threshold",
+            )
+        if name in {"metrics", "compare", "baseline", "adjudication"}:
             sub.add_argument("--output", type=Path)
     worker = commands.add_parser("_worker", help=argparse.SUPPRESS)
     worker.add_argument("request", type=Path)
@@ -218,7 +239,12 @@ def main(argv: list[str] | None = None) -> int:
             return 0
         if args.command == "run":
             return _run(config, args)
-        from abaes_eval_fwk.experiment.eval.eval_adapter import compare, evaluate, pool_average
+        from abaes_eval_fwk.experiment.eval.eval_adapter import (
+            compare,
+            evaluate,
+            pool_average,
+            procedure_outcomes,
+        )
 
         datasets = dataset_configs(config)
         output = args.output or Path(config.output_dir) / "analysis"
@@ -252,6 +278,14 @@ def main(argv: list[str] | None = None) -> int:
         elif args.command == "baseline":
             destination = args.output or output / "pool_average_results.csv"
             print(pool_average(args.sources, datasets, destination))
+        elif args.command == "adjudication":
+            if not args.sources and not args.reviews:
+                raise ValueError("adjudication needs pool source CSVs, --reviews, or both")
+            destination = args.output or output / "adjudication"
+            for path in procedure_outcomes(
+                args.sources, args.reviews, datasets, destination, threshold=args.threshold
+            ):
+                print(path)
         return 0
     except (ValueError, TypeError, OSError, RuntimeError, KeyError, ImportError) as exc:
         print(f"Error: {exc}", file=sys.stderr)

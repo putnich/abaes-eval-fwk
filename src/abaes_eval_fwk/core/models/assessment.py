@@ -184,11 +184,11 @@ class ReviewRow(TypedDict):
     criterion: str
     source_experiment_id: str
     source_model: str
-    rubric_consistency: bool
+    rubric_consistency: int
     rubric_consistency_justification: str
-    evidence_grounding: bool
+    evidence_grounding: int
     evidence_grounding_justification: str
-    is_admissible: bool
+    is_admissible: int
     reasoning: str
     start_time: datetime | None
     total_time_seconds: float | None
@@ -196,6 +196,20 @@ class ReviewRow(TypedDict):
     completion_tokens: int
     total_tokens: int
     retry_error: str | None
+
+
+def csv_flag(value: bool) -> int:
+    """Write a boolean CSV column as 1 or 0, the one spelling every framework CSV uses."""
+    return 1 if value else 0
+
+
+def parse_csv_flag(value: str | None, column: str) -> bool:
+    """Read a boolean CSV column written as 1 or 0; any other spelling is malformed."""
+    if value == "1":
+        return True
+    if value == "0":
+        return False
+    raise ValueError(f"{column} must be 1 or 0, got {value!r}")
 
 
 REVIEWER_MODEL_FIELD = "reviewer_model"

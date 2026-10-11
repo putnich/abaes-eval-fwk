@@ -265,7 +265,7 @@ _REVIEW_CSV_HEADER = (
 def _review_row(source_score: int, source_justification: str, *, experiment: str = "exp-a") -> str:
     return (
         f"ds,essay-1,holistic,model-x,adjudication_with_review,{experiment},reviewer-1,"
-        f"{source_score},{source_justification},True,,True,,r,True\n"
+        f"{source_score},{source_justification},1,,1,,r,1\n"
     )
 
 

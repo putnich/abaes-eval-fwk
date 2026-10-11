@@ -22,6 +22,7 @@ from abaes_eval_fwk.core.models.assessment import (
     ReviewField,
     ReviewRecord,
     ReviewRow,
+    csv_flag,
     failures_fieldnames,
     results_fieldnames,
     review_fieldnames,
@@ -76,12 +77,12 @@ def _review_row_for(
         dataset=rubric.rubric_id,
         essay_id=record.human_assessment.essay_id,
         final_agent_procedure=experiment.final_agent_procedure.name.value,
-        rubric_consistency=review.rubric_consistency,
+        rubric_consistency=csv_flag(review.rubric_consistency),
         rubric_consistency_justification=review.rubric_consistency_justification,
-        evidence_grounding=review.evidence_grounding,
+        evidence_grounding=csv_flag(review.evidence_grounding),
         evidence_grounding_justification=review.evidence_grounding_justification,
         reasoning=review.reasoning,
-        is_admissible=review.is_admissible,
+        is_admissible=csv_flag(review.is_admissible),
         experiment_id=experiment.name,
         criterion=record.human_assessment.criterion.name,
         source_model=reuse.source_models[0] if reuse.source_models else "",
@@ -204,22 +205,23 @@ class ResultsWriter:
         """
         if self.is_review:
             raise RuntimeError("append_review would truncate a Review run's results CSV")
+        verdict = Review(**review)
         row = {
             ReviewField.DATASET: dataset,
             ReviewField.ESSAY_ID: essay_id,
             ReviewField.FINAL_AGENT_PROCEDURE: procedure.value,
             ReviewField.CRITERION: criterion,
             ReviewField.SOURCE_MODEL: model,
-            ReviewField.RUBRIC_CONSISTENCY: review.get("rubric_consistency"),
+            ReviewField.RUBRIC_CONSISTENCY: csv_flag(verdict.rubric_consistency),
             ReviewField.RUBRIC_CONSISTENCY_JUSTIFICATION: review.get(
                 "rubric_consistency_justification", ""
             ),
-            ReviewField.EVIDENCE_GROUNDING: review.get("evidence_grounding", ""),
+            ReviewField.EVIDENCE_GROUNDING: csv_flag(verdict.evidence_grounding),
             ReviewField.EVIDENCE_GROUNDING_JUSTIFICATION: review.get(
                 "evidence_grounding_justification", ""
             ),
             ReviewField.REASONING: review.get("reasoning", ""),
-            ReviewField.IS_ADMISSIBLE: Review(**review).is_admissible,
+            ReviewField.IS_ADMISSIBLE: csv_flag(verdict.is_admissible),
         }
         with self._lock:
             if self._reviews_writer is None:

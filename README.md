@@ -140,7 +140,13 @@ abaes-eval-fwk compare study/benchmark.yaml path/to/baseline_results.csv \
   path/to/variant_results.csv --output analysis/comparison.csv
 abaes-eval-fwk baseline study/benchmark.yaml path/to/model-a_results.csv \
   path/to/model-b_results.csv --output analysis/pool_results.csv
+abaes-eval-fwk adjudication study/benchmark.yaml path/to/model-a_results.csv \
+  path/to/model-b_results.csv --reviews path/to/*_reviews.csv --output analysis/adjudication
 ```
+
+`adjudication` counts how disagreement- and review-based adjudication would resolve a pool:
+DA outcomes from the pooled source scores, RA outcomes and the review's completion tokens per
+essay from the pool's reviews CSVs.
 
 NMAE is the primary metric: `10 × MAE / (score_max − score_min)`. Outputs also include MAE, RMSE, NRMSE on the same 0–10 reference scale, QWK, Pearson, and Spearman; dataset averages weight datasets equally. Paired two-sided Wilcoxon tests compare absolute scoring errors, require identical essay IDs and human targets by default, and report sample overlap, p-values, direction, and effect size; `--allow-partial` explicitly allows the common subset. Tests are reported per dataset without a multiple-comparison correction.
 

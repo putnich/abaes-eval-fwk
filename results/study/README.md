@@ -138,3 +138,54 @@ The DA-H/DA-C/RA-H/RA-C result CSVs under `RQ4/` are the final agent's (Gemma 4,
 enabled) output over that same pool; they can be evaluated with `metrics` and compared against
 baseline with `compare` as above, but regenerating them from scratch via `abaes-eval-fwk run`
 requires access to that model.
+
+## Recomputing the RQ4 procedure outcomes and review tokens
+
+`adjudication` takes the same pool sources as `baseline` plus the pool's review CSVs. It
+recomputes each pool's DA outcome from the source scores with the rule DA applies at run time
+(normalized mean pairwise disagreement above 0.2), and each RA outcome from the reviews
+(positive: every assessment admissible; mixed: some; negative: none):
+
+```bash
+abaes-eval-fwk adjudication study/benchmark.yaml \
+  results/study/RQ2/holistic/RQ2_holistic_llama.csv \
+  results/study/RQ3/holistic/RQ3_holistic_deepseek_r.csv \
+  results/study/RQ3/holistic/RQ3_holistic_qwen_r.csv \
+  --reviews results/study/RQ4/review/holistic/*.csv \
+  --output analysis/adjudication_holistic
+
+abaes-eval-fwk adjudication study/benchmark.yaml \
+  results/study/RQ2/criterion/RQ2_criterion_llama.csv \
+  results/study/RQ2/criterion/RQ2_criterion_deepseek_nr.csv \
+  results/study/RQ3/criterion/RQ3_criterion_qwen_r.csv \
+  --reviews results/study/RQ4/review/criterion/*.csv \
+  --output analysis/adjudication_criterion
+```
+
+Each `--output` directory receives:
+
+- `outcomes.csv`: count and percent of each DA and RA outcome per dataset, and over `All items`,
+  the pooled share the paper reports (1,200 holistic pools, 5,400 criterion-level pools).
+- `outcome_items.csv`: the outcome of every pool, with DA's normalized disagreement and RA's
+  admissible count.
+- `review_tokens.csv`: the review's average completion tokens per essay for each reviewed
+  source model, summed across an essay's criteria and averaged with datasets weighted equally,
+  as `metrics` averages grading tokens. Its `Average` rows are the "+Rev." column of the paper's
+  completion-token table.
+
+Expected `All items` and `Average` values, as reported in the paper:
+
+| | Holistic | Criterion |
+| --- | --- | --- |
+| DA agreement | 84.7% | 86.0% |
+| RA positive (all admissible) | 36.7% | 35.6% |
+| RA mixed | 56.0% | 62.2% |
+| RA negative | 7.3% | 2.2% |
+| +Rev. tokens, DeepSeek-R1-32B | 1,330 | 5,210 |
+| +Rev. tokens, Llama 3.3 | 1,306 | 5,446 |
+| +Rev. tokens, Qwen 3.8 | 1,060 | 4,147 |
+
+`tests/test_replication_package.py` runs the same computation on these files, pins the values
+above, and checks that the counted outcomes are the branches the runs took: resolving each pool
+from its outcome, with Gemma 4's RQ3 reasoning-enabled assessment as the independent one,
+rebuilds every final score in the DA and RA result CSVs.

@@ -34,8 +34,10 @@ results/
 
 `RQ2`'s six models (`llama`, `mixtral`, `phi`, `gemma_nr`, `qwen_nr`, `deepseek_nr`) are
 reasoning disabled or not applicable; `RQ3`'s three models (`deepseek_r`, `gemma_r`, `qwen_r`)
-are the same families with reasoning enabled. `RQ4`'s `<source_model>` is one of `llama`,
-`deepseek_r`, `qwen_r` -- the pool Gemma 4 (reasoning on) adjudicates or reviews over.
+are the same families with reasoning enabled. `RQ4`'s `<source_model>` names a member of the
+pool Gemma 4 (reasoning on) adjudicates or reviews over -- each model's best RQ2/RQ3
+configuration: `llama`, `deepseek_r`, `qwen_r` in the holistic setting, and `llama`,
+`deepseek_nr`, `qwen_r` in the criterion setting.
 
 ## Setup
 

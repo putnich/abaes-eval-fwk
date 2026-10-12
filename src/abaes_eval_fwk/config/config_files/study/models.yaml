@@ -1,0 +1,29 @@
+models:
+  model_a: &local_model
+    provider: openai_compatible
+    model_name: your-served-model_a
+    base_url: http://localhost:8000/v1
+    temperature: 0
+    max_tokens: 4096
+    timeout: 120
+    streaming: false
+    reasoning_on:
+      extra_body:
+        chat_template_kwargs:
+          enable_thinking: true
+    reasoning_off:
+      extra_body:
+        chat_template_kwargs:
+          enable_thinking: false
+  model_b:
+    <<: *local_model
+    model_name: your-served-model_b
+    base_url: http://localhost:8001/v1
+  model_c:
+    <<: *local_model
+    model_name: your-served-model_c
+    base_url: http://localhost:8002/v1
+  model_final:
+    <<: *local_model
+    model_name: your-served-model_final
+    base_url: http://localhost:8003/v1

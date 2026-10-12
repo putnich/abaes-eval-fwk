@@ -1,0 +1,19 @@
+include LICENSE README.md pyproject.toml
+recursive-include src/abaes_eval_fwk/resources *.yaml *.csv
+recursive-include src/abaes_eval_fwk/config/config_files *.yaml *.csv *.md *.py
+# Only reader-facing docs; the review and workflow-builder records under docs/ are the
+# build's audit trail and stay in git. Kept in step with reader_docs in pyproject.toml.
+include docs/architecture/README.md
+include docs/architecture/01-run-lifecycle.md
+include docs/architecture/02-configuration-resolution.md
+include docs/architecture/03-setup-and-retrieval.md
+include docs/architecture/04-grading-architectures.md
+include docs/architecture/05-final-agent-procedures.md
+include docs/architecture/06-evaluation.md
+include docs/configuration.md
+include docs/datasets.md
+include docs/extensions.md
+include docs/models.md
+include docs/packaging.md
+include docs/playground.md
+recursive-include tests *.py *.json *.jsonl

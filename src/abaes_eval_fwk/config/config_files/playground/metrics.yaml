@@ -1,0 +1,13 @@
+metrics:
+  compute:
+    nmae: true
+    nrmse: true
+    pearson: true
+    spearman: true
+    qwk: true
+  wilcoxon:
+    alternative: "two-sided"
+    alpha: 0.05
+  comparison:
+    allow_partial_overlap: false
+    alpha: 0.05

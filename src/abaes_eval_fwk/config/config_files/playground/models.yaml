@@ -1,0 +1,22 @@
+# Offline adapters: every profile answers from abaes_eval_fwk.playground, never a server.
+# reasoning_on/reasoning_off exist so the RQ3 reasoning modes are selectable; the adapter
+# ignores request options.
+models:
+  a: &demo
+    provider: demo
+    model_name: demo-a
+    adapter_factory: abaes_eval_fwk.playground:create_model
+    reasoning_on:
+      extra_body:
+        chat_template_kwargs:
+          enable_thinking: true
+    reasoning_off:
+      extra_body:
+        chat_template_kwargs:
+          enable_thinking: false
+  b:
+    <<: *demo
+    model_name: demo-b
+  final:
+    <<: *demo
+    model_name: demo-final

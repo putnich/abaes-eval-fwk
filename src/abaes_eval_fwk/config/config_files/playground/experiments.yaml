@@ -1,0 +1,303 @@
+# Every architecture, procedure, retrieval policy, reasoning mode and override the engine
+# accepts, run against the offline adapters. `abaes-eval-fwk run benchmark.yaml` executes the
+# whole matrix; `--experiment <name>` runs one case and its declared dependencies.
+experiments:
+
+# ── RQ1: retrieval policies ───────────────────────────────────────────────────
+- name: rq1-zero_shot
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval: zero_shot
+- name: rq1-random
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval: random
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+- name: rq1-lexical
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval: lexical
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+- name: rq1-semantic
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval: semantic
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+- name: rq1-hybrid
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval: hybrid
+  control:
+    baseline: rq1-zero_shot
+    "on": [retrieval]
+# A retrieval mapping instead of a policy name, overriding the project-wide example budget.
+- name: rq1-tuned-random
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval:
+    strategy: random
+    n_ex_per_score: 2
+    max_examples: 4
+  control:
+    baseline: rq1-random
+    "on": [retrieval]
+# A reader's own ranking, resolved from extensions/selectors.py beside this configuration.
+- name: rq1-reader-selector
+  rq: RQ1
+  model: a
+  architecture: holistic
+  retrieval: extensions.selectors:lowest_score_first
+  control:
+    baseline: rq1-random
+    "on": [retrieval]
+
+# ── RQ2: holistic vs per-criterion specialists, for every model profile ───────
+- name: rq2-a-holistic
+  rq: RQ2
+  model: a
+  architecture: holistic
+  retrieval: random
+- name: rq2-a-criterion
+  rq: RQ2
+  model: a
+  architecture: criterion_specialized
+  retrieval: random
+  control:
+    baseline: rq2-a-holistic
+    "on": [architecture]
+- name: rq2-b-holistic
+  rq: RQ2
+  model: b
+  architecture: holistic
+  retrieval: random
+- name: rq2-b-criterion
+  rq: RQ2
+  model: b
+  architecture: criterion_specialized
+  retrieval: random
+  control:
+    baseline: rq2-b-holistic
+    "on": [architecture]
+- name: rq2-final-holistic
+  rq: RQ2
+  model: final
+  architecture: holistic
+  retrieval: random
+- name: rq2-final-criterion
+  rq: RQ2
+  model: final
+  architecture: criterion_specialized
+  retrieval: random
+  control:
+    baseline: rq2-final-holistic
+    "on": [architecture]
+# Dataset and sampling overrides, controlled against the project-wide settings.
+- name: rq2-a-holistic-one-dataset
+  rq: RQ2
+  model: a
+  architecture: holistic
+  retrieval: random
+  datasets: [Synthetic demo]
+  control:
+    baseline: rq2-a-holistic
+    "on": [datasets]
+- name: rq2-a-holistic-small-sample
+  rq: RQ2
+  model: a
+  architecture: holistic
+  retrieval: random
+  sampling:
+    sample_size: 3
+  control:
+    baseline: rq2-a-holistic
+    "on": [sampling]
+# Reader-supplied evaluation and calibration splits, from extensions/sampling.py.
+- name: rq2-a-holistic-reader-splits
+  rq: RQ2
+  model: a
+  architecture: holistic
+  retrieval: random
+  sampling:
+    evaluation_strategy: extensions.sampling:lowest_scores_first
+    calibration_strategy: extensions.sampling:one_per_score
+  control:
+    baseline: rq2-a-holistic
+    "on": [sampling]
+
+# ── RQ3: reasoning modes ──────────────────────────────────────────────────────
+- name: rq3-native
+  rq: RQ3
+  model: a
+  architecture: holistic
+  retrieval: random
+  reasoning:  # empty: no directive, native behavior
+- name: rq3-reasoning
+  rq: RQ3
+  model: a
+  architecture: holistic
+  retrieval: random
+  reasoning: 'yes'
+  control:
+    baseline: rq3-native
+    "on": [reasoning]
+- name: rq3-non-reasoning
+  rq: RQ3
+  model: a
+  architecture: holistic
+  retrieval: random
+  reasoning: 'no'
+  control:
+    baseline: rq3-native
+    "on": [reasoning]
+- name: rq3-no-think
+  rq: RQ3
+  model: a
+  architecture: holistic
+  retrieval: random
+  reasoning: no_think
+  control:
+    baseline: rq3-native
+    "on": [reasoning]
+- name: rq3-criterion-reasoning
+  rq: RQ3
+  model: a
+  architecture: criterion_specialized
+  retrieval: random
+  reasoning: 'yes'
+
+# ── RQ4: final-agent procedures over holistic candidates ──────────────────────
+- name: rq4-holistic-pool_average
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: pool_average
+  reuse:
+    results:
+    - '@rq2-a-holistic'
+    - '@rq2-b-holistic'
+- name: rq4-holistic-disagreement
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: disagreement
+  reuse:
+    results:
+    - '@rq2-a-holistic'
+    - '@rq2-b-holistic'
+    independent: '@rq2-final-holistic'
+- name: rq4-holistic-disagreement-wide
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: disagreement
+  disagreement_threshold: 0.6
+  reuse:
+    results:
+    - '@rq2-a-holistic'
+    - '@rq2-b-holistic'
+    independent: '@rq2-final-holistic'
+  control:
+    baseline: rq4-holistic-disagreement
+    "on": [procedure]
+- name: rq4-holistic-review_based
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: review_based
+  reuse:
+    results:
+    - '@rq2-a-holistic'
+    - '@rq2-b-holistic'
+    independent: '@rq2-final-holistic'
+  control:
+    baseline: rq4-holistic-disagreement
+    "on": [procedure]
+# Non-grading: review one candidate's assessments and stop.
+- name: rq4-holistic-review
+  rq: RQ4
+  model: final
+  architecture: non_grading
+  retrieval: zero_shot
+  procedure: review
+  reuse:
+    results:
+    - '@rq2-a-holistic'
+# The same adjudication, replaying the stored review verdicts instead of asking again.
+- name: rq4-holistic-review_based-cached
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: review_based
+  reuse:
+    results:
+    - '@rq2-a-holistic'
+    - '@rq2-b-holistic'
+    independent: '@rq2-final-holistic'
+    reviews:
+    - '@rq4-holistic-review'
+  control:
+    baseline: rq4-holistic-review_based
+    "on": [reuse]
+
+# ── RQ4: the same procedures over per-criterion candidates ────────────────────
+- name: rq4-criterion-pool_average
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: pool_average
+  reuse:
+    results:
+    - '@rq2-a-criterion'
+    - '@rq2-b-criterion'
+- name: rq4-criterion-disagreement
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: disagreement
+  reuse:
+    results:
+    - '@rq2-a-criterion'
+    - '@rq2-b-criterion'
+    independent: '@rq2-final-criterion'
+- name: rq4-criterion-review_based
+  rq: RQ4
+  model: final
+  architecture: final_agent
+  retrieval: zero_shot
+  procedure: review_based
+  reuse:
+    results:
+    - '@rq2-a-criterion'
+    - '@rq2-b-criterion'
+    independent: '@rq2-final-criterion'
+  control:
+    baseline: rq4-criterion-disagreement
+    "on": [procedure]
+- name: rq4-criterion-review
+  rq: RQ4
+  model: final
+  architecture: non_grading
+  retrieval: zero_shot
+  procedure: review
+  reuse:
+    results:
+    - '@rq2-a-criterion'

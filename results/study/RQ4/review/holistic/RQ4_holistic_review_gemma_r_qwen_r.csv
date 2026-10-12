@@ -1,0 +1,1201 @@
+dataset,essay_id,experiment_id,final_agent_procedure,reviewer_model,criterion,source_experiment_id,source_model,rubric_consistency,evidence_grounding,is_admissible,completion_tokens
+ASAP 2.0 Set 1,AAAVUP14319000141617,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,684
+ASAP 2.0 Set 1,AAAVUP14319000139252,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,738
+ASAP 2.0 Set 1,AAAVUP14319000145243,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,879
+ASAP 2.0 Set 1,AAAVUP14319000148183,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,804
+ASAP 2.0 Set 1,AAAVUP14319000142898,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1013
+ASAP 2.0 Set 1,AAAVUP14319000149549,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,924
+ASAP 2.0 Set 1,AAAVUP14319000157379,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1035
+ASAP 2.0 Set 1,AAAVUP14319000151955,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1065
+ASAP 2.0 Set 1,AAAVUP14319000146457,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,924
+ASAP 2.0 Set 1,AAAVUP14319000142495,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1077
+ASAP 2.0 Set 1,AAAVUP14319000145441,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,984
+ASAP 2.0 Set 1,AAAVUP14319000143311,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1184
+ASAP 2.0 Set 1,AAAVUP14319000136384,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1026
+ASAP 2.0 Set 1,AAAVUP14319000154382,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1221
+ASAP 2.0 Set 1,AAAVUP14319000151402,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1088
+ASAP 2.0 Set 1,AAAVUP14319000144238,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1235
+ASAP 2.0 Set 1,AAAVUP14319000150199,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1316
+ASAP 2.0 Set 1,AAAVUP14319000141755,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1388
+ASAP 2.0 Set 1,AAAVUP14319000149370,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1244
+ASAP 2.0 Set 1,AAAVUP14319000139121,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1949
+ASAP 2.0 Set 1,AAAVUP14319000134577,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,640
+ASAP 2.0 Set 1,AAAVUP14319000135872,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,814
+ASAP 2.0 Set 1,AAAVUP14319000132708,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,723
+ASAP 2.0 Set 1,AAAVUP14319000133547,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,972
+ASAP 2.0 Set 1,AAAVUP14319000127367,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,747
+ASAP 2.0 Set 1,AAAVUP14319000132087,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,856
+ASAP 2.0 Set 1,AAAVUP14319000123835,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,979
+ASAP 2.0 Set 1,AAAVUP14319000124773,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1063
+ASAP 2.0 Set 1,AAAVUP14319000128221,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1129
+ASAP 2.0 Set 1,AAAVUP14319000123037,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,950
+ASAP 2.0 Set 1,AAAVUP14319000131990,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1372
+ASAP 2.0 Set 1,AAAVUP14319000132676,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1464
+ASAP 2.0 Set 1,AAAVUP14319000121348,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1153
+ASAP 2.0 Set 1,AAAVUP14319000151894,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,774
+ASAP 2.0 Set 1,AAAVUP14319000143500,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,971
+ASAP 2.0 Set 1,AAAVUP14319000139628,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,836
+ASAP 2.0 Set 1,AAAVUP14319000154190,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1008
+ASAP 2.0 Set 1,AAAVUP14319000123520,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1733
+ASAP 2.0 Set 1,AAAVUP14319000157334,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1131
+ASAP 2.0 Set 1,AAAVUP14319000142893,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1356
+ASAP 2.0 Set 1,AAAVUP14319000120847,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,987
+ASAP 2.0 Set 1,AAAVUP14319000119877,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,713
+ASAP 2.0 Set 1,AAAVUP14319000133270,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,3047
+ASAP 2.0 Set 1,AAAVUP14319000129002,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,3369
+ASAP 2.0 Set 1,AAAVUP14319000119079,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1177
+ASAP 2.0 Set 1,AAAVUP14319000119649,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1407
+ASAP 2.0 Set 1,AAAVUP14319000117287,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1094
+ASAP 2.0 Set 1,AAAVUP14319000152245,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,986
+ASAP 2.0 Set 1,AAAVUP14319000110358,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1070
+ASAP 2.0 Set 1,AAAVUP14319000118642,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1461
+ASAP 2.0 Set 1,AAAVUP14319000109743,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1095
+ASAP 2.0 Set 1,AAAVUP14319000104932,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,764
+ASAP 2.0 Set 1,AAAVUP14319000104712,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,746
+ASAP 2.0 Set 1,AAAVUP14319000105543,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1028
+ASAP 2.0 Set 1,AAAVUP14319000105210,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1134
+ASAP 2.0 Set 1,AAAVUP14319000118937,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1002
+ASAP 2.0 Set 1,AAAVUP14319000159359,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,959
+ASAP 2.0 Set 1,AAAVUP14319000152250,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,877
+ASAP 2.0 Set 1,AAAVUP14319000116333,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,963
+ASAP 2.0 Set 1,AAAVUP14319000102627,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1031
+ASAP 2.0 Set 1,AAAVUP14319000102380,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1037
+ASAP 2.0 Set 1,AAAVUP14319000136162,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,735
+ASAP 2.0 Set 1,AAAVUP14319000109200,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1077
+ASAP 2.0 Set 1,AAAVUP14319000106128,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2539
+ASAP 2.0 Set 1,AAAVUP14319000106180,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1046
+ASAP 2.0 Set 1,AAAVUP14319000100158,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,797
+ASAP 2.0 Set 1,AAAVUP14319000108643,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1250
+ASAP 2.0 Set 1,AAAVUP14319000101391,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,984
+ASAP 2.0 Set 1,AAAVUP14319000100048,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,928
+ASAP 2.0 Set 1,AAAVUP14319000101700,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1271
+ASAP 2.0 Set 1,AAAVUP14319000102245,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1577
+ASAP 2.0 Set 1,AAAVUP14319000099918,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1001
+ASAP 2.0 Set 1,AAAVUP14319000099435,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,951
+ASAP 2.0 Set 1,AAAVUP14319000099406,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,985
+ASAP 2.0 Set 1,AAAVUP14319000096378,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,727
+ASAP 2.0 Set 1,AAAVUP14319000112075,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,757
+ASAP 2.0 Set 1,AAAVUP14319000096933,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1144
+ASAP 2.0 Set 1,AAAVUP14319000094972,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,782
+ASAP 2.0 Set 1,AAAVUP14319000096216,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1401
+ASAP 2.0 Set 1,AAAVUP14319000108313,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1087
+ASAP 2.0 Set 1,AAAVUP14319000092891,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,723
+ASAP 2.0 Set 1,AAAVUP14319000093585,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1033
+ASAP 2.0 Set 1,AAAVUP14319000123843,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,746
+ASAP 2.0 Set 1,AAAVUP14319000110218,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,3566
+ASAP 2.0 Set 1,AAAVUP14319000103314,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1010
+ASAP 2.0 Set 1,AAAVUP14319000093492,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1345
+ASAP 2.0 Set 1,AAAVUP14319000089258,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,803
+ASAP 2.0 Set 1,AAAVUP14319000090338,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,956
+ASAP 2.0 Set 1,AAAVUP14319000088490,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,782
+ASAP 2.0 Set 1,AAAVUP14319000087749,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,732
+ASAP 2.0 Set 1,AAAVUP14319000092377,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1503
+ASAP 2.0 Set 1,AAAVUP14319000086325,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,822
+ASAP 2.0 Set 1,AAAVUP14319000087533,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1031
+ASAP 2.0 Set 1,AAAVUP14319000084024,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,984
+ASAP 2.0 Set 1,AAAVUP14319000084909,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1145
+ASAP 2.0 Set 1,AAAVUP14319000081890,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1019
+ASAP 2.0 Set 1,AAAVUP14319000084788,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1172
+ASAP 2.0 Set 1,AAAVUP14319000094485,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2665
+ASAP 2.0 Set 1,AAAVUP14319000087701,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1690
+ASAP 2.0 Set 1,AAAVUP14319000081676,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,911
+ASAP 2.0 Set 1,AAAVUP14319000081429,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1353
+ASAP 2.0 Set 1,AAAVUP14319000080080,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1173
+ASAP 2.0 Set 1,AAAVUP14319000102645,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1242
+ASAP 2.0 Set 1,AAAVUP14319000077846,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,929
+ASAP 2.0 Set 1,AAAVUP14319000082443,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,2321
+ASAP 2.0 Set 1,AAAVUP14319000071320,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,824
+ASAP 2.0 Set 1,AAAVUP14319000069844,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,851
+ASAP 2.0 Set 1,AAAVUP14319000066395,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,874
+ASAP 2.0 Set 1,AAAVUP14319000068502,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,953
+ASAP 2.0 Set 1,AAAVUP14319000073390,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,969
+ASAP 2.0 Set 1,AAAVUP14319000056028,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,863
+ASAP 2.0 Set 1,AAAVUP14319000088551,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,886
+ASAP 2.0 Set 1,AAAVUP14319000073499,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,894
+ASAP 2.0 Set 1,AAAVUP14319000058904,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,946
+ASAP 2.0 Set 1,AAAVUP14319000067225,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1465
+ASAP 2.0 Set 1,AAAVUP14319000074033,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,983
+ASAP 2.0 Set 1,AAAVUP14319000079703,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,986
+ASAP 2.0 Set 1,AAAVUP14319000098119,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,5614
+ASAP 2.0 Set 1,AAAVUP14319000062797,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1066
+ASAP 2.0 Set 1,AAAVUP14319000078150,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1117
+ASAP 2.0 Set 1,AAAVUP14319000052577,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,860
+ASAP 2.0 Set 1,AAAVUP14319000058378,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1277
+ASAP 2.0 Set 1,AAAVUP14319000053564,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1107
+ASAP 2.0 Set 1,AAAVUP14319000055389,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1504
+ASAP 2.0 Set 1,AAAVUP14319000058021,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1680
+ASAP 2.0 Set 1,AAAVUP14319000059767,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1841
+ASAP 2.0 Set 1,AAAVUP14319000075505,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2720
+ASAP 2.0 Set 1,AAAVUP14319000049164,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,805
+ASAP 2.0 Set 1,AAAVUP14319000049266,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,981
+ASAP 2.0 Set 1,AAAVUP14319000048209,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,986
+ASAP 2.0 Set 1,AAAVUP14319000063872,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2632
+ASAP 2.0 Set 1,AAAVUP14319000048918,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1174
+ASAP 2.0 Set 1,AAAVUP14319000047276,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1117
+ASAP 2.0 Set 1,AAAVUP14319000049308,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,670
+ASAP 2.0 Set 1,AAAVUP14319000046400,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,681
+ASAP 2.0 Set 1,AAAVUP14319000045696,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,746
+ASAP 2.0 Set 1,AAAVUP14319000045503,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,759
+ASAP 2.0 Set 1,AAAVUP14319000048341,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,787
+ASAP 2.0 Set 1,AAAVUP14319000046876,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,769
+ASAP 2.0 Set 1,AAAVUP14319000049327,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1573
+ASAP 2.0 Set 1,AAAVUP14319000044727,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,861
+ASAP 2.0 Set 1,AAAVUP14319000047285,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,992
+ASAP 2.0 Set 1,AAAVUP14319000046576,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1032
+ASAP 2.0 Set 1,AAAVUP14319000046931,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1097
+ASAP 2.0 Set 1,AAAVUP14319000044284,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1167
+ASAP 2.0 Set 1,AAAVUP14319000050796,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,948
+ASAP 2.0 Set 1,AAAVUP14319000046635,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1295
+ASAP 2.0 Set 1,AAAVUP14319000044937,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1312
+ASAP 2.0 Set 1,AAAVUP14319000043321,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,941
+ASAP 2.0 Set 1,AAAVUP14319000051084,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,681
+ASAP 2.0 Set 1,AAAVUP14319000043603,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1068
+ASAP 2.0 Set 1,AAAVUP14319000040054,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,747
+ASAP 2.0 Set 1,AAAVUP14319000064533,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1569
+ASAP 2.0 Set 1,AAAVUP14319000042987,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,990
+ASAP 2.0 Set 1,AAAVUP14319000042292,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,982
+ASAP 2.0 Set 1,AAAVUP14319000053501,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1053
+ASAP 2.0 Set 1,AAAVUP14319000042514,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1128
+ASAP 2.0 Set 1,AAAVUP14319000050880,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,984
+ASAP 2.0 Set 1,AAAVUP14319000033673,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,620
+ASAP 2.0 Set 1,AAAVUP14319000040194,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1188
+ASAP 2.0 Set 1,AAAVUP14319000034921,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,793
+ASAP 2.0 Set 1,AAAVUP14319000038630,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1147
+ASAP 2.0 Set 1,AAAVUP14319000036686,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1122
+ASAP 2.0 Set 1,AAAVUP14319000063240,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1955
+ASAP 2.0 Set 1,AAAVUP14319000051274,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1161
+ASAP 2.0 Set 1,AAAVUP14319000044048,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1007
+ASAP 2.0 Set 1,AAAVUP14319000037267,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1226
+ASAP 2.0 Set 1,AAAVUP14319000043711,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1203
+ASAP 2.0 Set 1,AAAVUP14319000049726,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1206
+ASAP 2.0 Set 1,AAAVUP14319000094889,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2075
+ASAP 2.0 Set 1,AAAVUP14319000052192,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1327
+ASAP 2.0 Set 1,AAAVUP14319000035265,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1066
+ASAP 2.0 Set 1,AAAVUP14319000033948,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1042
+ASAP 2.0 Set 1,AAAVUP14319000035813,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1368
+ASAP 2.0 Set 1,AAAVUP14319000038366,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1628
+ASAP 2.0 Set 1,AAAVUP14319000032454,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1017
+ASAP 2.0 Set 1,AAAVUP14319000031856,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,923
+ASAP 2.0 Set 1,AAAVUP14319000022437,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,694
+ASAP 2.0 Set 1,AAAVUP14319000027796,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,738
+ASAP 2.0 Set 1,AAAVUP14319000032287,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1092
+ASAP 2.0 Set 1,AAAVUP14319000032372,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1200
+ASAP 2.0 Set 1,AAAVUP14319000030197,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1018
+ASAP 2.0 Set 1,AAAVUP14319000021569,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,773
+ASAP 2.0 Set 1,AAAVUP14319000031934,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1114
+ASAP 2.0 Set 1,AAAVUP14319000030093,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1094
+ASAP 2.0 Set 1,AAAVUP14319000015662,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,921
+ASAP 2.0 Set 1,AAAVUP14319000025188,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,992
+ASAP 2.0 Set 1,AAAVUP14319000029555,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1172
+ASAP 2.0 Set 1,AAAVUP14319000108646_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,988
+ASAP 2.0 Set 1,AAAVUP14319000023596,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1118
+ASAP 2.0 Set 6,5173942_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,768
+ASAP 2.0 Set 6,5302836_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1056
+ASAP 2.0 Set 1,AAAVUP14319000010360,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1188
+ASAP 2.0 Set 1,AAAVUP14319000024739,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1434
+ASAP 2.0 Set 6,5348149_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1258
+ASAP 2.0 Set 1,AAAVUP14319000019787,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1436
+ASAP 2.0 Set 1,AAAVUP14319000032489,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2034
+ASAP 2.0 Set 6,5173983_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1201
+ASAP 2.0 Set 6,5154186_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1050
+ASAP 2.0 Set 1,AAAVUP14319000032429,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2029
+ASAP 2.0 Set 1,AAAVUP14319000033409,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2278
+ASAP 2.0 Set 1,AAAVUP14319000033455,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2364
+ASAP 2.0 Set 6,5381990,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,932
+ASAP 2.0 Set 6,7076715,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1048
+ASAP 2.0 Set 6,5057227_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1185
+ASAP 2.0 Set 6,5415131,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1086
+ASAP 2.0 Set 6,7010014_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1820
+ASAP 2.0 Set 6,5367616,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,756
+ASAP 2.0 Set 6,5076429_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1462
+ASAP 2.0 Set 6,5370764,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,960
+ASAP 2.0 Set 6,5415965,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1329
+ASAP 2.0 Set 6,5415688,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1345
+ASAP 2.0 Set 6,5378536,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1255
+ASAP 2.0 Set 6,5369943,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,981
+ASAP 2.0 Set 6,5366769,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,880
+ASAP 2.0 Set 6,5359645,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,809
+ASAP 2.0 Set 6,5353888,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,610
+ASAP 2.0 Set 6,5377361,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1469
+ASAP 2.0 Set 6,5367081,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1135
+ASAP 2.0 Set 6,5370042,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1358
+ASAP 2.0 Set 6,5356579,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,975
+ASAP 2.0 Set 6,5361245,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1112
+ASAP 2.0 Set 6,5356708,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1137
+ASAP 2.0 Set 6,5366160,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1204
+ASAP 2.0 Set 6,5353998,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,948
+ASAP 2.0 Set 6,5351820,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,722
+ASAP 2.0 Set 6,5354232,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1160
+ASAP 2.0 Set 6,5353557,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,833
+ASAP 2.0 Set 6,5351968,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1072
+ASAP 2.0 Set 6,5299331_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2871
+ASAP 2.0 Set 6,5381607,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2170
+ASAP 2.0 Set 6,5024225_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2359
+ASAP 2.0 Set 6,5353906,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1367
+ASAP 2.0 Set 6,5308107,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,708
+ASAP 2.0 Set 6,5347942,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1043
+ASAP 2.0 Set 6,5307521,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,685
+ASAP 2.0 Set 6,5352700,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1189
+ASAP 2.0 Set 6,5313049,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,901
+ASAP 2.0 Set 6,5349654,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1223
+ASAP 2.0 Set 6,5342188,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1111
+ASAP 2.0 Set 6,5313448,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1093
+ASAP 2.0 Set 6,5298119,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,717
+ASAP 2.0 Set 6,5219014,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,571
+ASAP 2.0 Set 6,5299418,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,903
+ASAP 2.0 Set 6,5303180,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,970
+ASAP 2.0 Set 1,AAAVUP14319000036004,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,4649
+ASAP 2.0 Set 6,5265328,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,741
+ASAP 2.0 Set 6,5376733,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2563
+ASAP 2.0 Set 6,5299803,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1064
+ASAP 2.0 Set 6,5351554,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1663
+ASAP 2.0 Set 6,5057163_cleaned,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,3116
+ASAP 2.0 Set 6,5215498,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,736
+ASAP 2.0 Set 6,5299058,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1137
+ASAP 2.0 Set 6,5299416,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1263
+ASAP 2.0 Set 6,5214639,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,811
+ASAP 2.0 Set 6,5214532,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,787
+ASAP 2.0 Set 6,5205683,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,706
+ASAP 2.0 Set 6,5205250,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,738
+ASAP 2.0 Set 6,5376565,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,3076
+ASAP 2.0 Set 6,5214552,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1034
+ASAP 2.0 Set 6,5212805,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,997
+ASAP 2.0 Set 6,5267679,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1541
+ASAP 2.0 Set 6,5218276,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1264
+ASAP 2.0 Set 6,5196476,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,758
+ASAP 2.0 Set 6,5196194,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,707
+ASAP 2.0 Set 6,5218562,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1364
+ASAP 2.0 Set 6,5205051,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,980
+ASAP 2.0 Set 6,5218815,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1485
+ASAP 2.0 Set 6,5342158,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2238
+ASAP 2.0 Set 6,5212683,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1219
+ASAP 2.0 Set 6,5196466,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1020
+ASAP 2.0 Set 6,5205601,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1351
+ASAP 2.0 Set 6,5198140,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1167
+ASAP 2.0 Set 6,5205097,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1433
+ASAP 2.0 Set 6,5184301,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,623
+ASAP 2.0 Set 6,5188602,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,943
+ASAP 2.0 Set 6,5196660,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1388
+ASAP 2.0 Set 6,5196157,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1174
+ASAP 2.0 Set 6,5180712,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,647
+ASAP 2.0 Set 6,5212740,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1772
+ASAP 2.0 Set 6,5188571,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1126
+ASAP 2.0 Set 6,5348063,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,3035
+ASAP 2.0 Set 6,5196439,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1557
+ASAP 2.0 Set 6,5184687,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1038
+ASAP 2.0 Set 6,5188652,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1370
+ASAP 2.0 Set 6,5188369,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1181
+ASAP 2.0 Set 6,5188713,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1594
+ASAP 2.0 Set 6,5180847,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1201
+ASAP 2.0 Set 6,5180886,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1284
+ASAP 2.0 Set 6,5178499,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1058
+ASAP 2.0 Set 6,5184602,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1437
+ASAP 2.0 Set 6,5176755,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,958
+ASAP 2.0 Set 6,5178600,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1135
+ASAP 2.0 Set 6,5178282,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1092
+ASAP 2.0 Set 6,5176754,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1010
+ASAP 2.0 Set 6,5178823,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1215
+ASAP 2.0 Set 6,5173820,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,801
+ASAP 2.0 Set 6,5171811,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,685
+ASAP 2.0 Set 6,5180611,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1395
+ASAP 2.0 Set 6,5180628,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1408
+ASAP 2.0 Set 6,5344275,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,3621
+ASAP 2.0 Set 6,5196270,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2185
+ASAP 2.0 Set 6,5174081,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1093
+ASAP 2.0 Set 6,5173872,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1047
+ASAP 2.0 Set 6,5171437,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,773
+ASAP 2.0 Set 6,5184633,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1920
+ASAP 2.0 Set 6,5171938,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1096
+ASAP 2.0 Set 6,5173999,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1250
+ASAP 2.0 Set 6,5178602,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1616
+ASAP 2.0 Set 6,5171692,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1027
+ASAP 2.0 Set 6,5171945,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1320
+ASAP 2.0 Set 6,5170100,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,920
+ASAP 2.0 Set 6,5171908,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1311
+ASAP 2.0 Set 6,5171481,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1178
+ASAP 2.0 Set 6,5153231,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,574
+ASAP 2.0 Set 6,5156579,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,699
+ASAP 2.0 Set 6,5157222,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,903
+ASAP 2.0 Set 6,5154173,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,850
+ASAP 2.0 Set 6,5152917,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,629
+ASAP 2.0 Set 6,5164802,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1037
+ASAP 2.0 Set 6,5152935,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,742
+ASAP 2.0 Set 6,5162258,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1028
+ASAP 2.0 Set 6,5171607,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1550
+ASAP 2.0 Set 6,5164272,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1145
+ASAP 2.0 Set 6,5165118,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1231
+ASAP 2.0 Set 6,5164103,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1183
+ASAP 2.0 Set 6,5188384,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2939
+ASAP 2.0 Set 6,5166364,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1419
+ASAP 2.0 Set 6,5153251,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1180
+ASAP 2.0 Set 6,5171668,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1866
+ASAP 2.0 Set 6,5165324,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1637
+ASAP 2.0 Set 6,5153838,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1423
+ASAP 2.0 Set 6,5079729,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,644
+ASAP 2.0 Set 6,5083398,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1035
+ASAP 2.0 Set 6,5149974,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1288
+ASAP 2.0 Set 6,5149806,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1281
+ASAP 2.0 Set 6,5083338,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1185
+ASAP 2.0 Set 6,5153916,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1762
+ASAP 2.0 Set 6,5083437,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1288
+ASAP 2.0 Set 6,5149792,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1470
+ASAP 2.0 Set 6,5079830,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1160
+ASAP 2.0 Set 6,5156921,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1935
+ASAP 2.0 Set 6,5089330,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1533
+ASAP 2.0 Set 6,5079584,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1083
+ASAP 2.0 Set 6,5079951,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1327
+ASAP 2.0 Set 6,5079619,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1129
+ASAP 2.0 Set 6,5076453,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1144
+ASAP 2.0 Set 6,5076340,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1091
+ASAP 2.0 Set 6,5074557,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,952
+ASAP 2.0 Set 6,5079652,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1283
+ASAP 2.0 Set 6,5060918,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,589
+ASAP 2.0 Set 6,5074693,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1103
+ASAP 2.0 Set 6,5076080,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1117
+ASAP 2.0 Set 6,5074547,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1065
+ASAP 2.0 Set 6,5060598,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,702
+ASAP 2.0 Set 6,5071314,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1044
+ASAP 2.0 Set 6,5076215,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1359
+ASAP 2.0 Set 6,5062301,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,996
+ASAP 2.0 Set 6,5085008,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2076
+ASAP 2.0 Set 6,5069889,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1059
+ASAP 2.0 Set 6,5061444,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1065
+ASAP 2.0 Set 6,5060192,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,991
+ASAP 2.0 Set 6,5053766,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,675
+ASAP 2.0 Set 6,5053819,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,878
+ASAP 2.0 Set 6,5029038,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,652
+ASAP 2.0 Set 6,5056843,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,942
+ASAP 2.0 Set 6,5083363,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2262
+ASAP 2.0 Set 6,5031000,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,819
+ASAP 2.0 Set 6,5076393,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1983
+ASAP 2.0 Set 6,5031341,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,890
+ASAP 2.0 Set 6,5057274,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1161
+ASAP 2.0 Set 6,5056889,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1135
+ASAP 2.0 Set 6,5074440,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1755
+ASAP 2.0 Set 6,5057102,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1211
+ASAP 2.0 Set 6,5030819,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1027
+ASAP 2.0 Set 6,5032166,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1246
+ASAP 2.0 Set 6,5027671,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1013
+ASAP 2.0 Set 6,5027773,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1078
+ASAP 2.0 Set 6,5028292,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1129
+ASAP 2.0 Set 6,5028466,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1137
+ASAP 2.0 Set 6,5027653,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1110
+ASAP 2.0 Set 6,5026222,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1112
+ASAP 2.0 Set 6,5025668,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1017
+ASAP 2.0 Set 6,5025932,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1093
+ASAP 2.0 Set 6,5026392,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1283
+ASAP 2.0 Set 6,5031449,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1717
+ASAP 2.0 Set 6,5059402,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1921
+ASAP 2.0 Set 6,5025717,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1224
+ASAP AES Set 1,41,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,743
+ASAP 2.0 Set 6,5024156,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,954
+ASAP AES Set 1,27,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,789
+ASAP 2.0 Set 6,5022023,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,935
+ASAP AES Set 1,21,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,884
+ASAP AES Set 1,42,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,860
+ASAP AES Set 1,3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,952
+ASAP 2.0 Set 6,5023527,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1118
+ASAP 2.0 Set 6,5025141,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1379
+ASAP AES Set 1,32,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1014
+ASAP AES Set 1,57,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,904
+ASAP 2.0 Set 6,5024940,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1431
+ASAP AES Set 1,61,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,860
+ASAP AES Set 1,72,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,894
+ASAP AES Set 1,84,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,883
+ASAP AES Set 1,89,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,837
+ASAP 2.0 Set 6,5022909,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1319
+ASAP 2.0 Set 6,5026168,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1840
+ASAP AES Set 1,100,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,862
+ASAP AES Set 1,97,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,974
+ASAP AES Set 1,111,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,901
+ASAP 2.0 Set 6,5023713,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1711
+ASAP AES Set 1,117,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,939
+ASAP AES Set 1,118,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,929
+ASAP AES Set 1,142,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,899
+ASAP AES Set 1,144,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,967
+ASAP AES Set 1,131,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1008
+ASAP AES Set 1,179,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,883
+ASAP AES Set 1,147,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,987
+ASAP AES Set 1,137,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1023
+ASAP AES Set 1,198,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,872
+ASAP AES Set 1,200,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,878
+ASAP AES Set 1,170,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1000
+ASAP AES Set 1,194,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1033
+ASAP AES Set 1,219,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,928
+ASAP AES Set 1,215,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,983
+ASAP AES Set 1,234,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,928
+ASAP AES Set 1,293,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,835
+ASAP AES Set 1,247,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,936
+ASAP AES Set 1,268,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,866
+ASAP 2.0 Set 6,5153038,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,4960
+ASAP AES Set 1,282,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,954
+ASAP AES Set 1,294,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,951
+ASAP AES Set 1,93,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1931
+ASAP AES Set 1,301,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,978
+ASAP AES Set 1,119,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1599
+ASAP AES Set 1,315,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,954
+ASAP AES Set 1,356,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,841
+ASAP AES Set 1,338,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,874
+ASAP AES Set 1,319,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,973
+ASAP AES Set 1,371,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,830
+ASAP AES Set 1,258,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1310
+ASAP AES Set 1,369,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,953
+ASAP AES Set 1,374,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,995
+ASAP AES Set 1,380,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,942
+ASAP AES Set 1,389,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,954
+ASAP AES Set 1,415,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,962
+ASAP AES Set 1,417,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,974
+ASAP AES Set 1,471,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,898
+ASAP AES Set 1,527,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,742
+ASAP AES Set 1,437,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1002
+ASAP AES Set 1,453,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,979
+ASAP AES Set 1,508,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,882
+ASAP AES Set 1,442,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1114
+ASAP AES Set 1,511,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,908
+ASAP AES Set 1,541,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,878
+ASAP AES Set 1,491,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,977
+ASAP AES Set 1,490,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,989
+ASAP AES Set 1,566,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,854
+ASAP AES Set 1,569,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,841
+ASAP 2.0 Set 6,5056904,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,4233
+ASAP AES Set 1,578,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,812
+ASAP AES Set 1,596,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,780
+ASAP AES Set 1,562,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1041
+ASAP AES Set 1,542,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1138
+ASAP AES Set 1,588,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1017
+ASAP AES Set 1,573,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1221
+ASAP AES Set 1,639,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,867
+ASAP AES Set 1,619,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,915
+ASAP AES Set 1,608,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,950
+ASAP AES Set 1,690,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,885
+ASAP AES Set 1,752,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,744
+ASAP AES Set 1,664,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,995
+ASAP AES Set 1,713,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,840
+ASAP AES Set 1,719,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,853
+ASAP AES Set 1,749,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,906
+ASAP AES Set 1,705,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,990
+ASAP AES Set 1,697,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1030
+ASAP AES Set 1,748,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,926
+ASAP AES Set 1,763,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,981
+ASAP AES Set 1,767,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,866
+ASAP AES Set 1,764,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,979
+ASAP AES Set 1,788,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,940
+ASAP AES Set 1,830,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,931
+ASAP AES Set 1,811,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,955
+ASAP AES Set 1,769,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1005
+ASAP AES Set 1,839,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,967
+ASAP AES Set 1,845,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,934
+ASAP AES Set 1,851,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,955
+ASAP AES Set 1,880,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,911
+ASAP AES Set 1,855,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1058
+ASAP AES Set 1,877,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,956
+ASAP AES Set 1,884,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,988
+ASAP AES Set 1,873,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1139
+ASAP AES Set 1,698,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,838
+ASAP AES Set 1,952,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,900
+ASAP AES Set 1,913,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1024
+ASAP AES Set 1,922,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,971
+ASAP AES Set 1,938,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,981
+ASAP AES Set 1,597,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,908
+ASAP AES Set 1,677,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,978
+ASAP AES Set 1,758,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,926
+ASAP AES Set 1,960,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,875
+ASAP AES Set 1,681,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,943
+ASAP AES Set 1,688,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,932
+ASAP AES Set 1,722,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,987
+ASAP AES Set 1,615,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,984
+ASAP AES Set 1,961,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,958
+ASAP AES Set 1,652,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1066
+ASAP AES Set 1,978,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,930
+ASAP AES Set 1,953,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1094
+ASAP AES Set 1,968,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,983
+ASAP AES Set 1,1005,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,928
+ASAP AES Set 1,990,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,955
+ASAP AES Set 1,898,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1335
+ASAP AES Set 1,1014,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1007
+ASAP AES Set 1,1040,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,847
+ASAP AES Set 1,1035,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,893
+ASAP AES Set 1,967,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1403
+ASAP AES Set 1,1056,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,859
+ASAP AES Set 1,1052,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,907
+ASAP AES Set 1,1067,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,813
+ASAP AES Set 1,1058,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,958
+ASAP AES Set 1,1110,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,869
+ASAP AES Set 1,1118,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,859
+ASAP AES Set 1,1170,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,838
+ASAP AES Set 1,1165,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,856
+ASAP AES Set 1,1137,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,872
+ASAP AES Set 1,1073,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,980
+ASAP AES Set 1,1085,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,962
+ASAP AES Set 1,1155,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,890
+ASAP AES Set 1,1101,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,949
+ASAP AES Set 1,1127,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,948
+ASAP AES Set 1,1198,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,921
+ASAP AES Set 1,1175,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,977
+ASAP AES Set 1,1272,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,879
+ASAP AES Set 1,1259,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,954
+ASAP AES Set 1,1266,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,943
+ASAP AES Set 1,1244,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,974
+ASAP AES Set 1,1202,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1094
+ASAP AES Set 1,1212,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1040
+ASAP AES Set 1,1255,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1060
+ASAP AES Set 1,1273,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,869
+ASAP AES Set 1,1283,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,885
+ASAP AES Set 1,1274,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,975
+ASAP AES Set 1,1290,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,874
+ASAP AES Set 1,1294,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,855
+ASAP AES Set 1,1279,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1019
+ASAP AES Set 1,1318,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,886
+ASAP AES Set 1,1344,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,777
+ASAP AES Set 1,1368,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,749
+ASAP AES Set 1,1337,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,800
+ASAP AES Set 1,1348,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,802
+ASAP AES Set 1,1139,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1681
+ASAP AES Set 1,1213,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1585
+ASAP AES Set 1,1325,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1002
+ASAP AES Set 1,1392,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,876
+ASAP AES Set 1,1405,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,904
+ASAP AES Set 1,1386,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1034
+ASAP AES Set 1,1355,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1078
+ASAP AES Set 1,1385,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1069
+ASAP AES Set 1,1457,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,856
+ASAP AES Set 1,1406,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1041
+ASAP AES Set 1,1447,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1053
+ASAP AES Set 1,1482,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,969
+ASAP AES Set 1,1468,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,989
+ASAP AES Set 1,1494,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,985
+ASAP AES Set 1,1501,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,932
+ASAP AES Set 1,1496,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,945
+ASAP AES Set 1,1510,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,972
+ASAP AES Set 1,1511,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,917
+ASAP AES Set 1,1372,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1451
+ASAP AES Set 1,1533,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,831
+ASAP AES Set 1,1524,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,921
+ASAP AES Set 1,1520,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,959
+ASAP AES Set 1,1527,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,966
+ASAP AES Set 1,1545,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,879
+ASAP AES Set 1,1552,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,926
+ASAP AES Set 1,1537,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1103
+ASAP AES Set 1,1600,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,926
+ASAP AES Set 1,1634,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,895
+ASAP AES Set 1,1561,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1078
+ASAP AES Set 1,1619,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1031
+ASAP AES Set 1,1518,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1374
+ASAP AES Set 1,1666,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,894
+ASAP AES Set 1,1581,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1147
+ASAP AES Set 1,1699,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,875
+ASAP AES Set 1,1655,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1005
+ASAP AES Set 1,1692,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,931
+ASAP AES Set 1,1718,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,812
+ASAP AES Set 1,1738,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,833
+ASAP AES Set 1,1760,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,858
+ASAP AES Set 1,1775,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,787
+ASAP AES Set 1,1761,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,849
+ASAP AES Set 4,8877,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,692
+ASAP AES Set 1,1709,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1006
+ASAP AES Set 1,1674,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1108
+ASAP AES Set 4,8918,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,632
+ASAP AES Set 4,8863,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,855
+ASAP AES Set 1,1719,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,984
+ASAP AES Set 1,1774,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,959
+ASAP AES Set 4,8899,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,745
+ASAP AES Set 4,8927,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,750
+ASAP AES Set 4,8910,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,823
+ASAP AES Set 4,8944,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,750
+ASAP AES Set 4,8958,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,654
+ASAP AES Set 4,8956,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,751
+ASAP AES Set 4,8960,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,712
+ASAP AES Set 4,9000,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,622
+ASAP AES Set 4,8985,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,725
+ASAP AES Set 4,8961,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,876
+ASAP AES Set 1,1096,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,3646
+ASAP AES Set 4,9010,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,755
+ASAP AES Set 4,9103,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,643
+ASAP AES Set 4,9085,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,670
+ASAP AES Set 4,9023,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,868
+ASAP AES Set 4,9119,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,728
+ASAP AES Set 4,9093,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,738
+ASAP AES Set 4,9136,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,714
+ASAP AES Set 4,9145,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,769
+ASAP AES Set 4,9219,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,626
+ASAP AES Set 4,9226,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,606
+ASAP AES Set 4,9008,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1307
+ASAP AES Set 4,9192,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,860
+ASAP AES Set 4,9298,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,544
+ASAP AES Set 4,9273,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,724
+ASAP AES Set 4,9233,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,807
+ASAP AES Set 4,9258,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,790
+ASAP AES Set 4,9314,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,527
+ASAP AES Set 4,9275,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,714
+ASAP AES Set 4,9190,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1067
+ASAP AES Set 4,9323,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,636
+ASAP AES Set 4,9310,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,634
+ASAP AES Set 4,9274,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,818
+ASAP AES Set 1,1580,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,0,0,2843
+ASAP AES Set 4,9352,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,709
+ASAP AES Set 4,9359,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,819
+ASAP AES Set 4,9346,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1013
+ASAP AES Set 4,9301,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1172
+ASAP AES Set 4,9332,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1061
+ASAP AES Set 4,9356,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,960
+ASAP AES Set 4,9293,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1478
+ASAP AES Set 4,9373,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,599
+ASAP AES Set 4,9361,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,715
+ASAP AES Set 4,9363,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,756
+ASAP AES Set 4,9380,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,744
+ASAP AES Set 4,9389,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,915
+ASAP AES Set 4,9394,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,677
+ASAP AES Set 4,9518,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,474
+ASAP AES Set 4,9416,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,751
+ASAP AES Set 4,9415,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,764
+ASAP AES Set 4,9448,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,751
+ASAP AES Set 4,9444,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,776
+ASAP AES Set 4,9409,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,885
+ASAP AES Set 4,9065,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,747
+ASAP AES Set 4,9052,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,775
+ASAP AES Set 4,9517,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,690
+ASAP AES Set 4,9154,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,661
+ASAP AES Set 4,9492,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,979
+ASAP AES Set 4,9156,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,942
+ASAP AES Set 4,9161,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,975
+ASAP AES Set 4,9544,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,640
+ASAP AES Set 4,9539,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,786
+ASAP AES Set 4,9185,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1136
+ASAP AES Set 4,9551,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1001
+ASAP AES Set 4,9560,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,736
+ASAP AES Set 4,9557,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1096
+ASAP AES Set 4,9568,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,628
+ASAP AES Set 4,9640,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,749
+ASAP AES Set 4,9609,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,846
+ASAP AES Set 4,9649,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,804
+ASAP AES Set 4,9603,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1059
+ASAP AES Set 4,9682,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,835
+ASAP AES Set 4,9733,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,801
+ASAP AES Set 4,9384,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1105
+ASAP AES Set 4,9471,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,604
+ASAP AES Set 4,9465,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,718
+ASAP AES Set 4,9754,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,887
+ASAP AES Set 4,9074,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,827
+ASAP AES Set 4,9493,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,757
+ASAP AES Set 4,9750,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1041
+ASAP AES Set 4,9180,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,721
+ASAP AES Set 4,9767,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1020
+ASAP AES Set 4,9670,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1851
+ASAP AES Set 4,9778,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,717
+ASAP AES Set 4,9804,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,587
+ASAP AES Set 4,9787,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,898
+ASAP AES Set 4,9814,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,802
+ASAP AES Set 4,9816,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,833
+ASAP AES Set 4,9830,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,889
+ASAP AES Set 4,9845,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,627
+ASAP AES Set 4,9596,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,743
+ASAP AES Set 4,9571,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,828
+ASAP AES Set 4,9889,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,686
+ASAP AES Set 4,9892,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,685
+ASAP AES Set 4,9692,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,626
+ASAP AES Set 4,9877,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,777
+ASAP AES Set 4,9704,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,652
+ASAP AES Set 4,9915,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,659
+ASAP AES Set 4,9921,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,758
+ASAP AES Set 4,9873,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1485
+ASAP AES Set 4,9501,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,739
+ASAP AES Set 4,9975,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,840
+ASAP AES Set 4,9995,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,728
+ASAP AES Set 4,10015,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,679
+ASAP AES Set 4,10007,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,710
+ASAP AES Set 4,9999,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,772
+ASAP AES Set 4,9994,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1103
+ASAP AES Set 4,10052,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,766
+ASAP AES Set 4,10037,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,885
+ASAP AES Set 4,10057,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,665
+ASAP AES Set 4,10069,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,717
+ASAP AES Set 4,9840,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,866
+ASAP AES Set 4,9738,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,2437
+ASAP AES Set 4,9570,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,720
+ASAP AES Set 4,9668,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,528
+ASAP AES Set 4,10091,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,714
+ASAP AES Set 4,10107,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,671
+ASAP AES Set 4,9905,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,557
+ASAP AES Set 4,10150,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,715
+ASAP AES Set 4,9939,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,512
+ASAP AES Set 4,10179,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,790
+ASAP AES Set 4,10173,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,796
+ASAP AES Set 4,10115,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1200
+ASAP AES Set 4,9951,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,755
+ASAP AES Set 4,9748,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1074
+ASAP AES Set 4,10210,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,673
+ASAP AES Set 4,10220,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,675
+ASAP AES Set 4,9992,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,708
+ASAP AES Set 4,10248,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,667
+ASAP AES Set 4,10269,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,714
+ASAP AES Set 4,10291,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,827
+ASAP AES Set 4,10297,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,677
+ASAP AES Set 4,10296,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,774
+ASAP AES Set 4,10326,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,723
+ASAP AES Set 4,10074,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,793
+ASAP AES Set 4,10363,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,606
+ASAP AES Set 4,10357,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,661
+ASAP AES Set 4,10340,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,688
+ASAP AES Set 4,9864,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,706
+ASAP AES Set 4,10366,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,685
+ASAP AES Set 4,10374,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,668
+ASAP AES Set 4,10127,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,679
+ASAP AES Set 4,10356,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,989
+ASAP AES Set 4,10377,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,712
+ASAP AES Set 4,10405,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,609
+ASAP AES Set 4,10188,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,773
+ASAP AES Set 4,9973,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,778
+ASAP AES Set 4,10431,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,788
+ASAP AES Set 4,10200,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,781
+ASAP AES Set 4,9986,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,923
+ASAP AES Set 4,10458,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,690
+ASAP AES Set 4,10235,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,758
+ASAP AES Set 4,10485,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,871
+ASAP AES Set 4,10527,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,642
+ASAP AES Set 4,10497,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1179
+ASAP AES Set 4,10569,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,616
+ASAP AES Set 4,10460,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1502
+ASAP AES Set 4,10594,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,799
+ASAP AES Set 4,10170,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,884
+ASAP AES Set 4,10474,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1844
+ASAP AES Set 4,10409,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,654
+ASAP AES Set 4,10196,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,634
+ASAP AES Set 4,10440,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,699
+ASAP AES Set 4,10619,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,780
+ASAP AES Set 4,10455,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,743
+ASAP AES Set 4,10444,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,833
+ASAP AES Set 4,10622,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,879
+ASAP AES Set 4,10417,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1053
+ASAP AES Set 4,10616,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1185
+ASAP AES Set 7,17845,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,792
+ASAP AES Set 7,17853,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,911
+ASAP AES Set 4,10631,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1472
+ASAP AES Set 4,10323,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,976
+ASAP AES Set 4,10529,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,900
+ASAP AES Set 4,10518,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1226
+ASAP AES Set 7,17872,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1143
+ASAP AES Set 7,17903,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,904
+ASAP AES Set 7,17918,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,761
+ASAP AES Set 7,17905,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,967
+ASAP AES Set 7,17927,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,807
+ASAP AES Set 4,10588,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,916
+ASAP AES Set 7,17881,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1404
+ASAP AES Set 4,10614,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,952
+ASAP AES Set 4,10615,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,698
+ASAP AES Set 4,10406,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,657
+ASAP AES Set 7,17930,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1122
+ASAP AES Set 7,17967,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,940
+ASAP AES Set 7,17964,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1106
+ASAP AES Set 7,17965,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1081
+ASAP AES Set 7,17982,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1051
+ASAP AES Set 7,17997,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,930
+ASAP AES Set 7,18026,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,785
+ASAP AES Set 7,17859,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,659
+ASAP AES Set 7,18014,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1127
+ASAP AES Set 4,10540,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,768
+ASAP AES Set 7,18072,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,861
+ASAP AES Set 4,10565,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,681
+ASAP AES Set 4,10553,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,831
+ASAP AES Set 4,10560,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,737
+ASAP AES Set 7,18049,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1170
+ASAP AES Set 7,17913,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,761
+ASAP AES Set 7,17891,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,898
+ASAP AES Set 7,17937,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2407
+ASAP AES Set 7,18129,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,944
+ASAP AES Set 7,18092,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1435
+ASAP AES Set 7,18133,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1106
+ASAP AES Set 7,18149,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1334
+ASAP AES Set 7,18238,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,781
+ASAP AES Set 7,18254,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,824
+ASAP AES Set 7,18152,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1680
+ASAP AES Set 7,18285,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,851
+ASAP AES Set 7,18226,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1367
+ASAP AES Set 7,18266,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1209
+ASAP AES Set 7,18062,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,692
+ASAP AES Set 7,18256,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1435
+ASAP AES Set 7,17986,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1481
+ASAP AES Set 7,18292,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,965
+ASAP AES Set 7,17871,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,836
+ASAP AES Set 7,18310,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1004
+ASAP AES Set 7,18057,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1020
+ASAP AES Set 7,18073,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1044
+ASAP AES Set 7,18106,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,808
+ASAP AES Set 7,18322,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1120
+ASAP AES Set 7,18355,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,803
+ASAP AES Set 7,18230,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2331
+ASAP AES Set 7,18358,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,785
+ASAP AES Set 7,18137,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,836
+ASAP AES Set 7,18253,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2388
+ASAP AES Set 7,18272,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2417
+ASAP AES Set 7,18403,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,854
+ASAP AES Set 7,18354,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1591
+ASAP AES Set 7,18430,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1037
+ASAP AES Set 7,18124,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2011
+ASAP AES Set 7,17987,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,3062
+ASAP AES Set 7,18475,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,998
+ASAP AES Set 7,18449,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1093
+ASAP AES Set 7,18391,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1624
+ASAP AES Set 7,18290,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,706
+ASAP AES Set 7,18480,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,829
+ASAP AES Set 7,18434,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1611
+ASAP AES Set 7,18169,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1871
+ASAP AES Set 7,17941,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1900
+ASAP AES Set 7,18484,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1017
+ASAP AES Set 7,18508,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1083
+ASAP AES Set 7,18369,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2477
+ASAP AES Set 7,18594,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,713
+ASAP AES Set 7,18572,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,837
+ASAP AES Set 7,18528,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1487
+ASAP AES Set 7,18524,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1600
+ASAP AES Set 7,18514,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1766
+ASAP AES Set 7,18608,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,845
+ASAP AES Set 7,18618,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,879
+ASAP AES Set 7,18564,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1102
+ASAP AES Set 7,18509,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1981
+ASAP AES Set 7,18631,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,972
+ASAP AES Set 7,18603,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1328
+ASAP AES Set 7,18664,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,906
+ASAP AES Set 7,18419,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1169
+ASAP AES Set 7,18438,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1006
+ASAP AES Set 7,18178,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1371
+ASAP AES Set 7,18554,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2259
+ASAP AES Set 7,18691,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,962
+ASAP AES Set 7,18694,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,888
+ASAP AES Set 7,18710,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,675
+ASAP AES Set 7,18672,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,0,0,1536
+ASAP AES Set 7,18696,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,994
+ASAP AES Set 7,18720,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,807
+ASAP AES Set 7,18436,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1657
+ASAP AES Set 7,18685,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1512
+ASAP AES Set 7,18529,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,803
+ASAP AES Set 7,18741,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1206
+ASAP AES Set 7,18336,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,878
+ASAP AES Set 7,18534,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1019
+ASAP AES Set 7,18705,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2079
+ASAP AES Set 7,18796,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,794
+ASAP AES Set 7,18769,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1096
+ASAP AES Set 7,18799,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,791
+ASAP AES Set 7,18777,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1190
+ASAP AES Set 7,18641,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1282
+ASAP AES Set 7,18792,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1315
+ASAP AES Set 7,18659,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1257
+ASAP AES Set 7,18680,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1077
+ASAP AES Set 7,18798,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1472
+ASAP AES Set 7,18855,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,888
+ASAP AES Set 7,18714,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1062
+ASAP AES Set 7,18868,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1055
+ASAP AES Set 7,18903,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,729
+ASAP AES Set 7,18708,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1281
+ASAP AES Set 7,18747,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,825
+ASAP AES Set 7,18751,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,891
+ASAP AES Set 7,18760,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,775
+ASAP AES Set 7,18801,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,551
+ASAP AES Set 7,18832,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2436
+ASAP AES Set 7,18956,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,756
+ASAP AES Set 7,18916,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1231
+ASAP AES Set 7,18754,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1240
+ASAP AES Set 7,18982,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,840
+ASAP AES Set 7,18983,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,955
+ASAP AES Set 7,18985,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1187
+ASAP AES Set 7,18933,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1817
+ASAP AES Set 7,18999,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,888
+ASAP AES Set 7,18940,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1780
+ASAP AES Set 7,19011,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1003
+ASAP AES Set 7,19028,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1069
+ASAP AES Set 7,18847,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1111
+ASAP AES Set 7,18915,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2274
+ASAP AES Set 7,19031,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1126
+ASAP AES Set 7,18902,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,676
+ASAP AES Set 7,18891,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,762
+ASAP AES Set 7,19092,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,990
+ASAP AES Set 7,19111,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,833
+ASAP AES Set 7,19116,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,960
+ASAP AES Set 7,19151,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,667
+ASAP AES Set 7,18787,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1027
+ASAP AES Set 7,19134,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1312
+ASAP AES Set 7,19094,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1653
+ASAP AES Set 7,19176,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,735
+ASAP AES Set 7,19187,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,609
+ASAP AES Set 7,19184,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,828
+ASAP AES Set 7,19158,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1414
+ASAP AES Set 7,19030,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,3241
+ASAP AES Set 7,19228,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,629
+ASAP AES Set 7,18881,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2528
+ASAP AES Set 7,19169,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1636
+ASAP AES Set 7,19192,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,880
+ASAP AES Set 7,18797,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1788
+ASAP AES Set 7,18991,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1422
+ASAP AES Set 7,19240,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1009
+ASAP AES Set 7,18848,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1369
+ASAP AES Set 7,19079,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1043
+ASAP AES Set 7,19078,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1130
+ASAP AES Set 7,19122,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,711
+ASAP AES Set 7,19286,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,981
+ASAP AES Set 7,19042,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1558
+ASAP AES Set 7,19163,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,587
+ASAP AES Set 7,19150,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,839
+ASAP AES Set 7,19304,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1094
+ASAP AES Set 7,19358,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,748
+ASAP AES Set 7,19350,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1065
+ASAP AES Set 7,19421,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1236
+ASAP AES Set 7,19462,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1195
+ASAP AES Set 7,19479,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,861
+ASAP AES Set 7,19387,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1497
+ASAP AES Set 7,19508,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1035
+ASAP AES Set 7,19253,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,924
+ASAP AES Set 7,19268,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,886
+ASAP AES Set 7,19068,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1310
+ELLIPSE,017D2125A1DE,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,657
+ASAP AES Set 7,19220,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1547
+ASAP AES Set 7,19554,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,820
+ASAP AES Set 7,19398,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,2290
+ELLIPSE,027CB6393714,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,910
+ASAP AES Set 7,19352,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,969
+ELLIPSE,03D00899C901,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,803
+ASAP AES Set 7,19491,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1960
+ASAP AES Set 7,19420,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,866
+ASAP AES Set 7,19357,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2820
+ELLIPSE,064423D845B1,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,820
+ELLIPSE,0F8436260047,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,655
+ELLIPSE,0016926B079C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1459
+ASAP AES Set 7,19338,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1561
+ASAP AES Set 7,19475,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,819
+ASAP AES Set 7,19463,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1206
+ELLIPSE,0A1482CD6163,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1198
+ASAP AES Set 7,19489,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1093
+ELLIPSE,17E521D5F29C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,970
+ELLIPSE,1AA55FB101FD,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,875
+ELLIPSE,28C8F048A469,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,914
+ELLIPSE,2723DB12AC00,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,956
+ELLIPSE,2A96CE614119,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,708
+ASAP AES Set 7,19263,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1076
+ELLIPSE,296B1DD1E251,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,958
+ELLIPSE,2A7997AE8E72,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,888
+ELLIPSE,01B3FDB3FD57,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,795
+ELLIPSE,33ADAAB38BFC,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,716
+ELLIPSE,2BE976C99FDF,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,960
+ELLIPSE,2EF984473EC5,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1005
+ELLIPSE,34553E598A00,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,731
+ELLIPSE,13578C0BCC3C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,711
+ELLIPSE,079FDB42E429,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,891
+ELLIPSE,1C2665B95694,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,654
+ASAP AES Set 7,19313,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1888
+ELLIPSE,1829D6D139C2,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,762
+ASAP AES Set 7,19471,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1317
+ELLIPSE,15B68B826F8D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1077
+ELLIPSE,2A4B5673EBAC,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,606
+ASAP AES Set 7,19499,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1227
+ELLIPSE,3D29C845934D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1460
+ELLIPSE,4ABC0ED00F91,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,831
+ELLIPSE,483EE18C996B,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,835
+ELLIPSE,3CDCFB2C7F25,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1688
+ELLIPSE,4D377B163021,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,914
+ELLIPSE,4D7E52C79A3D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,752
+ELLIPSE,2BA422F3619F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,837
+ELLIPSE,470D092F3831,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1073
+ELLIPSE,4EB4E8611272,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,791
+ELLIPSE,3418CB8125B3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,652
+ELLIPSE,51BAD5699073,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,927
+ELLIPSE,58567312BDAB,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,906
+ELLIPSE,34C829F3DC6A,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,828
+ELLIPSE,39776B3A4C70,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,809
+ELLIPSE,5C2A497012B9,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,680
+ELLIPSE,5DB370AD8EFB,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,632
+ELLIPSE,3DB503D247B3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,631
+ELLIPSE,4002D91C6B6C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,604
+ELLIPSE,5D693DD9978D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,899
+ELLIPSE,39524C93F4D4,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1141
+ELLIPSE,24C654C85C1F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,656
+ELLIPSE,6586DF43A92D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,976
+ELLIPSE,6792C2E73B6A,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,528
+ELLIPSE,5CF895003869,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1086
+ELLIPSE,69C15737269C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,639
+ELLIPSE,450A7F9AC54A,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,886
+ELLIPSE,674F5DA988D2,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,899
+ELLIPSE,6EF7CBB46501,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,599
+ELLIPSE,67E711AF87A2,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,874
+ELLIPSE,6805FE96E548,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,961
+ELLIPSE,70B91D253E27,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,732
+ELLIPSE,4EECC9B3CF7F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,684
+ELLIPSE,7138786DA45C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,757
+ELLIPSE,506A69171959,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,694
+ELLIPSE,750AFA674F45,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,836
+ELLIPSE,79098D096CB8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,935
+ELLIPSE,584C6453CA5A,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,826
+ELLIPSE,58E485E875D5,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,706
+ELLIPSE,8397368B57EA,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,684
+ELLIPSE,559902F0A513,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1195
+ELLIPSE,7F0B7DDE89B2,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,869
+ELLIPSE,6712BD512DB7,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,645
+ELLIPSE,8B1EB1890F9B,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,613
+ELLIPSE,7D955FAD0C73,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1102
+ELLIPSE,84CE7281265F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,819
+ELLIPSE,7E48A7A7B400,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1227
+ELLIPSE,410D72D3CCE8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,797
+ELLIPSE,90E2214EFEC8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,723
+ELLIPSE,902341F8EB11,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,812
+ELLIPSE,92B418CEA06E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,744
+ELLIPSE,5F407964AF46,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1193
+ELLIPSE,92B8F2F85C44,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,959
+ELLIPSE,998DA357F910,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,670
+ELLIPSE,9B4EEAAB752E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,672
+ELLIPSE,6B2FD789B8C8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,891
+ELLIPSE,757C5E55BA96,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,700
+ELLIPSE,9735E542665C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,917
+ELLIPSE,6CB7C1B3C548,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,896
+ELLIPSE,9DDBBA28EBD0,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,905
+ELLIPSE,9CE077EDCC85,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1099
+ELLIPSE,5902C2E86345,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,614
+ELLIPSE,7797541CF0A6,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1129
+ELLIPSE,7982F5F494E2,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,837
+ELLIPSE,AAE16C990870,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,593
+ELLIPSE,A975CBC4A7E8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,712
+ELLIPSE,A4DA4201903F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,814
+ELLIPSE,5A9C20C851FD,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,825
+ELLIPSE,8B9EEF86DD66,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,586
+ELLIPSE,82722CEBCAB3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,707
+ELLIPSE,84FC9651F650,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,787
+ELLIPSE,642E44E8DD25,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,923
+ELLIPSE,7B802407D629,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1248
+ELLIPSE,A9A152AAFBE1,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,974
+ELLIPSE,AFC600D922F6,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,667
+ELLIPSE,AF4A2E8AD2A5,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,800
+ELLIPSE,B2055DB7B29E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,708
+ELLIPSE,94ACF6006DB9,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,636
+ELLIPSE,B3145EA3395B,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,797
+ELLIPSE,B1C410876D33,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,847
+ELLIPSE,AE0DB193F5B5,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1004
+ELLIPSE,BCF16DEB277E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,619
+ELLIPSE,B6A5721D64C1,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,887
+ELLIPSE,B8F0ECC9DC86,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,897
+ELLIPSE,9DD22B9D10F4,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2431
+ELLIPSE,BDA166D1989A,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,718
+ELLIPSE,976E2E05C4EB,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,941
+ELLIPSE,C48A4DC42846,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,749
+ELLIPSE,BF580042A644,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,970
+ELLIPSE,A39660CA003E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,714
+ELLIPSE,C5CA6C22BAFE,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,646
+ELLIPSE,A4BBB301E3CE,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,680
+ELLIPSE,A3E6A572C6E5,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,809
+ELLIPSE,CA4941643D09,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,675
+ELLIPSE,CAC6822F740C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,685
+ELLIPSE,C97C2190DB65,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,768
+ELLIPSE,C8EBB096262B,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,829
+ELLIPSE,C6DDD966C9FC,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1031
+ELLIPSE,D0211302AE30,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,861
+ELLIPSE,AC5D4FAD6FDA,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,807
+ELLIPSE,D35A126B4379,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,623
+ELLIPSE,D30614F0911F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,682
+ELLIPSE,D390FE972D8F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,765
+ELLIPSE,D8934CA35801,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,764
+ELLIPSE,D41787486DA6,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,997
+ELLIPSE,E1AE7FDD072F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,562
+ELLIPSE,D7817C171926,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,952
+ELLIPSE,D684AE8A9418,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1147
+ELLIPSE,BB06ADBF1640,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,821
+ELLIPSE,C1EAD0C50570,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,651
+ELLIPSE,CEAD27DE3263,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1895
+ELLIPSE,A0A2D6856B0E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,646
+ELLIPSE,E110443F5184,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,993
+ELLIPSE,DD66EBC605D1,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1053
+ELLIPSE,E3611716918E,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,759
+ELLIPSE,9EADCECA2FB8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,666
+ELLIPSE,AD5F7E8C127F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1749
+ELLIPSE,E36B406AFE70,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,757
+ELLIPSE,E8795A1AA404,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,823
+ELLIPSE,D250DB9080E0,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,620
+ELLIPSE,E8B0698217A3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,808
+ELLIPSE,E96C0F9CE5E3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,878
+ELLIPSE,ABBE700093F0,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,2517
+ELLIPSE,E76B3F5205CD,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1131
+ELLIPSE,EA37D9C12C91,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,949
+ELLIPSE,A72A4397F9F5,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1170
+ELLIPSE,D5C7AA1266CC,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,639
+ELLIPSE,F05D3802BC94,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,682
+ELLIPSE,ED57CFEC1CF1,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,895
+ELLIPSE,EB03C897F7E8,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,933
+ELLIPSE,EC8590A774E6,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1027
+ELLIPSE,F12C7794CDCB,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,612
+ELLIPSE,DAD5BCDAB7DD,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,808
+ELLIPSE,F495D071AE60,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,638
+ELLIPSE,B9BA0955819D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,706
+ELLIPSE,F22FE8D7FA16,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,790
+ELLIPSE,EA40087521CC,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1596
+ELLIPSE,F50C9936F416,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,771
+ELLIPSE,E2F767441B44,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,825
+ELLIPSE,F2165F132C87,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1009
+ELLIPSE,FA08CD5A2E48,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,709
+ELLIPSE,F7DD6134C693,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,850
+ELLIPSE,F9072F36ECE7,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,831
+ELLIPSE,F3A5981B0288,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1127
+ELLIPSE,F584D9BB5F5C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,997
+ELLIPSE,D10BBD82D66F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,3877
+ELLIPSE,FAAFFC983E47,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,895
+ELLIPSE,FE1D0E5EA2EB,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,737
+ELLIPSE,523130079501,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,696
+ELLIPSE,FEA2C3FB45D1,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,850
+ELLIPSE,FF4CBDA0E418,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,747
+ELLIPSE,E6CF2D3B4FA2,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1088
+ELLIPSE,E21C97204867,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1651
+ELLIPSE,FEAF4F517583,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1006
+ELLIPSE,EB5924FBD25C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,939
+ELLIPSE,CD7201C66BBC,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1416
+ELLIPSE,DBAB680CBC5D,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,831
+ELLIPSE,EEEF81C2E133,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1123
+ELLIPSE,EFD563DFAC60,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1071
+ELLIPSE,DCEE7FD21CFD,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,843
+ELLIPSE,FA0A22FE957A,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,817
+ELLIPSE,FA2DE7E82907,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,871
+ELLIPSE,E6338A929654,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,662
+ELLIPSE,ED74D2C2403B,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,871
+ELLIPSE,FF190BD8380B,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,844
+ASAP AES Set 4,10094,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,721
+ASAP AES Set 4,9801,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,798
+ASAP AES Set 4,9875,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,804
+ASAP AES Set 4,9600,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,900
+ASAP 2.0 Set 1,AAAVUP14319000095189,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1066
+ASAP AES Set 4,10504,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,693
+ASAP AES Set 4,10330,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,708
+ASAP AES Set 4,10634,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,708
+ASAP AES Set 4,10576,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1184
+ASAP AES Set 4,10193,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,649
+ASAP AES Set 4,10167,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,731
+ASAP AES Set 7,18160,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,656
+ASAP AES Set 4,9149,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,729
+ASAP AES Set 7,17998,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,914
+ASAP AES Set 7,18362,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,726
+ASAP AES Set 4,10164,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,687
+ASAP AES Set 4,10230,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,688
+ASAP AES Set 4,9081,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1071
+ASAP AES Set 4,9874,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,765
+ASAP AES Set 4,10389,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,0,0,1835
+ASAP AES Set 4,9592,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1196
+ASAP AES Set 7,18477,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,846
+ASAP AES Set 7,18743,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,816
+ASAP AES Set 7,18624,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,784
+ASAP AES Set 7,18764,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,690
+ASAP AES Set 7,18407,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,884
+ASAP AES Set 7,18803,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,849
+ASAP AES Set 7,18761,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1179
+ASAP AES Set 7,19432,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,876
+ASAP AES Set 7,19402,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1247
+ELLIPSE,0465517EB6B7,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,729
+ASAP AES Set 7,19439,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1087
+ASAP AES Set 7,19516,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1093
+ASAP 2.0 Set 1,AAAVUP14319000143280,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,945
+ELLIPSE,50611B996992,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1148
+ELLIPSE,56E32CEEB127,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,748
+ELLIPSE,8F3B39C509B9,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,676
+ELLIPSE,F1620489BEB3,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,829
+ELLIPSE,206522E53696,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,740
+ELLIPSE,7949A941BF0F,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1921
+ELLIPSE,FB4D3D883D49,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1367
+ASAP AES Set 7,19081,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,825
+ASAP AES Set 7,19292,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1051
+ELLIPSE,B459B5B87707,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,1537
+ELLIPSE,D03CE04CF47C,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,608
+ASAP AES Set 4,9527,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,843
+ASAP AES Set 7,18955,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,857
+ASAP AES Set 7,19108,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,895
+ASAP AES Set 7,19036,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,0,1,0,2500
+ELLIPSE,2358C2CE9966,RQ4_non_grading_review_gemma_reasoning,review,google/gemma-4-31B-it,holistic,RQ2_holistic_hybrid_reasoning,Qwen/Qwen3.8-27B-FP8,1,1,1,1063

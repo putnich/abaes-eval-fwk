@@ -1,0 +1,31 @@
+experiments:
+- name: rq3-holistic-on
+  rq: RQ3
+  model: model_a
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: 'yes'
+  control:
+    baseline: rq3-holistic-off
+    "on": [reasoning]
+- name: rq3-holistic-off
+  rq: RQ3
+  model: model_a
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: 'no'
+- name: rq3-criterion_specialized-on
+  rq: RQ3
+  model: model_a
+  architecture: criterion_specialized
+  retrieval: hybrid
+  reasoning: 'yes'
+  control:
+    baseline: rq3-criterion_specialized-off
+    "on": [reasoning]
+- name: rq3-criterion_specialized-off
+  rq: RQ3
+  model: model_a
+  architecture: criterion_specialized
+  retrieval: hybrid
+  reasoning: 'no'

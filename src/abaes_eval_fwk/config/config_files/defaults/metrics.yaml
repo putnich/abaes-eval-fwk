@@ -1,0 +1,33 @@
+metrics:
+  # Which metrics to compute and include in output.
+  compute:
+    nmae: true          # Normalized Mean Absolute Error
+    nrmse: true         # Normalized Root Mean Squared Error
+    pearson: true       # Pearson correlation coefficient
+    spearman: true      # Spearman rank correlation coefficient
+    qwk: true           # Quadratic Weighted Kappa (inter-rater agreement)
+
+  # Reader-supplied metrics, as name -> module:function. The callable is passed preds, humans,
+  # and scale as keyword arguments and returns a number (NaN where the metric is undefined);
+  # its name becomes the column header, appended after the built-in columns above.
+  #   custom:
+  #     adjacent_agreement: extensions.metrics:adjacent_agreement
+  custom: {}
+
+  # Significance thresholds for the star markers in comparison tables.
+  significance_thresholds:
+    - p_value: 0.001    # ***
+    - p_value: 0.01     # **
+    - p_value: 0.05     # *
+
+  # Paired Wilcoxon signed-rank test used by `compare`.
+  wilcoxon:
+    alternative: "two-sided"  # two-sided, less, or greater
+    alpha: 0.05
+    zero_method: "wilcox"     # wilcox discards zero differences; pratt keeps them
+    method: "auto"            # auto, approx, or exact
+
+  # How two evaluated runs may be paired.
+  comparison:
+    allow_partial_overlap: false  # true compares only the datasets present in both runs
+    alpha: 0.05

@@ -1,0 +1,61 @@
+experiments:
+- name: model_a-holistic
+  rq: RQ2
+  model: model_a
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: ""
+- name: model_a-criterion
+  rq: RQ2
+  model: model_a
+  architecture: criterion_specialized
+  retrieval: hybrid
+  reasoning: ""
+  control:
+    baseline: model_a-holistic
+    "on": [architecture]
+- name: model_b-holistic
+  rq: RQ2
+  model: model_b
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: ""
+- name: model_b-criterion
+  rq: RQ2
+  model: model_b
+  architecture: criterion_specialized
+  retrieval: hybrid
+  reasoning: ""
+  control:
+    baseline: model_b-holistic
+    "on": [architecture]
+- name: model_c-holistic
+  rq: RQ2
+  model: model_c
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: ""
+- name: model_c-criterion
+  rq: RQ2
+  model: model_c
+  architecture: criterion_specialized
+  retrieval: hybrid
+  reasoning: ""
+  control:
+    baseline: model_c-holistic
+    "on": [architecture]
+- name: model_final-holistic
+  rq: RQ2
+  model: model_final
+  architecture: holistic
+  retrieval: hybrid
+  reasoning: ""
+- name: model_final-criterion
+  rq: RQ2
+  model: model_final
+  architecture: criterion_specialized
+  retrieval: hybrid
+  reasoning: ""
+  control:
+    baseline: model_final-holistic
+    "on": [architecture]

@@ -1,0 +1,58 @@
+name: CD
+
+on:
+  push:
+    tags: ['v*.*.*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Existing tag to release (e.g. v0.1.0)'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.tag || github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      # The dense extra serves the playground's semantic and hybrid experiments; the CPU index
+      # keeps torch from pulling CUDA wheels.
+      - run: >-
+          python -m pip install '.[dev,dense]'
+          --extra-index-url https://download.pytorch.org/whl/cpu
+      - run: python -m pytest
+      - run: python -m pytest -m integration
+
+  release:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.tag || github.ref_name }}
+          # Full history and tags, so setuptools-scm derives the version from the release tag.
+          fetch-depth: 0
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install build tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install build
+      - name: Build package
+        run: python -m build --sdist --wheel
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ inputs.tag || github.ref_name }}" dist/* --title "${{ inputs.tag || github.ref_name }}" --generate-notes

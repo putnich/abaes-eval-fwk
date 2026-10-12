@@ -1,0 +1,189 @@
+{
+  "sampling": {
+    "sample_size": 6,
+    "seed": 42,
+    "evaluation_strategy": "quantile_rank",
+    "calibration_strategy": "stratified",
+    "essay_ids": null
+  },
+  "datasets": [
+    {
+      "dataset": "Synthetic demo",
+      "rubric": {
+        "rubric_id": "Synthetic demo",
+        "assignment_type": "Synthetic installation test",
+        "source_dependent": false,
+        "prompt": "Explain how students could improve their school garden.",
+        "scale": {
+          "min": 0,
+          "max": 4
+        },
+        "rubric_guidelines": "Evaluate relevant ideas and clear organization on the 0 to 4 scale.",
+        "criteria": [
+          {
+            "name": "ideas",
+            "score_levels": [
+              {
+                "score": 0,
+                "guideline": "No relevant content"
+              },
+              {
+                "score": 1,
+                "guideline": "Minimal development"
+              },
+              {
+                "score": 2,
+                "guideline": "Partial development"
+              },
+              {
+                "score": 3,
+                "guideline": "Clear development"
+              },
+              {
+                "score": 4,
+                "guideline": "Thorough development"
+              }
+            ]
+          },
+          {
+            "name": "organization",
+            "score_levels": [
+              {
+                "score": 0,
+                "guideline": "No relevant content"
+              },
+              {
+                "score": 1,
+                "guideline": "Minimal development"
+              },
+              {
+                "score": 2,
+                "guideline": "Partial development"
+              },
+              {
+                "score": 3,
+                "guideline": "Clear development"
+              },
+              {
+                "score": 4,
+                "guideline": "Thorough development"
+              }
+            ]
+          }
+        ],
+        "is_dimension": false,
+        "criteria_scale": null,
+        "criteria_aggregation": "mean",
+        "criteria_weights": {},
+        "source_text": "",
+        "adjudication_rules": ""
+      },
+      "evaluation_ids": [
+        "demo-0-0",
+        "demo-0-3",
+        "demo-1-3",
+        "demo-2-2",
+        "demo-3-2",
+        "demo-4-2"
+      ],
+      "calibration_ids": [
+        "demo-0-1",
+        "demo-1-2",
+        "demo-2-3",
+        "demo-3-3",
+        "demo-4-3"
+      ],
+      "evaluation_sha256": "6e5c727ed3ea1dbda1725587df2c470b4f76aa26ea67a6739539b87c86392c54",
+      "calibration_sha256": "f91460221c46c1659a3fc00a02d6d827ae14572409ad21311cdda247ed12c884"
+    },
+    {
+      "dataset": "Synthetic demo B",
+      "rubric": {
+        "rubric_id": "Synthetic demo B",
+        "assignment_type": "Synthetic installation test",
+        "source_dependent": false,
+        "prompt": "Explain how students could improve their school garden.",
+        "scale": {
+          "min": 0,
+          "max": 4
+        },
+        "rubric_guidelines": "Evaluate relevant ideas and clear organization on the 0 to 4 scale.",
+        "criteria": [
+          {
+            "name": "ideas",
+            "score_levels": [
+              {
+                "score": 0,
+                "guideline": "No relevant content"
+              },
+              {
+                "score": 1,
+                "guideline": "Minimal development"
+              },
+              {
+                "score": 2,
+                "guideline": "Partial development"
+              },
+              {
+                "score": 3,
+                "guideline": "Clear development"
+              },
+              {
+                "score": 4,
+                "guideline": "Thorough development"
+              }
+            ]
+          },
+          {
+            "name": "organization",
+            "score_levels": [
+              {
+                "score": 0,
+                "guideline": "No relevant content"
+              },
+              {
+                "score": 1,
+                "guideline": "Minimal development"
+              },
+              {
+                "score": 2,
+                "guideline": "Partial development"
+              },
+              {
+                "score": 3,
+                "guideline": "Clear development"
+              },
+              {
+                "score": 4,
+                "guideline": "Thorough development"
+              }
+            ]
+          }
+        ],
+        "is_dimension": false,
+        "criteria_scale": null,
+        "criteria_aggregation": "mean",
+        "criteria_weights": {},
+        "source_text": "",
+        "adjudication_rules": ""
+      },
+      "evaluation_ids": [
+        "demo-b-0-0",
+        "demo-b-0-2",
+        "demo-b-1-3",
+        "demo-b-2-3",
+        "demo-b-3-3",
+        "demo-b-4-3"
+      ],
+      "calibration_ids": [
+        "demo-b-0-3",
+        "demo-b-1-1",
+        "demo-b-2-0",
+        "demo-b-3-2",
+        "demo-b-4-2"
+      ],
+      "evaluation_sha256": "fe89546b3d0b7cd4466c34f2979299d05f9f38f9021c44b828d69d0a1ae74def",
+      "calibration_sha256": "5e60c292961d45fd5f6fe7a432565fd53eec2ef64be3af93f16af21ff674ef5c"
+    }
+  ]
+}
